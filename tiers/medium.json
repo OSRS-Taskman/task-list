@@ -1554,7 +1554,12 @@
 			"tip": "Complete all the diary tasks. Don't really have much else to tell you.",
 			"wikiLink": "https://oldschool.runescape.wiki/w/Ardougne_Diary",
 			"imageLink": "https://oldschool.runescape.wiki/images/1/1b/Achievement_Diaries_icon.png",
-			"displayItemId": 19476
+			"displayItemId": 19476,
+			"verification": {
+				"method": "achievement-diary",
+				"varbit": 4459,
+				"count": 1
+			}
 		},
 		{
 			"id": "5d2d9461-00bc-431b-b943-0693bb8b0fb6",
@@ -1562,7 +1567,12 @@
 			"tip": "Complete all the diary tasks. Don't really have much else to tell you.",
 			"wikiLink": "https://oldschool.runescape.wiki/w/Desert_Diary",
 			"imageLink": "https://oldschool.runescape.wiki/images/1/1b/Achievement_Diaries_icon.png",
-			"displayItemId": 19476
+			"displayItemId": 19476,
+			"verification": {
+				"method": "achievement-diary",
+				"varbit": 4484,
+				"count": 1
+			}
 		},
 		{
 			"id": "a455bbf7-a570-494f-9753-643aeb83aca9",
@@ -1570,7 +1580,12 @@
 			"tip": "Complete all the diary tasks. Don't really have much else to tell you.",
 			"wikiLink": "https://oldschool.runescape.wiki/w/Falador_Diary",
 			"imageLink": "https://oldschool.runescape.wiki/images/1/1b/Achievement_Diaries_icon.png",
-			"displayItemId": 19476
+			"displayItemId": 19476,
+			"verification": {
+				"method": "achievement-diary",
+				"varbit": 4463,
+				"count": 1
+			}
 		},
 		{
 			"id": "958d1774-5ddb-4cb3-abdf-2772de4d024f",
@@ -1578,7 +1593,12 @@
 			"tip": "Complete all the diary tasks. Don't really have much else to tell you.",
 			"wikiLink": "https://oldschool.runescape.wiki/w/Fremennik_Diary",
 			"imageLink": "https://oldschool.runescape.wiki/images/1/1b/Achievement_Diaries_icon.png",
-			"displayItemId": 19476
+			"displayItemId": 19476,
+			"verification": {
+				"method": "achievement-diary",
+				"varbit": 4492,
+				"count": 1
+			}
 		},
 		{
 			"id": "f638ebcb-aebf-4c53-bd07-c0e683bc1072",
@@ -1586,7 +1606,12 @@
 			"tip": "Complete all the diary tasks. Don't really have much else to tell you.",
 			"wikiLink": "https://oldschool.runescape.wiki/w/Kandarin_Diary",
 			"imageLink": "https://oldschool.runescape.wiki/images/1/1b/Achievement_Diaries_icon.png",
-			"displayItemId": 19476
+			"displayItemId": 19476,
+			"verification": {
+				"method": "achievement-diary",
+				"varbit": 4476,
+				"count": 1
+			}
 		},
 		{
 			"id": "306c11a3-241a-49b8-8083-ea05124d72e9",
@@ -1594,7 +1619,12 @@
 			"tip": "Complete all the diary tasks. Don't really have much else to tell you.",
 			"wikiLink": "https://oldschool.runescape.wiki/w/Karamja_Diary",
 			"imageLink": "https://oldschool.runescape.wiki/images/1/1b/Achievement_Diaries_icon.png",
-			"displayItemId": 19476
+			"displayItemId": 19476,
+			"verification": {
+				"method": "achievement-diary",
+				"varbit": 3599,
+				"count": 2
+			}
 		},
 		{
 			"id": "19708dd7-fb75-4ebc-ad65-60697a0d6401",
@@ -1602,7 +1632,12 @@
 			"tip": "Complete all the diary tasks. Don't really have much else to tell you.",
 			"wikiLink": "https://oldschool.runescape.wiki/w/Kourend_%26_Kebos_Diary",
 			"imageLink": "https://oldschool.runescape.wiki/images/1/1b/Achievement_Diaries_icon.png",
-			"displayItemId": 19476
+			"displayItemId": 19476,
+			"verification": {
+				"method": "achievement-diary",
+				"varbit": 7926,
+				"count": 1
+			}
 		},
 		{
 			"id": "57b5ba2a-b2b0-4442-b767-1a8b35e3be0d",
@@ -1610,7 +1645,12 @@
 			"tip": "Complete all the diary tasks. FINALLY AVA'S DEVICE!",
 			"wikiLink": "https://oldschool.runescape.wiki/w/Lumbridge_%26_Draynor_Diary",
 			"imageLink": "https://oldschool.runescape.wiki/images/1/1b/Achievement_Diaries_icon.png",
-			"displayItemId": 19476
+			"displayItemId": 19476,
+			"verification": {
+				"method": "achievement-diary",
+				"varbit": 4496,
+				"count": 1
+			}
 		},
 		{
 			"id": "31e5ccaa-dd74-42d7-8749-2efdaaf01e4e",
@@ -1618,7 +1658,12 @@
 			"tip": "Complete all the diary tasks. Don't really have much else to tell you.",
 			"wikiLink": "https://oldschool.runescape.wiki/w/Morytania_Diary",
 			"imageLink": "https://oldschool.runescape.wiki/images/1/1b/Achievement_Diaries_icon.png",
-			"displayItemId": 19476
+			"displayItemId": 19476,
+			"verification": {
+				"method": "achievement-diary",
+				"varbit": 4488,
+				"count": 1
+			}
 		},
 		{
 			"id": "f59758a3-122e-4d8a-b2ed-5b908fc60a8c",
@@ -1626,7 +1671,12 @@
 			"tip": "Complete all the diary tasks. Don't really have much else to tell you.",
 			"wikiLink": "https://oldschool.runescape.wiki/w/Varrock_Diary",
 			"imageLink": "https://oldschool.runescape.wiki/images/1/1b/Achievement_Diaries_icon.png",
-			"displayItemId": 19476
+			"displayItemId": 19476,
+			"verification": {
+				"method": "achievement-diary",
+				"varbit": 4480,
+				"count": 1
+			}
 		},
 		{
 			"id": "993eb6f8-e30a-4f0a-977d-148b45e0f7f7",
@@ -1634,7 +1684,12 @@
 			"tip": "Complete all the diary tasks. Don't really have much else to tell you.",
 			"wikiLink": "https://oldschool.runescape.wiki/w/Western_Provinces_Diary",
 			"imageLink": "https://oldschool.runescape.wiki/images/1/1b/Achievement_Diaries_icon.png",
-			"displayItemId": 19476
+			"displayItemId": 19476,
+			"verification": {
+				"method": "achievement-diary",
+				"varbit": 4472,
+				"count": 1
+			}
 		},
 		{
 			"id": "59e36673-6808-4371-ba70-fd8d8003e5ef",
@@ -1642,7 +1697,12 @@
 			"tip": "Complete all the diary tasks. Don't really have much else to tell you.",
 			"wikiLink": "https://oldschool.runescape.wiki/w/Wilderness_Diary",
 			"imageLink": "https://oldschool.runescape.wiki/images/1/1b/Achievement_Diaries_icon.png",
-			"displayItemId": 19476
+			"displayItemId": 19476,
+			"verification": {
+				"method": "achievement-diary",
+				"varbit": 4467,
+				"count": 1
+			}
 		},
 		{
 			"id": "5052c1dc-d89e-4309-b978-8dbc79fa28b6",

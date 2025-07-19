@@ -32,12 +32,12 @@
 		},
 		"verification": {
 			"type": "object",
-			"required": ["method", "itemIds", "count"],
+			"required": ["method"],
 			"additionalProperties": false,
 			"properties": {
 				"method": {
 					"type": "string",
-					"const": "collection-log"
+					"enum": ["collection-log", "achievement-diary"]
 				},
 				"itemIds": {
 					"type": "array",
@@ -49,6 +49,28 @@
 				"count": {
 					"type": "integer",
 					"minimum": 1
+				},
+				"varbit": {
+					"type": "integer",
+					"minimum": 0
+				}
+			},
+			"if": {
+				"properties": {
+					"method": { "const": "collection-log" }
+				}
+			},
+			"then": {
+				"required": ["method", "itemIds", "count"]
+			},
+			"else": {
+				"if": {
+					"properties": {
+						"method": { "const": "achievement-diary" }
+					}
+				},
+				"then": {
+					"required": ["method", "varbit", "count"]
 				}
 			}
 		}
