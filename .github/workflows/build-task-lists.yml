@@ -9,8 +9,11 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    outputs:
+      changed: ${{ steps.verify-changed-files.outputs.changed }}
     permissions:
       contents: write
+      actions: write
 
     steps:
       - name: Checkout repository
@@ -51,3 +54,16 @@ jobs:
           git add lists/
           git commit -m "[auto-commit] Update joined task lists"
           git push
+
+      - name: Trigger sync workflow
+        if: steps.verify-changed-files.outputs.changed == 'true' && github.event_name == 'push'
+        uses: actions/github-script@v7
+        with:
+          github-token: ${{ github.token }}
+          script: |
+            await github.rest.actions.createWorkflowDispatch({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              workflow_id: 'sync-tedious-list.yml',
+              ref: 'main'
+            });
