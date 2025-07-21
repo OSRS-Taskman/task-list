@@ -31,52 +31,47 @@
 			"minimum": 0
 		},
 		"verification": {
-			"type": "object",
-			"required": ["method"],
-			"additionalProperties": false,
-			"properties": {
-				"method": {
-					"type": "string",
-					"enum": ["collection-log", "achievement-diary"]
-				},
-				"itemIds": {
-					"type": "array",
-					"items": {
-						"type": "integer",
-						"minimum": 0
-					}
-				},
-				"count": {
-					"type": "integer",
-					"minimum": 1
-				},
-				"region": {
-					"type": "string",
-					"minLength": 1
-				},
-				"difficulty": {
-					"type": "string",
-					"minLength": 1
-				}
-			},
-			"if": {
-				"properties": {
-					"method": { "const": "collection-log" }
-				}
-			},
-			"then": {
-				"required": ["method", "itemIds", "count"]
-			},
-			"else": {
-				"if": {
+			"anyOf": [
+				{
+					"type": "object",
+					"required": ["method", "itemIds", "count"],
+					"additionalProperties": false,
 					"properties": {
-						"method": { "const": "achievement-diary" }
+						"method": {
+							"type": "string",
+							"const": "collection-log"
+						},
+						"itemIds": {
+							"type": "array",
+							"items": {
+								"type": "integer",
+								"minimum": 0
+							}
+						},
+						"count": {
+							"type": "integer",
+							"minimum": 1
+						}
 					}
 				},
-				"then": {
-					"required": ["method", "region", "difficulty"]
+				{
+					"type": "object",
+					"required": ["method", "region", "difficulty"],
+					"additionalProperties": false,
+					"properties": {
+						"method": {
+							"type": "string",
+							"const": "achievement-diary"
+						},
+						"region": {
+							"type": "string"
+						},
+						"difficulty": {
+							"type": "string"
+						}
+					}
 				}
-			}
+			]
 		}
 	}
 }
