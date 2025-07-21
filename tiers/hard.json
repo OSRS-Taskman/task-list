@@ -1913,9 +1913,9 @@
 			"imageLink": "https://oldschool.runescape.wiki/images/1/1b/Achievement_Diaries_icon.png",
 			"displayItemId": 19476,
 			"verification": {
-			  "method": "achievement-diary",
-			  "region": "ardougne",
-			  "difficulty": "hard"
+				"method"    : "achievement-diary",
+				"region"    : "ardougne",
+				"difficulty": "hard"
 			}
 		},
 		{
@@ -1926,9 +1926,9 @@
 			"imageLink": "https://oldschool.runescape.wiki/images/1/1b/Achievement_Diaries_icon.png",
 			"displayItemId": 19476,
 			"verification": {
-			  "method": "achievement-diary",
-			  "region": "desert",
-			  "difficulty": "hard"
+				"method"    : "achievement-diary",
+				"region"    : "desert",
+				"difficulty": "hard"
 			}
 		},
 		{
@@ -1939,9 +1939,9 @@
 			"imageLink": "https://oldschool.runescape.wiki/images/1/1b/Achievement_Diaries_icon.png",
 			"displayItemId": 19476,
 			"verification": {
-			  "method": "achievement-diary",
-			  "region": "falador",
-			  "difficulty": "hard"
+				"method"    : "achievement-diary",
+				"region"    : "falador",
+				"difficulty": "hard"
 			}
 		},
 		{
@@ -1952,9 +1952,9 @@
 			"imageLink": "https://oldschool.runescape.wiki/images/1/1b/Achievement_Diaries_icon.png",
 			"displayItemId": 19476,
 			"verification": {
-			  "method": "achievement-diary",
-			  "region": "fremennik",
-			  "difficulty": "hard"
+				"method"    : "achievement-diary",
+				"region"    : "fremennik",
+				"difficulty": "hard"
 			}
 		},
 		{
@@ -1965,9 +1965,9 @@
 			"imageLink": "https://oldschool.runescape.wiki/images/1/1b/Achievement_Diaries_icon.png",
 			"displayItemId": 19476,
 			"verification": {
-			  "method": "achievement-diary",
-			  "region": "kandarin",
-			  "difficulty": "hard"
+				"method"    : "achievement-diary",
+				"region"    : "kandarin",
+				"difficulty": "hard"
 			}
 		},
 		{
@@ -1978,9 +1978,9 @@
 			"imageLink": "https://oldschool.runescape.wiki/images/1/1b/Achievement_Diaries_icon.png",
 			"displayItemId": 19476,
 			"verification": {
-			  "method": "achievement-diary",
-			  "region": "karamja",
-			  "difficulty": "hard"
+				"method"    : "achievement-diary",
+				"region"    : "karamja",
+				"difficulty": "hard"
 			}
 		},
 		{
@@ -1991,9 +1991,9 @@
 			"imageLink": "https://oldschool.runescape.wiki/images/1/1b/Achievement_Diaries_icon.png",
 			"displayItemId": 19476,
 			"verification": {
-			  "method": "achievement-diary",
-			  "region": "kourend & kebos",
-			  "difficulty": "hard"
+				"method"    : "achievement-diary",
+				"region"    : "kourend & kebos",
+				"difficulty": "hard"
 			}
 		},
 		{
@@ -2004,9 +2004,9 @@
 			"imageLink": "https://oldschool.runescape.wiki/images/1/1b/Achievement_Diaries_icon.png",
 			"displayItemId": 19476,
 			"verification": {
-			  "method": "achievement-diary",
-			  "region": "lumbridge & draynor",
-			  "difficulty": "hard"
+				"method"    : "achievement-diary",
+				"region"    : "lumbridge & draynor",
+				"difficulty": "hard"
 			}
 		},
 		{
@@ -2017,9 +2017,9 @@
 			"imageLink": "https://oldschool.runescape.wiki/images/1/1b/Achievement_Diaries_icon.png",
 			"displayItemId": 19476,
 			"verification": {
-			  "method": "achievement-diary",
-			  "region": "morytania",
-			  "difficulty": "hard"
+				"method"    : "achievement-diary",
+				"region"    : "morytania",
+				"difficulty": "hard"
 			}
 		},
 		{
@@ -2030,9 +2030,9 @@
 			"imageLink": "https://oldschool.runescape.wiki/images/1/1b/Achievement_Diaries_icon.png",
 			"displayItemId": 19476,
 			"verification": {
-			  "method": "achievement-diary",
-			  "region": "varrock",
-			  "difficulty": "hard"
+				"method"    : "achievement-diary",
+				"region"    : "varrock",
+				"difficulty": "hard"
 			}
 		},
 		{
@@ -2043,9 +2043,9 @@
 			"imageLink": "https://oldschool.runescape.wiki/images/1/1b/Achievement_Diaries_icon.png",
 			"displayItemId": 19476,
 			"verification": {
-			  "method": "achievement-diary",
-			  "region": "western provinces",
-			  "difficulty": "hard"
+				"method"    : "achievement-diary",
+				"region"    : "western provinces",
+				"difficulty": "hard"
 			}
 		},
 		{
@@ -2056,9 +2056,9 @@
 			"imageLink": "https://oldschool.runescape.wiki/images/1/1b/Achievement_Diaries_icon.png",
 			"displayItemId": 19476,
 			"verification": {
-			  "method": "achievement-diary",
-			  "region": "wilderness",
-			  "difficulty": "hard"
+				"method"    : "achievement-diary",
+				"region"    : "wilderness",
+				"difficulty": "hard"
 			}
 		},
 		{
