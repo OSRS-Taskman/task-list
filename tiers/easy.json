@@ -1889,7 +1889,7 @@
 			"displayItemId": 19476,
 			"verification": {
 				"method"    : "achievement-diary",
-				"region"    : "kourend & kebos",
+				"region"    : "kourend-and-kebos",
 				"difficulty": "easy"
 			}
 		},
@@ -1902,7 +1902,7 @@
 			"displayItemId": 19476,
 			"verification": {
 				"method"    : "achievement-diary",
-				"region"    : "lumbridge & draynor",
+				"region"    : "lumbridge-and-draynor",
 				"difficulty": "easy"
 			}
 		},
@@ -1941,7 +1941,7 @@
 			"displayItemId": 19476,
 			"verification": {
 				"method"    : "achievement-diary",
-				"region"    : "western provinces",
+				"region"    : "western-provinces",
 				"difficulty": "easy"
 			}
 		},

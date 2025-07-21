@@ -1,6 +1,29 @@
 {
 	"$id": "http://osrs-taskman.com/task.schema.json",
 	"$schema": "http://json-schema.org/draft-07/schema",
+	"definitions": {
+		"diary-region": {
+			"type": "string",
+			"enum": [
+				"ardougne",
+				"desert",
+				"falador",
+				"fremennik",
+				"kandarin",
+				"karamja",
+				"kourend-and-kebos",
+				"lumbridge-and-draynor",
+				"morytania",
+				"varrock",
+				"western-provinces",
+				"wilderness"
+			]
+		},
+		"diary-difficulty": {
+			"type": "string",
+			"enum": ["easy", "medium", "hard", "elite"]
+		}
+	},
 	"type": "object",
 	"required": ["id", "name", "wikiLink", "imageLink", "displayItemId"],
 	"additionalProperties": false,
@@ -64,10 +87,10 @@
 							"const": "achievement-diary"
 						},
 						"region": {
-							"type": "string"
+							"$ref": "#/definitions/diary-region"
 						},
 						"difficulty": {
-							"type": "string"
+							"$ref": "#/definitions/diary-difficulty"
 						}
 					}
 				}
