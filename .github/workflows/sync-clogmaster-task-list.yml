@@ -5,51 +5,32 @@ on:
     branches: ["main"]
     paths: ["lists/tedious.json"]
   workflow_dispatch:
-    inputs:
-      target_repo:
-        description: "Target repository (`owner/repo`)"
-        required: true
-        default: "OSRS-Taskman/generate-task"
-      target_path:
-        description: "Target file path in destination repo"
-        required: true
-        default: "src/main/resources/com/logmaster/domain/tedious.json"
 
 jobs:
   sync-tedious-list:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
-      pull-requests: write
 
     steps:
-      - name: Checkout source repository
+      - name: Checkout task list repository
         uses: actions/checkout@v4
 
-      - name: Set target repository
-        id: set-target
-        run: |
-          echo "target_repo=${{ github.event.inputs.target_repo }}" >> $GITHUB_OUTPUT
-          echo "target_path=${{ github.event.inputs.target_path }}" >> $GITHUB_OUTPUT
-
-      - name: Checkout target repository
+      - name: Checkout plugin repository
         uses: actions/checkout@v4
         with:
-          repository: ${{ steps.set-target.outputs.target_repo }}
-          token: ${{ secrets.ROBOT_GITHUB_TOKEN || github.token }}
-          path: target-repo
+          repository: OSRS-Taskman/generate-task
+          token: ${{ secrets.ROBOT_GITHUB_TOKEN }}
+          path: generate-task
 
-      - name: Copy tedious.json to target repository
+      - name: Copy task list to plugin repository
         run: |
-          mkdir -p target-repo/$(dirname "${{ steps.set-target.outputs.target_path }}")
-          cp lists/tedious.json "target-repo/${{ steps.set-target.outputs.target_path }}"
+          cp lists/tedious.json generate-task/src/main/resources/com/logmaster/domain/task-list.json
 
       - name: Create Pull Request
         id: create-pr
         uses: peter-evans/create-pull-request@v5
         with:
-          path: target-repo
-          token: ${{ secrets.ROBOT_GITHUB_TOKEN || github.token }}
+          path: generate-task
+          token: ${{ secrets.ROBOT_GITHUB_TOKEN }}
           commit-message: |
             [auto-sync] update task list
 
@@ -59,12 +40,11 @@ jobs:
             ## Automated Task List Update
 
             **Source:** ${{ github.repository }}@${{ github.sha }}
-            **Updated:** `${{ steps.set-target.outputs.target_path }}`
 
             Please review and merge when ready.
 
             ---
-            *Created automatically by GitHub Actions*
+            _Created automatically by GitHub Actions_
           branch: task-list/auto-sync
           delete-branch: true
           author: "[osrs-taskbot] <r.mobis+taskbot@gmail.com>"
@@ -72,16 +52,10 @@ jobs:
 
       - name: Create summary
         run: |
-          echo "## Sync Summary" >> $GITHUB_STEP_SUMMARY
-          echo "- **Source file**: \`lists/tedious.json\`" >> $GITHUB_STEP_SUMMARY
-          echo "- **Target repository**: \`${{ steps.set-target.outputs.target_repo }}\`" >> $GITHUB_STEP_SUMMARY
-          echo "- **Target path**: \`${{ steps.set-target.outputs.target_path }}\`" >> $GITHUB_STEP_SUMMARY
-
           if [ "${{ steps.create-pr.outputs.pull-request-number }}" != "" ]; then
-            echo "- **Status**: ✅ Pull request created/updated successfully" >> $GITHUB_STEP_SUMMARY
-            echo "- **PR Number**: #${{ steps.create-pr.outputs.pull-request-number }}" >> $GITHUB_STEP_SUMMARY
-            echo "- **PR URL**: ${{ steps.create-pr.outputs.pull-request-url }}" >> $GITHUB_STEP_SUMMARY
-            echo "- **Action**: Please review and merge the PR in the target repository" >> $GITHUB_STEP_SUMMARY
+            echo "## ✅ Pull Request ${{ steps.create-pr.outputs.pull-request-operation }}" >> $GITHUB_STEP_SUMMARY
+            echo "- **PR Link**: ${{ steps.create-pr.outputs.pull-request-url }}" >> $GITHUB_STEP_SUMMARY
+            echo "_Please review and merge the PR in the target repository_" >> $GITHUB_STEP_SUMMARY
           else
-            echo "- **Status**: ℹ️ No changes detected, no PR needed" >> $GITHUB_STEP_SUMMARY
+            echo "## ℹ️ No changes detected" >> $GITHUB_STEP_SUMMARY
           fi
