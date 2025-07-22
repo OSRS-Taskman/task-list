@@ -45,8 +45,7 @@ jobs:
       - name: Generate types
         run: npm run gen:types
 
-      - name: Check for changes
-        id: verify-changed-files
+      - name: Ensure types are up to date
         run: |
           if [ -n "$(git status --porcelain)" ]; then
             exit 1
@@ -71,8 +70,7 @@ jobs:
       - name: Build task lists
         run: npm run gen:lists
 
-      - name: Check for changes
-        id: verify-changed-files
+      - name: Ensure lists are up to date
         run: |
           if [ -n "$(git status --porcelain)" ]; then
             exit 1

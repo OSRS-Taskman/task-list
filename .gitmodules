@@ -1,8 +1,0 @@
-[submodule "ext/clog-master"]
-	path = ext/clog-master
-	url = git@github.com:RedSparr0w/runelite-generate-task.git
-	branch = sparr0w/auto-sync
-[submodule "ext/taskapp"]
-	path = ext/taskapp
-	url = git@github.com:rmobis/Taskapp_Public.git
-	branch = rmobis/pre-unify

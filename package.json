@@ -1,6 +1,5 @@
 {
 	"scripts": {
-		"convert:web": "tsx bin/convert-web.mts",
 		"format:ultracite": "ultracite format",
 		"format:tasks": "tsx bin/frac.mts tiers/*.json",
 		"format": "npm run format:ultracite && npm run format:tasks",
