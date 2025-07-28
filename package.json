@@ -3,15 +3,17 @@
 		"format:ultracite": "ultracite format",
 		"format:tasks": "tsx bin/frac.mts tiers/*.json",
 		"format": "npm run format:ultracite && npm run format:tasks",
-		"validate-schema": "tsx bin/validate-schema.mts",
 		"lint:ultracite": "ultracite lint",
 		"lint:tasks": "tsx bin/frac.mts --lint tiers/*.json",
-		"lint": "npm run lint:ultracite && npm run lint:tasks",
+		"lint:schema": "tsx bin/validate-schema.mts",
+		"lint": "npm run lint:ultracite && npm run lint:tasks && npm run lint:schema",
 		"gen:types": "tsx bin/gen-types.mts",
+		"gen:uuids": "npx tsx bin/gen-uuids.mts",
 		"gen:lists:official": "tsx bin/gen-list.mts official easy,medium,hard,elite,master",
 		"gen:lists:tedious": "tsx bin/gen-list.mts tedious easy,medium,hard,elite,master-tedious",
 		"gen:lists": "npm run gen:lists:official && npm run gen:lists:tedious",
-		"all": "npm run format && npm run lint && npm run validate-schema && npm run gen:types && npm run gen:lists"
+		"gen": "npm run gen:types && npm run gen:uuids && npm run gen:lists",
+		"all": "npm run format && npm run list:schema && npm run gen"
 	},
 	"devDependencies": {
 		"@biomejs/biome": "2.0.6",
