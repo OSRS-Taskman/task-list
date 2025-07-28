@@ -541,7 +541,7 @@
 					12653, 12655, 12816, 12921, 13177, 13178, 13179, 13181, 13225, 13247, 13262,
 					20851, 21273, 21291, 21748, 21992, 22473, 22746, 23495, 23757, 24491, 26348,
 					27352, 27590, 28246, 28248, 28250, 28252, 28801, 28960, 29836, 30152, 30154,
-					30622, 30888
+					30622, 30888, 31130
 				],
 				"count": 2
 			}
@@ -579,7 +579,7 @@
 					12653, 12655, 12816, 12921, 13177, 13178, 13179, 13181, 13225, 13247, 13262,
 					20851, 21273, 21291, 21748, 21992, 22473, 22746, 23495, 23757, 24491, 26348,
 					27352, 27590, 28246, 28248, 28250, 28252, 28801, 28960, 29836, 30152, 30154,
-					30622, 30888
+					30622, 30888, 30888
 				],
 				"count": 4
 			}
@@ -3341,6 +3341,32 @@
 					30750, 30753, 30756, 30759, 30763, 30765, 30775, 30795, 30805, 30806
 				],
 				"count": 7
+			}
+		},
+		{
+			"id": "03bcbb0b-fcc3-4a7a-9afe-8906d9da8cfe",
+			"name": "Get 1 unique from Doom of Mokhaiotl",
+			"tip": "Giant, insect-like, demonic boss found in the Tonali Cavern after completion of The Final Dawn quest.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Doom_of_Mokhaiotl",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Eye_of_ayak_detail.png/320px-Eye_of_ayak_detail.png",
+			"displayItemId": 31113,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 31111, 31099, 31109, 31113, 31088 ],
+				"count": 3
+			}
+		},
+		{
+			"id": "c847f79a-3473-48a4-915d-b2874c4f4544",
+			"name": "Get 1 unique from Doom of Mokhaiotl",
+			"tip": "Giant, insect-like, demonic boss found in the Tonali Cavern after completion of The Final Dawn quest.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Doom_of_Mokhaiotl",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Eye_of_ayak_detail.png/320px-Eye_of_ayak_detail.png",
+			"displayItemId": 31113,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 31111, 31099, 31109, 31113, 31088 ],
+				"count": 4
 			}
 		}
 	]
