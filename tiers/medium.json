@@ -2527,6 +2527,32 @@
 				],
 				"count": 6
 			}
+		},
+		{
+			"id": "",
+			"name": "Get 1 unique from Vale Totems",
+			"tip": "This fletching minigame takes place in Auburn Valley. You can chop you own logs.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Vale_Totems",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Vale_offerings_detail.png/320px-Vale_offerings_detail.png",
+			"displayItemId": 31054,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 31032, 31052, 31043, 31034 ],
+				"count": 3
+			}
+		},
+		{
+			"id": "",
+			"name": "Get 1 unique from Vale Totems",
+			"tip": "This fletching minigame takes place in Auburn Valley. You can chop you own logs.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Vale_Totems",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Vale_offerings_detail.png/320px-Vale_offerings_detail.png",
+			"displayItemId": 31054,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 31032, 31052, 31043, 31034 ],
+				"count": 4
+			}
 		}
 	]
 }
