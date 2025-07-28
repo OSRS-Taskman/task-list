@@ -2553,6 +2553,45 @@
 				"itemIds": [ 31032, 31052, 31043, 31034 ],
 				"count": 4
 			}
+		},
+		{
+			"id": "",
+			"name": "Get 1 unique from Custodian stalkers",
+			"tip": "Three different variants can be found inside the Stalker Den in Varlamare, after completion of the Shadows of Custodia quest.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Custodian_stalker",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Antler_guard_detail.png/320px-Antler_guard_detail.png",
+			"displayItemId": 31081,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 31086, 31081, 31084 ],
+				"count": 1
+			}
+		},
+		{
+			"id": "",
+			"name": "Get 1 unique from Custodian stalkers",
+			"tip": "Three different variants can be found inside the Stalker Den in Varlamare, after completion of the Shadows of Custodia quest.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Custodian_stalker",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Antler_guard_detail.png/320px-Antler_guard_detail.png",
+			"displayItemId": 31081,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 31086, 31081, 31084 ],
+				"count": 2
+			}
+		},
+		{
+			"id": "",
+			"name": "Get 1 unique from Custodian stalkers",
+			"tip": "Three different variants can be found inside the Stalker Den in Varlamare, after completion of the Shadows of Custodia quest.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Custodian_stalker",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Antler_guard_detail.png/320px-Antler_guard_detail.png",
+			"displayItemId": 31081,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 31086, 31081, 31084 ],
+				"count": 3
+			}
 		}
 	]
 }
