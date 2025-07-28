@@ -2592,6 +2592,19 @@
 				"itemIds": [ 31086, 31081, 31084 ],
 				"count": 3
 			}
+		},
+		{
+			"id": "",
+			"name": "Get the Earthbound tecpatl",
+			"tip": "Dropped from Earthen naguas in the Tonali Cavern, after progression in The Final Dawn quest.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Earthbound_tecpatl",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Earthbound_tecpatl_detail.png/225px-Earthbound_tecpatl_detail.png",
+			"displayItemId": 30957,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 30957 ],
+				"count": 1
+			}
 		}
 	]
 }
