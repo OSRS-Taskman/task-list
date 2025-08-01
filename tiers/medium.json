@@ -2494,7 +2494,7 @@
 		{
 			"id": "8faa724f-442a-48f2-9576-33d6ef1cd4a0",
 			"name": "Get a Huasca seed",
-			"tip": "Can be received as a drop from the Amoxliatl.",
+			"tip": "Can be received as a drop from the Hueycoatl, Amoxliatl or Custodian stalkers. Pick any of those you can access without additional quests.",
 			"wikiLink": "https://oldschool.runescape.wiki/w/Huasca_seed",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Huasca_seed_detail.png/200px-Huasca_seed_detail.png",
 			"displayItemId": 30088,
@@ -2518,6 +2518,84 @@
 					30060
 				],
 				"count": 6
+			}
+		},
+		{
+			"id": "f3a0cc76-6f55-426e-8440-5a47e6920a84",
+			"name": "Get 1 unique from Vale Totems",
+			"tip": "This fletching minigame takes place in Auburn Valley. You can chop you own logs.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Vale_Totems",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Vale_offerings_detail.png/320px-Vale_offerings_detail.png",
+			"displayItemId": 31054,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 31032, 31052, 31043, 31034 ],
+				"count": 3
+			}
+		},
+		{
+			"id": "c47d1afa-63ba-4235-be79-425d345375b7",
+			"name": "Get 1 unique from Vale Totems",
+			"tip": "This fletching minigame takes place in Auburn Valley. You can chop you own logs.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Vale_Totems",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Vale_offerings_detail.png/320px-Vale_offerings_detail.png",
+			"displayItemId": 31054,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 31032, 31052, 31043, 31034 ],
+				"count": 4
+			}
+		},
+		{
+			"id": "b8d6aac5-2580-4ca1-8129-a1f71d4c4ebf",
+			"name": "Get 1 unique from Custodian stalkers",
+			"tip": "Three different variants can be found inside the Stalker Den in Varlamare, after completion of the Shadows of Custodia quest.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Custodian_stalker",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Antler_guard_detail.png/320px-Antler_guard_detail.png",
+			"displayItemId": 31081,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 31086, 31081, 31084 ],
+				"count": 1
+			}
+		},
+		{
+			"id": "9ebbb378-a2c2-438e-9481-784d7ed7a8cf",
+			"name": "Get 1 unique from Custodian stalkers",
+			"tip": "Three different variants can be found inside the Stalker Den in Varlamare, after completion of the Shadows of Custodia quest.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Custodian_stalker",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Antler_guard_detail.png/320px-Antler_guard_detail.png",
+			"displayItemId": 31081,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 31086, 31081, 31084 ],
+				"count": 2
+			}
+		},
+		{
+			"id": "5e135307-dc58-4873-b89d-b6c68484aa07",
+			"name": "Get 1 unique from Custodian stalkers",
+			"tip": "Three different variants can be found inside the Stalker Den in Varlamare, after completion of the Shadows of Custodia quest.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Custodian_stalker",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Antler_guard_detail.png/320px-Antler_guard_detail.png",
+			"displayItemId": 31081,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 31086, 31081, 31084 ],
+				"count": 3
+			}
+		},
+		{
+			"id": "ab8b387e-c395-4fc0-8b8a-33991887eb63",
+			"name": "Get the Earthbound tecpatl",
+			"tip": "Dropped from Earthen naguas in the Tonali Cavern, after progression in The Final Dawn quest.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Earthbound_tecpatl",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Earthbound_tecpatl_detail.png/225px-Earthbound_tecpatl_detail.png",
+			"displayItemId": 30957,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 30957 ],
+				"count": 1
 			}
 		}
 	]
