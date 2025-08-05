@@ -19,6 +19,7 @@ export interface Task {
 	wikiLink: string;
 	imageLink: string;
 	displayItemId: number;
+	tags?: KeyNameFromDefinitionItems[];
 	verification?:
 		| {
 				method: Method;
@@ -173,6 +174,13 @@ export interface TaskList {
 	[k: string]: Task[];
 }
 
+/**
+ * This interface was referenced by `Task`'s JSON-Schema
+ * via the `definition` "tag".
+ */
+export const enum KeyNameFromDefinitionItems {
+	Lms = 'lms'
+}
 export const enum Method {
 	CollectionLog = 'collection-log'
 }
