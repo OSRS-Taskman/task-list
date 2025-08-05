@@ -1815,6 +1815,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Last_Man_Standing",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/1/19/Ward_upgrade_kit_detail.png/150px-Ward_upgrade_kit_detail.png",
 			"displayItemId": 12802,
+			"tags": [ "lms" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [ 12802 ],
@@ -1828,6 +1829,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Last_Man_Standing",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/6/6b/Granite_clamp_detail.png/150px-Granite_clamp_detail.png",
 			"displayItemId": 12849,
+			"tags": [ "lms" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [ 12849 ],
@@ -1841,6 +1843,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Last_Man_Standing",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/5/59/Volcanic_whip_mix_detail_animated.gif/120px-Volcanic_whip_mix_detail_animated.gif",
 			"displayItemId": 12771,
+			"tags": [ "lms" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [ 12771 ],
@@ -1854,6 +1857,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Last_Man_Standing",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/e/e4/Frozen_whip_mix_detail.png/120px-Frozen_whip_mix_detail.png",
 			"displayItemId": 12769,
+			"tags": [ "lms" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [ 12769 ],
@@ -1867,6 +1871,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Last_Man_Standing",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/3/3e/Steam_staff_upgrade_kit_detail.png/150px-Steam_staff_upgrade_kit_detail.png",
 			"displayItemId": 12798,
+			"tags": [ "lms" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [ 12798 ],
@@ -1880,6 +1885,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Last_Man_Standing",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/c/c9/Lava_staff_upgrade_kit_detail.png/150px-Lava_staff_upgrade_kit_detail.png",
 			"displayItemId": 21202,
+			"tags": [ "lms" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [ 21202 ],
@@ -1893,6 +1899,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Last_Man_Standing",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/f/f8/Dragon_pickaxe_upgrade_kit_detail.png/150px-Dragon_pickaxe_upgrade_kit_detail.png",
 			"displayItemId": 12800,
+			"tags": [ "lms" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [ 12800 ],
@@ -1906,6 +1913,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Last_Man_Standing",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/a/a2/Ornate_maul_handle_detail.png/120px-Ornate_maul_handle_detail.png",
 			"displayItemId": 24229,
+			"tags": [ "lms" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [ 24229 ],
