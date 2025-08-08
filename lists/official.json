@@ -12918,7 +12918,9 @@
 			"displayItemId": 20724,
 			"verification": {
 				"method": "collection-log",
-				"itemIds": [ 20724, 21270, 23047, 23050, 23053, 23056, 23059, 22963 ],
+				"itemIds": [
+					20724, 21270, 23047, 23050, 23053, 23056, 23059, 22963, 11286, 21637
+				],
 				"count": 1
 			}
 		},
@@ -12931,7 +12933,9 @@
 			"displayItemId": 20724,
 			"verification": {
 				"method": "collection-log",
-				"itemIds": [ 20724, 21270, 23047, 23050, 23053, 23056, 23059, 22963 ],
+				"itemIds": [
+					20724, 21270, 23047, 23050, 23053, 23056, 23059, 22963, 11286, 21637
+				],
 				"count": 2
 			}
 		},
@@ -12944,7 +12948,9 @@
 			"displayItemId": 20724,
 			"verification": {
 				"method": "collection-log",
-				"itemIds": [ 20724, 21270, 23047, 23050, 23053, 23056, 23059, 22963 ],
+				"itemIds": [
+					20724, 21270, 23047, 23050, 23053, 23056, 23059, 22963, 11286, 21637
+				],
 				"count": 3
 			}
 		},
@@ -12957,7 +12963,9 @@
 			"displayItemId": 20724,
 			"verification": {
 				"method": "collection-log",
-				"itemIds": [ 20724, 21270, 23047, 23050, 23053, 23056, 23059, 22963 ],
+				"itemIds": [
+					20724, 21270, 23047, 23050, 23053, 23056, 23059, 22963, 11286, 21637
+				],
 				"count": 4
 			}
 		},
@@ -12970,7 +12978,9 @@
 			"displayItemId": 20724,
 			"verification": {
 				"method": "collection-log",
-				"itemIds": [ 20724, 21270, 23047, 23050, 23053, 23056, 23059, 22963 ],
+				"itemIds": [
+					20724, 21270, 23047, 23050, 23053, 23056, 23059, 22963, 11286, 21637
+				],
 				"count": 5
 			}
 		},
@@ -12983,7 +12993,9 @@
 			"displayItemId": 20724,
 			"verification": {
 				"method": "collection-log",
-				"itemIds": [ 20724, 21270, 23047, 23050, 23053, 23056, 23059, 22963 ],
+				"itemIds": [
+					20724, 21270, 23047, 23050, 23053, 23056, 23059, 22963, 11286, 21637
+				],
 				"count": 6
 			}
 		},
@@ -13108,14 +13120,14 @@
 		},
 		{
 			"id": "08a9dd78-a0d5-4497-9277-4b66097dba4b",
-			"name": "Obtain a Dragonbone necklace",
+			"name": "Get 1 Vorkath unique",
 			"tip": "A rare drop from Vorkath",
 			"wikiLink": "https://oldschool.runescape.wiki/w/Vorkath",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Dragonbone_necklace_detail.png/147px-Dragonbone_necklace_detail.png",
 			"displayItemId": 22111,
 			"verification": {
 				"method": "collection-log",
-				"itemIds": [ 22111 ],
+				"itemIds": [ 22111, 22006 ],
 				"count": 1
 			}
 		},
