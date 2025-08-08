@@ -13,7 +13,7 @@
 		"gen:lists:tedious": "tsx bin/gen-list.mts tedious easy,medium,hard,elite,master-tedious",
 		"gen:lists": "npm run gen:lists:official && npm run gen:lists:tedious",
 		"gen": "npm run gen:types && npm run gen:uuids && npm run gen:lists",
-		"all": "npm run format && npm run list:schema && npm run gen"
+		"all": "npm run format && npm run lint && npm run gen"
 	},
 	"devDependencies": {
 		"@biomejs/biome": "2.0.6",
