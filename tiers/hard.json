@@ -3149,10 +3149,10 @@
 			"tip": "Giant, insect-like, demonic boss found in the Tonali Cavern after completion of The Final Dawn quest.",
 			"wikiLink": "https://oldschool.runescape.wiki/w/Doom_of_Mokhaiotl",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Eye_of_ayak_detail.png/320px-Eye_of_ayak_detail.png",
-			"displayItemId": 31113,
+			"displayItemId": 31115,
 			"verification": {
 				"method": "collection-log",
-				"itemIds": [ 31111, 31099, 31109, 31113, 31088 ],
+				"itemIds": [ 31111, 31099, 31109, 31115, 31088 ],
 				"count": 1
 			}
 		},
@@ -3162,10 +3162,10 @@
 			"tip": "Giant, insect-like, demonic boss found in the Tonali Cavern after completion of The Final Dawn quest.",
 			"wikiLink": "https://oldschool.runescape.wiki/w/Doom_of_Mokhaiotl",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Eye_of_ayak_detail.png/320px-Eye_of_ayak_detail.png",
-			"displayItemId": 31113,
+			"displayItemId": 31115,
 			"verification": {
 				"method": "collection-log",
-				"itemIds": [ 31111, 31099, 31109, 31113, 31088 ],
+				"itemIds": [ 31111, 31099, 31109, 31115, 31088 ],
 				"count": 2
 			}
 		}
