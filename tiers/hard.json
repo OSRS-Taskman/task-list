@@ -2998,6 +2998,19 @@
 			}
 		},
 		{
+			"id": "1b5ff8e4-3cef-4d3a-8476-2091a0aac5b6",
+			"name": "Get 1 unique from Tormented Demons",
+			"tip": "Can be obtained when killing Tormented Demons",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Tormented_demon",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Tormented_synapse_detail.png/200px-Tormented_synapse_detail.png",
+			"displayItemId": 29580,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 29574, 29580, 29684 ],
+				"count": 3
+			}
+		},
+		{
 			"id": "9d7b0542-d31c-476a-afad-58541e4674bd",
 			"name": "Get 1 unique from Araxytes/Araxxor",
 			"tip": "Can be obtained when killing Araxytes/Araxxor",
