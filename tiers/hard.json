@@ -3012,14 +3012,14 @@
 		},
 		{
 			"id": "9d7b0542-d31c-476a-afad-58541e4674bd",
-			"name": "Get 1 unique from Araxytes/Araxxor",
-			"tip": "Can be obtained when killing Araxytes/Araxxor",
-			"wikiLink": "https://oldschool.runescape.wiki/w/Araxxor",
-			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Araxyte_fang_detail.png/200px-Araxyte_fang_detail.png",
-			"displayItemId": 29799,
+			"name": "Get the Aranea Boots",
+			"tip": "Can be obtained when killing Araxytes, with 2.5x drop chance when on task!",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Aranea_boots",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Aranea_boots_detail.png/200px-Aranea_boots_detail.png",
+			"displayItemId": 29806,
 			"verification": {
 				"method": "collection-log",
-				"itemIds": [ 29781, 29782, 29784, 29788, 29790, 29792, 29794, 29799, 29806 ],
+				"itemIds": [ 29806 ],
 				"count": 1
 			}
 		},
@@ -3032,8 +3032,8 @@
 			"displayItemId": 29799,
 			"verification": {
 				"method": "collection-log",
-				"itemIds": [ 29781, 29782, 29784, 29788, 29790, 29792, 29794, 29799, 29806 ],
-				"count": 2
+				"itemIds": [ 29781, 29782, 29784, 29788, 29790, 29792, 29794, 29799 ],
+				"count": 1
 			}
 		},
 		{
@@ -3045,8 +3045,8 @@
 			"displayItemId": 29799,
 			"verification": {
 				"method": "collection-log",
-				"itemIds": [ 29781, 29782, 29784, 29788, 29790, 29792, 29794, 29799, 29806 ],
-				"count": 3
+				"itemIds": [ 29781, 29782, 29784, 29788, 29790, 29792, 29794, 29799 ],
+				"count": 2
 			}
 		},
 		{
