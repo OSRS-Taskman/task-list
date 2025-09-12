@@ -23,7 +23,7 @@ jobs:
 
       - name: Copy task list to plugin repository
         run: |
-          cp lists/tedious.json collection-log-master/src/main/resources/com/logmaster/domain/task-list.json
+          cp lists/tedious.json collection-log-master/src/main/resources/com/collectionlogmaster/task-list.json
 
       - name: Create Pull Request
         id: create-pr
