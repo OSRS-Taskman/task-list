@@ -3,8 +3,7 @@ name: Synchronize Clog Master Plugin Task List
 on:
   push:
     branches: ["main"]
-    paths:
-      ["lists/tedious.json", ".github/workflows/sync-clogmaster-task-list.yml"]
+    paths: ["tiers/*.json", ".github/workflows/sync-clogmaster-task-list.yml"]
   workflow_dispatch:
 
 jobs:
@@ -25,7 +24,7 @@ jobs:
         run: npm ci
 
       - name: Generate list
-        run: npm run list:tedious
+        run: npm run gen:list:tedious
 
       - name: Checkout plugin repository
         uses: actions/checkout@v4
