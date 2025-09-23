@@ -1,4 +1,4 @@
-import { readFile, writeFile } from 'node:fs/promises';
+import { mkdir, readFile, writeFile } from 'node:fs/promises';
 import { exit } from 'node:process';
 import type { ValidateFunction } from 'ajv';
 import type { TaskList, TaskTier } from '@/types.js';
@@ -23,6 +23,8 @@ for (const tier of listTiers) {
 
 	listData[tierData.name] = tierData.tasks;
 }
+
+await mkdir('./lists');
 
 // @ts-expect-error
 await writeFile(`./lists/${listName}.json`, fmt.Serialize(listData));
