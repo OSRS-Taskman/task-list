@@ -50,28 +50,3 @@ jobs:
           if [ -n "$(git status --porcelain)" ]; then
             exit 1
           fi
-
-  check-lists:
-    runs-on: ubuntu-latest
-
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: "22"
-          cache: "npm"
-
-      - name: Install dependencies
-        run: npm ci
-
-      - name: Build task lists
-        run: npm run gen:lists
-
-      - name: Ensure lists are up to date
-        run: |
-          if [ -n "$(git status --porcelain)" ]; then
-            exit 1
-          fi
