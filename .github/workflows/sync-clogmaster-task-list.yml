@@ -32,37 +32,7 @@ jobs:
           cp lists/tedious.json collection-log-master/src/main/resources/com/collectionlogmaster/domain/task-list.json
           cp lists/tedious.json collection-log-master/src/main/resources/com/logmaster/domain/task-list.json
 
-      - name: Create Pull Request
-        id: create-pr
-        uses: peter-evans/create-pull-request@v5
+      - name: Create PR
+        uses: ./.github/actions/create-pr
         with:
-          path: collection-log-master
-          token: ${{ secrets.ROBOT_GITHUB_TOKEN }}
-          commit-message: |
-            [auto-sync] update task list
-
-            Updated from ${{ github.repository }}@${{ github.sha }}
-          title: "🤖[auto-sync] update task list"
-          body: |
-            ## Automated Task List Update
-
-            **Source:** ${{ github.repository }}@${{ github.sha }}
-
-            Please review and merge when ready.
-
-            ---
-            _Created automatically by GitHub Actions_
-          branch: task-list/auto-sync
-          delete-branch: true
-          author: "[osrs-taskbot] <r.mobis+taskbot@gmail.com>"
-          committer: "[osrs-taskbot] <r.mobis+taskbot@gmail.com>"
-
-      - name: Create summary
-        run: |
-          if [ "${{ steps.create-pr.outputs.pull-request-number }}" != "" ]; then
-            echo "## ✅ Pull Request ${{ steps.create-pr.outputs.pull-request-operation }}" >> $GITHUB_STEP_SUMMARY
-            echo "- **PR Link**: ${{ steps.create-pr.outputs.pull-request-url }}" >> $GITHUB_STEP_SUMMARY
-            echo "_Please review and merge the PR in the target repository_" >> $GITHUB_STEP_SUMMARY
-          else
-            echo "## ℹ️ No changes detected" >> $GITHUB_STEP_SUMMARY
-          fi
+          target-repo: collection-log-master
