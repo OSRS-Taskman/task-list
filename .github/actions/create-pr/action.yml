@@ -1,8 +1,8 @@
-name: Setup & Install Dependencies
-description: Sets Node.js up and installs project dependencies
+name: Create PR
+description: Creates a PR on the target repository with the changes already applied
 
 inputs:
-  repository:
+  path:
     description: Repository path.
     required: true
   token:
@@ -16,10 +16,10 @@ runs:
       id: create-pr
       uses: peter-evans/create-pull-request@v5
       with:
-        path: ${{ inputs.repository }}
+        path: ${{ inputs.path }}
         token: ${{ inputs.token }}
         commit-message: |
-          [auto-sync] update task list
+          [auto] update task list
 
           Updated from ${{ github.repository }}@${{ github.sha }}
         title: "🤖[auto-sync] update task list"
@@ -32,7 +32,7 @@ runs:
 
           ---
           _Created automatically by GitHub Actions_
-        branch: task-list/auto-sync
+        branch: osrs-taskbot/task-list
         delete-branch: true
         author: "[osrs-taskbot] <r.mobis+taskbot@gmail.com>"
         committer: "[osrs-taskbot] <r.mobis+taskbot@gmail.com>"
