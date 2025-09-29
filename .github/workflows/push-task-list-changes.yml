@@ -1,13 +1,13 @@
-name: Synchronize Clog Master Plugin Task List
+name: Push Task List Changes
 
 on:
   push:
     branches: ["main"]
-    paths: ["tiers/*.json", ".github/workflows/sync-clogmaster-task-list.yml"]
+    paths: ["tiers/*.json", ".github/workflows/push-task-list-changes.yml"]
   workflow_dispatch:
 
 jobs:
-  sync-tedious-list:
+  plugin:
     runs-on: ubuntu-latest
 
     steps:
@@ -26,7 +26,7 @@ jobs:
           token: ${{ secrets.ROBOT_GITHUB_TOKEN }}
           path: collection-log-master
 
-      - name: Copy task list to plugin repository
+      - name: Copy task tiers to plugin repository
         run: |
           cp lists/tedious.json collection-log-master/src/main/resources/com/collectionlogmaster/task-list.json
           cp lists/tedious.json collection-log-master/src/main/resources/com/collectionlogmaster/domain/task-list.json
@@ -35,5 +35,30 @@ jobs:
       - name: Create PR
         uses: ./.github/actions/create-pr
         with:
-          repository: collection-log-master
+          path: collection-log-master
+          token: ${{ secrets.ROBOT_GITHUB_TOKEN }}
+
+  taskapp:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - uses: ./.github/actions/setup
+
+      - name: Checkout taskapp repository
+        uses: actions/checkout@v4
+        with:
+          repository: OSRS-Taskman/Taskapp_Public
+          token: ${{ secrets.ROBOT_GITHUB_TOKEN }}
+          path: Taskapp_Public
+
+      - name: Copy task list to taskapp repository
+        run: cp tiers/*.json Taskapp_Public/task-lists/
+
+      - name: Create PR
+        uses: ./.github/actions/create-pr
+        with:
+          path: Taskapp_Public
           token: ${{ secrets.ROBOT_GITHUB_TOKEN }}
