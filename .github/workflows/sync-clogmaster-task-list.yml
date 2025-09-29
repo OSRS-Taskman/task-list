@@ -35,4 +35,5 @@ jobs:
       - name: Create PR
         uses: ./.github/actions/create-pr
         with:
-          target-repo: collection-log-master
+          repository: collection-log-master
+          token: ${{ secrets.ROBOT_GITHUB_TOKEN }}

@@ -2,8 +2,11 @@ name: Setup & Install Dependencies
 description: Sets Node.js up and installs project dependencies
 
 inputs:
-  target-repo:
-    description: Pull Request target repository
+  repository:
+    description: Repository path.
+    required: true
+  token:
+    description: Personal access token (PAT) used to create the PR.
     required: true
 
 runs:
@@ -13,8 +16,8 @@ runs:
       id: create-pr
       uses: peter-evans/create-pull-request@v5
       with:
-        path: ${{ inputs.target-repo }}
-        token: ${{ secrets.ROBOT_GITHUB_TOKEN }}
+        path: ${{ inputs.repository }}
+        token: ${{ inputs.token }}
         commit-message: |
           [auto-sync] update task list
 
