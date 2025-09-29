@@ -22,7 +22,7 @@ runs:
           [auto] update task list
 
           Updated from ${{ github.repository }}@${{ github.sha }}
-        title: "🤖[auto-sync] update task list"
+        title: "🤖[auto] update task list"
         body: |
           ## Automated Task List Update
 
