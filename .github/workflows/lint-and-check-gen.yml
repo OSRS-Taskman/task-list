@@ -17,7 +17,33 @@ jobs:
       - uses: ./.github/actions/setup
 
       - name: Lint code
-        run: npm run lint
+        run: npm run lint:ultracite
+
+      - name: Lint tasks
+        run: npm run lint:tasks
+
+      - name: Lint schema
+        run: npm run lint:schema
+
+  lint-links:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - uses: ./.github/actions/setup
+
+      - name: Cache
+        uses: actions/cache@v4
+        with:
+          path: .cache
+          key: cache-${{ hashFiles('tiers/*.json') }}
+          restore-keys: |
+            cache-
+
+      - name: Lint code
+        run: npm run lint:links
 
   check-types:
     runs-on: ubuntu-latest
