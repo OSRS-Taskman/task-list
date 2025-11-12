@@ -504,27 +504,33 @@
 		},
 		{
 			"id": "62d2ad72-d063-46b3-9348-75efcea0bb11",
-			"name": "Get 1 unique drop from Zamorak GWD",
-			"tip": "Received as a drop from the Zamorak God Wards Dungeon Boss.",
+			"name": "Get 1 unique drop from God Wars Dungeon",
+			"tip": "Can be received as a drop from the God Wars Dungeon Bosses. Saradomin is easiest to kill, but requires stamina potions, while Zamorak spear can be useful in elite tier.",
 			"wikiLink": "https://oldschool.runescape.wiki/w/K'ril_Tsutsaroth",
 			"imageLink": "https://oldschool.runescape.wiki/images/f/fc/Staff_of_the_dead.png",
 			"displayItemId": 11791,
 			"verification": {
 				"method": "collection-log",
-				"itemIds": [ 11787, 11791, 11816, 11824 ],
+				"itemIds": [
+					11785, 11787, 11791, 11810, 11812, 11814, 11816, 11824, 11826, 11828, 11830,
+					11832, 11834, 11836, 11838, 13256, 26235, 26370, 26372, 26376, 26378, 26380
+				],
 				"count": 1
 			}
 		},
 		{
 			"id": "09ebb79c-c629-4900-a0a1-bc06c88e2571",
-			"name": "Get 1 unique drop from Zamorak GWD",
-			"tip": "Received as a drop from the Zamorak God Wards Dungeon Boss.",
+			"name": "Get 1 unique drop from God Wars Dungeon",
+			"tip": "Can be received as a drop from the God Wars Dungeon Bosses. Saradomin is easiest to kill, but requires stamina potions, while Zamorak spear can be useful in elite tier.",
 			"wikiLink": "https://oldschool.runescape.wiki/w/K'ril_Tsutsaroth",
 			"imageLink": "https://oldschool.runescape.wiki/images/f/fc/Staff_of_the_dead.png",
 			"displayItemId": 11791,
 			"verification": {
 				"method": "collection-log",
-				"itemIds": [ 11787, 11791, 11816, 11824 ],
+				"itemIds": [
+					11785, 11787, 11791, 11810, 11812, 11814, 11816, 11824, 11826, 11828, 11830,
+					11832, 11834, 11836, 11838, 13256, 26235, 26370, 26372, 26376, 26378, 26380
+				],
 				"count": 2
 			}
 		},
