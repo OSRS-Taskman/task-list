@@ -2528,8 +2528,8 @@
 		},
 		{
 			"id": "5a4fd126-9c0c-4031-a612-8b8615c57708",
-			"name": "Get a Vial of blood (from Story mode ToB)",
-			"tip": "Can be received as a reward from the Theatre of Blood Story/Entry Mode.",
+			"name": "Get a Vial of blood",
+			"tip": "Can be received as a reward from completing the Theatre of Blood in any mode. Entry mode is easiest to solo, but Normal can be easier to find teams.",
 			"wikiLink": "https://oldschool.runescape.wiki/w/Theatre_of_Blood/Entry_Mode",
 			"imageLink": "https://oldschool.runescape.wiki/images/3/3d/Vial_of_blood.png",
 			"displayItemId": 22446,
