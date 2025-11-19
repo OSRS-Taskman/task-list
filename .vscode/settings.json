@@ -30,5 +30,13 @@
 			"fileMatch": ["lists/*.json"],
 			"url": "./schema/task-list.schema.json"
 		}
-	]
+	],
+	"cSpell.customDictionaries": {
+		"osrs": {
+			"name": "osrs",
+			"path": "${workspaceFolder:task-list}/.cspell/osrs.txt",
+			"addWords": true,
+			"scope": "workspace"
+		}
+	}
 }
