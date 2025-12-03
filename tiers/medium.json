@@ -2605,6 +2605,253 @@
 				"itemIds": [ 30957 ],
 				"count": 1
 			}
+		},
+		{
+			"id": "0d2de6e1-2149-40e4-a6a6-8b8facc9201a",
+			"name": "Get Belle's folly (tarnished)",
+			"tip": "Obtained as a drop by the Shellbane gryphon.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Belle%27s_folly_(tarnished)",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Belle%27s_folly_detail.png/320px-Belle%27s_folly_detail.png",
+			"displayItemId": 31248,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 31245 ],
+				"count": 1
+			}
+		},
+		{
+			"id": "5bb661d8-21f3-45e7-9eff-13fd3f8113bb",
+			"name": "Get a Horn of plenty",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Horn_of_plenty",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Horn_of_plenty_detail.png/320px-Horn_of_plenty_detail.png",
+			"displayItemId": 31241,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 31243 ],
+				"count": 1
+			},
+			"tip": "Obtained as a drop by regular Gryphons; being on a slayer task significantly improves the drop rate."
+		},
+		{
+			"id": "f1f6e3dc-135e-4c44-a52b-f57136a1f5f8",
+			"name": "Get the next reward from The Jubbly Jive",
+			"tip": "Obtained by completing the next rank's course under the corresponding time.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/The_Jubbly_Jive",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Fetid_key_detail.png/320px-Fetid_key_detail.png",
+			"displayItemId": 31744,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 31744, 31745, 31746 ],
+				"count": 1
+			}
+		},
+		{
+			"id": "9c2beabf-87b9-4c37-896c-e4a61b662f24",
+			"name": "Get the next reward from The Jubbly Jive",
+			"tip": "Obtained by completing the next rank's course under the corresponding time.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/The_Jubbly_Jive",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Fetid_key_detail.png/320px-Fetid_key_detail.png",
+			"displayItemId": 31744,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 31744, 31745, 31746 ],
+				"count": 2
+			}
+		},
+		{
+			"id": "205111de-b502-4cde-baa9-9c977668d05f",
+			"name": "Get the next reward from The Jubbly Jive",
+			"tip": "Obtained by completing the next rank's course under the corresponding time.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/The_Jubbly_Jive",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Fetid_key_detail.png/320px-Fetid_key_detail.png",
+			"displayItemId": 31744,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 31744, 31745, 31746 ],
+				"count": 3
+			}
+		},
+		{
+			"id": "7fce4152-4fa5-4950-ac77-92d5976e0b78",
+			"name": "Get the Zamorakian paint",
+			"tip": "Obtained by fully charting the Unquiet Ocean. Show your Captain's Log to Gerardus on Port Roberts, then use the key on the chest on Charred Island.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Zamorakian_paint",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Zamorakian_paint_detail.png/320px-Zamorakian_paint_detail.png",
+			"displayItemId": 32104,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 32104 ],
+				"count": 1
+			}
+		},
+		{
+			"id": "28e4b31a-3f1f-4828-9e0a-4e47872b5ee3",
+			"name": "Get the Saradominist paint",
+			"tip": "Obtained by fully charting the Ardent Ocean. Show your Captain's Log to Gerardus on Port Roberts, and trade the item you receive to the Head Priest for the paint.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Saradominist_paint",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Saradominist_paint_detail.png/320px-Saradominist_paint_detail.png",
+			"displayItemId": 32108,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 32108 ],
+				"count": 1
+			}
+		},
+		{
+			"id": "4ab5c99d-e065-4957-97e5-510f869420be",
+			"name": "Get the Sandy paint",
+			"tip": "Obtained by killing a Hermit crab while performing the Crab Dance emote.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Sandy_paint",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Sandy_paint_detail.png/320px-Sandy_paint_detail.png",
+			"displayItemId": 32113,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 32113 ],
+				"count": 1
+			}
+		},
+		{
+			"id": "169d6627-6980-4f79-8c86-3409e690d2c3",
+			"name": "Get the Gale catcher schematic",
+			"tip": "Obtained from the locked lockbox on Angler's Retreat. The key is buried on The Onyx Crest.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Gale_catcher_schematic",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Gale_catcher_schematic_detail.png/320px-Gale_catcher_schematic_detail.png",
+			"displayItemId": 32402,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 32402 ],
+				"count": 1
+			}
+		},
+		{
+			"id": "25500d75-e554-4f8a-b3ba-68c83f396c44",
+			"name": "Get the Rosewood cargo hold schematic",
+			"tip": "Obtained from the locked lockbox on The Crown Jewel. The key is buried on Minotaur's Rest.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Rosewood_cargo_hold_schematic",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Rosewood_cargo_hold_schematic_detail.png/320px-Rosewood_cargo_hold_schematic_detail.png",
+			"displayItemId": 32405,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 32405 ],
+				"count": 1
+			}
+		},
+		{
+			"id": "32c1a615-dde3-4b8e-9da7-94c74633a95a",
+			"name": "Get the Rosewood hull schematic",
+			"tip": "Obtained from the locked lockbox on Shimmering Atoll. The key is buried on the Isle of Bones.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Rosewood_hull_schematic",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Rosewood_hull_schematic_detail.png/320px-Rosewood_hull_schematic_detail.png",
+			"displayItemId": 32407,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 32407 ],
+				"count": 1
+			}
+		},
+		{
+			"id": "a2292aef-4feb-4d86-a6d7-6f0b37173093",
+			"name": "Get a Dragon metal sheet",
+			"tip": "Obtained as a drop from Lava Strykewyrms.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Dragon_metal_sheet",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Dragon_metal_sheet_detail.png/320px-Dragon_metal_sheet_detail.png",
+			"displayItemId": 31996,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 31996 ],
+				"count": 1
+			}
+		},
+		{
+			"id": "b53fc9b2-63bf-4a81-864e-ccb0b1c1ed2c",
+			"name": "Get a Dragon cannonball",
+			"tip": "Obtained as a drop from Great White Sharks, which can be safespotted.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Dragon_cannonball",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Dragon_cannonball_detail.png/320px-Dragon_cannonball_detail.png",
+			"displayItemId": 31916,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 31916 ],
+				"count": 1
+			}
+		},
+		{
+			"id": "5deadb8c-2f6c-4290-9385-8fa32490c281",
+			"name": "Get a Swift albatross feather",
+			"tip": "Obtained as a drop from Albatross.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Swift_albatross_feather",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Swift_albatross_feather_detail.png/320px-Swift_albatross_feather_detail.png",
+			"displayItemId": 31952,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 31952 ],
+				"count": 1
+			}
+		},
+		{
+			"id": "ab247599-a55c-4fb0-bbfc-9127f3bde7aa",
+			"name": "Assemble the Medallion of the deep",
+			"tip": "Assembled from eight fragments, which are found on different islands and through different methods. Check the wiki for more information.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Medallion_of_the_deep",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Medallion_of_the_deep_detail.png/320px-Medallion_of_the_deep_detail.png",
+			"displayItemId": 32386,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 32388, 32389, 32390, 32391, 32392, 32393, 32394, 32395 ],
+				"count": 8
+			}
+		},
+		{
+			"id": "7838827a-8e44-4b39-876f-25149957bc8f",
+			"name": "Get a Sea Treasure",
+			"tip": "Obtained while sorting salvage. Each sea treasure can be found in a unique salvage type, except for the Sailors' amulet which can be found in any.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Sea_treasure",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Sailors'_amulet_(inert)_detail.png/320px-Sailors'_amulet_(inert)_detail.png",
+			"displayItemId": 32398,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 32398, 32863, 32864, 32865, 32866, 32867, 32868, 32869, 32870 ],
+				"count": 5
+			}
+		},
+		{
+			"id": "a7096674-124f-4ec6-9913-576dec586b61",
+			"name": "Get a Sea Treasure",
+			"tip": "Obtained while sorting salvage. Each sea treasure can be found in a unique salvage type, except for the Sailors' amulet which can be found in any.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Sea_treasure",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Sailors'_amulet_(inert)_detail.png/320px-Sailors'_amulet_(inert)_detail.png",
+			"displayItemId": 32398,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 32398, 32863, 32864, 32865, 32866, 32867, 32868, 32869, 32870 ],
+				"count": 6
+			}
+		},
+		{
+			"id": "5f9f93be-6e86-4dd7-8b40-0747464c6ae7",
+			"name": "Get a Squid beak",
+			"tip": "Obtained while cutting squids caught with lantern harpooning",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Squid_beak",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Squid_beak_detail.png/320px-Squid_beak_detail.png",
+			"displayItemId": 31572,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 31572 ],
+				"count": 1
+			}
+		},
+		{
+			"id": "b6b250b7-34e6-4aef-b6d9-8b4280b045fe",
+			"name": "Catch a Giant blue krill",
+			"tip": "Obtained while deep sea trawling for Giant krill.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Giant_blue_krill",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Giant_blue_krill_detail.png/320px-Giant_blue_krill_detail.png",
+			"displayItemId": 31408,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 31408 ],
+				"count": 1
+			}
 		}
 	]
 }

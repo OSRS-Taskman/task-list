@@ -2427,6 +2427,19 @@
 				"itemIds": [ 31111, 31099, 31109, 31115, 31088 ],
 				"count": 5
 			}
+		},
+		{
+			"id": "5d089860-d548-4305-9f46-aeb8a0292bb4",
+			"name": "Get the Salvor's paint",
+			"tip": "Can be very rarely obtained while salvaging mercenary shipwrecks.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Salvor's_paint",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Salvor's_paint_detail.png/320px-Salvor's_paint_detail.png",
+			"displayItemId": 32099,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 32099 ],
+				"count": 1
+			}
 		}
 	]
 }

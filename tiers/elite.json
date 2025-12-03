@@ -3355,6 +3355,136 @@
 				"itemIds": [ 31111, 31099, 31109, 31115, 31088 ],
 				"count": 4
 			}
+		},
+		{
+			"id": "23dbabbb-6778-4d25-875c-f35499d58b65",
+			"name": "Get the Barracuda paint",
+			"tip": "Can be obtained by achieving Marlin rank time at any Barracuda trial.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Barracuda_paint",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Barracuda_paint_detail.png/320px-Barracuda_paint_detail.png",
+			"displayItemId": 32087,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 32087 ],
+				"count": 1
+			}
+		},
+		{
+			"id": "6c529085-f58f-4311-bf83-80468ee2dfe9",
+			"name": "Get the Inky paint",
+			"tip": "Can be rarely obtained from sailing krakens.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Inky_paint",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Inky_paint_detail.png/320px-Inky_paint_detail.png",
+			"displayItemId": 32093,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 32093 ],
+				"count": 1
+			}
+		},
+		{
+			"id": "e85538a2-4c04-4736-b4f0-c6cc96506d33",
+			"name": "Get the Rosewood & cotton sails schematic",
+			"tip": "Obtained from the locked lockbox on Brittle Isle. The key is buried on Charred Island.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Rosewood_&_cotton_sails_schematic",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Rosewood_&_cotton_sails_schematic_detail.png/320px-Rosewood_&_cotton_sails_schematic_detail.png",
+			"displayItemId": 32408,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 32408 ],
+				"count": 1
+			}
+		},
+		{
+			"id": "3fd9a26f-9cd1-46a2-9d1a-f460387e98f9",
+			"name": "Get the Dragon keel schematic",
+			"tip": "Obtained from the locked lockbox on Grimstone. The key is buried on Drumstick Isle.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Dragon_keel_schematic",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Dragon_keel_schematic_detail.png/320px-Dragon_keel_schematic_detail.png",
+			"displayItemId": 32410,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 32410 ],
+				"count": 1
+			}
+		},
+		{
+			"id": "7344d43a-dac1-4fbb-bdba-ce2bc37aa417",
+			"name": "Get a Bottled storm",
+			"tip": "Obtained as a drop from Armoured and Vampyre Krakens.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Bottled_storm",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Bottled_storm_detail.png/320px-Bottled_storm_detail.png",
+			"displayItemId": 31949,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 31949 ],
+				"count": 1
+			}
+		},
+		{
+			"id": "80227b8c-1983-4102-9b0f-170a2a40f152",
+			"name": "Get a Dragon cannon barrel",
+			"tip": "Obtained as a very rare drop from Merchant shipwrecks.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Dragon_cannon_barrel",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Dragon_cannon_barrel_detail.png/320px-Dragon_cannon_barrel_detail.png",
+			"displayItemId": 32115,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 32115 ],
+				"count": 1
+			}
+		},
+		{
+			"id": "dd768477-d668-4df2-a44e-73f7df214923",
+			"name": "Get a Sea Treasure",
+			"tip": "Obtained while sorting salvage. Each sea treasure can be found in a unique salvage type, except for the Sailors' amulet which can be found in any.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Sea_treasure",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Sailors'_amulet_(inert)_detail.png/320px-Sailors'_amulet_(inert)_detail.png",
+			"displayItemId": 32398,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 32398, 32863, 32864, 32865, 32866, 32867, 32868, 32869, 32870 ],
+				"count": 8
+			}
+		},
+		{
+			"id": "173a1455-d8fe-46aa-a891-2854995015c1",
+			"name": "Get a Sea Treasure",
+			"tip": "Obtained while sorting salvage. Each sea treasure can be found in a unique salvage type, except for the Sailors' amulet which can be found in any.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Sea_treasure",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Sailors'_amulet_(inert)_detail.png/320px-Sailors'_amulet_(inert)_detail.png",
+			"displayItemId": 32398,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 32398, 32863, 32864, 32865, 32866, 32867, 32868, 32869, 32870 ],
+				"count": 9
+			}
+		},
+		{
+			"id": "e1326b1f-e4c3-44a5-a4b9-4f22172149ec",
+			"name": "Catch a Purplefin",
+			"tip": "Obtained while deep sea trawling for Bluefin",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Purplefin",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Purplefin_detail.png/320px-Purplefin_detail.png",
+			"displayItemId": 31424,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 31424 ],
+				"count": 1
+			}
+		},
+		{
+			"id": "cf84ac1b-1ee2-40de-8e04-ad0e0bf7642c",
+			"name": "Catch a Swift marlin",
+			"tip": "Obtained while deep sea trawling for Marlin",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Swift_marlin",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Swift_marlin_detail.png/320px-Swift_marlin_detail.png",
+			"displayItemId": 31428,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 31428 ],
+				"count": 1
+			}
 		}
 	]
 }

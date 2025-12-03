@@ -2350,6 +2350,162 @@
 				"itemIds": [ 31032, 31052, 31043, 31034 ],
 				"count": 2
 			}
+		},
+		{
+			"id": "b9298587-5e62-4a65-af06-ef7032cca3f1",
+			"name": "Get a Gryphon feather",
+			"tip": "Obtained as a guaranteed drop from regular Gryphons.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Gryphon_feather",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Gryphon_feather_detail.png/320px-Gryphon_feather_detail.png",
+			"displayItemId": 31235,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 31235 ],
+				"count": 1
+			}
+		},
+		{
+			"id": "c986eb1e-33f4-4dea-95f8-f335a0add59f",
+			"name": "Get the next reward from The Tempor Tantrum",
+			"tip": "Obtained by completing the next rank's course under the corresponding time.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/The_Tempor_Tantrum",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Stormy_key_detail.png/320px-Stormy_key_detail.png",
+			"displayItemId": 31732,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 31732, 31733, 31734 ],
+				"count": 1
+			}
+		},
+		{
+			"id": "8caef83f-cec6-4518-a537-8ec68c2d517d",
+			"name": "Get the next reward from The Tempor Tantrum",
+			"tip": "Obtained by completing the next rank's course under the corresponding time.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/The_Tempor_Tantrum",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Stormy_key_detail.png/320px-Stormy_key_detail.png",
+			"displayItemId": 31732,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 31732, 31733, 31734 ],
+				"count": 2
+			}
+		},
+		{
+			"id": "18170f6d-d0f5-476a-9832-3b8f3df3b3b3",
+			"name": "Get the next reward from The Tempor Tantrum",
+			"tip": "Obtained by completing the next rank's course under the corresponding time.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/The_Tempor_Tantrum",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Stormy_key_detail.png/320px-Stormy_key_detail.png",
+			"displayItemId": 31732,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 31732, 31733, 31734 ],
+				"count": 3
+			}
+		},
+		{
+			"id": "26a417bd-9635-4bc3-9739-c019b458247b",
+			"name": "Get the Shark paint",
+			"tip": "Can be obtained by completing port tasks.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Shark_paint",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Shark_paint_detail.png/320px-Shark_paint_detail.png",
+			"displayItemId": 32090,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 32090 ],
+				"count": 1
+			}
+		},
+		{
+			"id": "53f410fd-6adc-4ec3-96d3-2cab2f2cfd39",
+			"name": "Get the Salvaging station schematic",
+			"tip": "Obtained from the locked lockbox on Chinchompa Island. The key is buried on The Pandemonium.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Salvaging_station_schematic",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Salvaging_station_schematic_detail.png/320px-Salvaging_station_schematic_detail.png",
+			"displayItemId": 32401,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 32401 ],
+				"count": 1
+			}
+		},
+		{
+			"id": "4e70e2c5-e2a6-41d0-b6f4-18a4ef2edf89",
+			"name": "Get a Ray barbs",
+			"tip": "Obtained as a drop from Butterfly Rays; these can be safespotted from land, on the northern shore of the Isle of Souls.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Ray_barbs",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Ray_barbs_detail.png/320px-Ray_barbs_detail.png",
+			"displayItemId": 31959,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 31959 ],
+				"count": 1
+			}
+		},
+		{
+			"id": "89225e24-54f1-497d-a23d-65627f62e0ec",
+			"name": "Get a Boat bottle",
+			"tip": "Obtained while sorting Small, Fishy and Barracuda salvages.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Boat_bottle",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Boat_bottle_(full)_detail.png/320px-Boat_bottle_(full)_detail.png",
+			"displayItemId": 31992,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 31989 ],
+				"count": 1
+			}
+		},
+		{
+			"id": "a2b53f89-3b42-43f4-a208-75d24ceb11cb",
+			"name": "Get a Sea Treasure",
+			"tip": "Obtained while sorting salvage. Each sea treasure can be found in a unique salvage type, except for the Sailors' amulet which can be found in any.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Sea_treasure",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Sailors'_amulet_(inert)_detail.png/320px-Sailors'_amulet_(inert)_detail.png",
+			"displayItemId": 32398,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 32398, 32863, 32864, 32865, 32866, 32867, 32868, 32869, 32870 ],
+				"count": 1
+			}
+		},
+		{
+			"id": "924f0d22-b935-45b6-a7c6-31f1187f7cbe",
+			"name": "Get a Sea Treasure",
+			"tip": "Obtained while sorting salvage. Each sea treasure can be found in a unique salvage type, except for the Sailors' amulet which can be found in any.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Sea_treasure",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Sailors'_amulet_(inert)_detail.png/320px-Sailors'_amulet_(inert)_detail.png",
+			"displayItemId": 32398,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 32398, 32863, 32864, 32865, 32866, 32867, 32868, 32869, 32870 ],
+				"count": 2
+			}
+		},
+		{
+			"id": "a61dc64d-1e9f-44de-bec8-4c9c64c10fef",
+			"name": "Get a Sea Treasure",
+			"tip": "Obtained while sorting salvage. Each sea treasure can be found in a unique salvage type, except for the Sailors' amulet which can be found in any.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Sea_treasure",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Sailors'_amulet_(inert)_detail.png/320px-Sailors'_amulet_(inert)_detail.png",
+			"displayItemId": 32398,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 32398, 32863, 32864, 32865, 32866, 32867, 32868, 32869, 32870 ],
+				"count": 3
+			}
+		},
+		{
+			"id": "4dc96a62-263a-4083-a0b9-4772e15ee6d4",
+			"name": "Get a Sea Treasure",
+			"tip": "Obtained while sorting salvage. Each sea treasure can be found in a unique salvage type, except for the Sailors' amulet which can be found in any.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Sea_treasure",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Sailors'_amulet_(inert)_detail.png/320px-Sailors'_amulet_(inert)_detail.png",
+			"displayItemId": 32398,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 32398, 32863, 32864, 32865, 32866, 32867, 32868, 32869, 32870 ],
+				"count": 4
+			}
 		}
 	]
 }
