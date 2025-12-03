@@ -2151,6 +2151,44 @@
 			}
 		},
 		{
+			"id": "744cd2a7-5ecd-4298-9ee3-0f72b3fceb4d",
+			"name": "Get a level 99",
+			"tip": "Ok it's grind time!",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Skills",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Max_cape_detail.png/124px-Max_cape_detail.png",
+			"displayItemId": 13280,
+			"verification": {
+				"method": "skill",
+				"experience": {
+					"attack"      : 13034431,
+					"strength"    : 13034431,
+					"defence"     : 13034431,
+					"ranged"      : 13034431,
+					"prayer"      : 13034431,
+					"magic"       : 13034431,
+					"runecraft"   : 13034431,
+					"hitpoints"   : 13034431,
+					"crafting"    : 13034431,
+					"mining"      : 13034431,
+					"smithing"    : 13034431,
+					"fishing"     : 13034431,
+					"cooking"     : 13034431,
+					"firemaking"  : 13034431,
+					"woodcutting" : 13034431,
+					"agility"     : 13034431,
+					"herblore"    : 13034431,
+					"thieving"    : 13034431,
+					"fletching"   : 13034431,
+					"slayer"      : 13034431,
+					"farming"     : 13034431,
+					"construction": 13034431,
+					"hunter"      : 13034431,
+					"sailing"     : 13034431
+				},
+				"count": 17
+			}
+		},
+		{
 			"id": "ef6ad784-9b0f-490d-813c-6256089e3653",
 			"name": "Master tier Combat Achievements",
 			"tip": "Master tier Combat Achievements",
