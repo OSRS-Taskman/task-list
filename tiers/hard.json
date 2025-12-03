@@ -3174,6 +3174,240 @@
 				"itemIds": [ 31111, 31099, 31109, 31115, 31088 ],
 				"count": 2
 			}
+		},
+		{
+			"id": "c7215dcc-13c5-44e5-92f7-ae02954e91e1",
+			"name": "Get the next reward from The Gwenith Glide",
+			"tip": "Obtained by completing the next rank's course under the corresponding time.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/The_Gwenith_Glide",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Serrated_key_detail.png/320px-Serrated_key_detail.png",
+			"displayItemId": 31756,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 31756, 31757, 31758 ],
+				"count": 1
+			}
+		},
+		{
+			"id": "a2e1f807-809c-4c63-a86a-3110b770aa5d",
+			"name": "Get the next reward from The Gwenith Glide",
+			"tip": "Obtained by completing the next rank's course under the corresponding time.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/The_Gwenith_Glide",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Serrated_key_detail.png/320px-Serrated_key_detail.png",
+			"displayItemId": 31756,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 31756, 31757, 31758 ],
+				"count": 2
+			}
+		},
+		{
+			"id": "6781ff7e-19d5-49ae-b0b7-5ade51fc6938",
+			"name": "Get the next reward from The Gwenith Glide",
+			"tip": "Obtained by completing the next rank's course under the corresponding time.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/The_Gwenith_Glide",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Serrated_key_detail.png/320px-Serrated_key_detail.png",
+			"displayItemId": 31756,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 31756, 31757, 31758 ],
+				"count": 3
+			}
+		},
+		{
+			"id": "1049b6c8-4368-4ad4-aa47-a0dbdcc6a01d",
+			"name": "Get the Armadylean paint",
+			"tip": "Obtained by fully charting the Northern Ocean. Show your Captain's Log to Gerardus on Port Roberts, and trade the item you receive to Larissa for the paint.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Armadylean_paint",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Armadylean_paint_detail.png/320px-Armadylean_paint_detail.png",
+			"displayItemId": 32102,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 32102 ],
+				"count": 1
+			}
+		},
+		{
+			"id": "06a6ff87-cd1a-4e4e-81bd-6c2cb31dfbfe",
+			"name": "Get the Guthixian paint",
+			"tip": "Obtained by fully charting the Shrouded Ocean. Show your Captain's Log to Gerardus on Port Roberts, and trade the item you receive to the Elite Void Knight for the paint.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Guthixian_paint",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Guthixian_paint_detail.png/320px-Guthixian_paint_detail.png",
+			"displayItemId": 32106,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 32106 ],
+				"count": 1
+			}
+		},
+		{
+			"id": "0e0beed5-a5fd-4380-b46d-b8effd37463d",
+			"name": "Get the Eternal brazier schematic",
+			"tip": "Obtained from the locked lockbox on Buccaneers' Haven. The key is buried on Tear of the Soul.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Eternal_brazier_schematic",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Eternal_brazier_schematic_detail.png/320px-Eternal_brazier_schematic_detail.png",
+			"displayItemId": 32403,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 32403 ],
+				"count": 1
+			}
+		},
+		{
+			"id": "4dcd3e06-1c39-405d-a5fd-992e3b60f6b3",
+			"name": "Get the Dragon helm schematic",
+			"tip": "Obtained from the locked lockbox on Sunbleak Island. The key is buried on Laguna Aurorae.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Dragon_helm_schematic",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Dragon_helm_schematic_detail.png/320px-Dragon_helm_schematic_detail.png",
+			"displayItemId": 32409,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 32409 ],
+				"count": 1
+			}
+		},
+		{
+			"id": "5180ff8f-97d8-4447-8ad9-a4c2984f5c5a",
+			"name": "Get the Dragon salvaging hook schematic",
+			"tip": "Obtained from the locked lockbox on Lledrith Island. The key is buried on Ynysdail.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Dragon_salvaging_hook_schematic",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Dragon_salvaging_hook_schematic_detail.png/320px-Dragon_salvaging_hook_schematic_detail.png",
+			"displayItemId": 32404,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 32404 ],
+				"count": 1
+			}
+		},
+		{
+			"id": "82a78d08-7dfe-4b99-882f-cf86ea336d4f",
+			"name": "Get the Dragon cannon schematic",
+			"tip": "Obtained from the locked lockbox on Deepfin Point. The key is buried on Buccaneers' Haven.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Dragon_cannon_schematic",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Dragon_cannon_schematic_detail.png/320px-Dragon_cannon_schematic_detail.png",
+			"displayItemId": 32406,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 32406 ],
+				"count": 1
+			}
+		},
+		{
+			"id": "3ad2a052-e9e7-495a-9d47-02e30194d8de",
+			"name": "Get some Dragon nails",
+			"tip": "Obtained as a drop from Narwhals.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Dragon_nails",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Dragon_nails_detail.png/320px-Dragon_nails_detail.png",
+			"displayItemId": 31406,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 31406 ],
+				"count": 1
+			}
+		},
+		{
+			"id": "99fbd170-991a-48dc-858f-3c1bb7e63da0",
+			"name": "Get an Echo pearl",
+			"tip": "Obtained as a drop from Dolphins.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Echo_pearl",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Echo_pearl_detail.png/320px-Echo_pearl_detail.png",
+			"displayItemId": 31946,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 31946 ],
+				"count": 1
+			}
+		},
+		{
+			"id": "051b908c-c675-4946-a508-1816cb35022c",
+			"name": "Get a Narwhal horn",
+			"tip": "Obtained as a drop from Narwhals.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Narwhal_horn",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Narwhal_horn_detail.png/320px-Narwhal_horn_detail.png",
+			"displayItemId": 31954,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 31954 ],
+				"count": 1
+			}
+		},
+		{
+			"id": "b5278998-7a38-4f11-a816-0cd3256cfbcc",
+			"name": "Get a Broken dragon hook",
+			"tip": "Obtained as a drop from Great White Sharks.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Broken_dragon_hook",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Broken_dragon_hook_detail.png/320px-Broken_dragon_hook_detail.png",
+			"displayItemId": 31961,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 31961 ],
+				"count": 1
+			}
+		},
+		{
+			"id": "3d46da29-1604-4847-b084-9f7a7629d803",
+			"name": "Get a Sea Treasure",
+			"tip": "Obtained while sorting salvage. Each sea treasure can be found in a unique salvage type, except for the Sailors' amulet which can be found in any.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Sea_treasure",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Sailors'_amulet_(inert)_detail.png/320px-Sailors'_amulet_(inert)_detail.png",
+			"displayItemId": 32398,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 32398, 32863, 32864, 32865, 32866, 32867, 32868, 32869, 32870 ],
+				"count": 7
+			}
+		},
+		{
+			"id": "9f9ee429-2271-432c-ae0c-bbe0b01321da",
+			"name": "Get an Aquanite tendon",
+			"tip": "Obtained as a drop from Aquanites; being on a slayer task significantly improves the drop rate.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Aquanite_tendon",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Aquanite_tendon_detail.png/320px-Aquanite_tendon_detail.png",
+			"displayItemId": 32876,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 32876 ],
+				"count": 1
+			}
+		},
+		{
+			"id": "7d0e1c12-26df-44d2-af93-544302152393",
+			"name": "Catch a Golden haddock",
+			"tip": "Obtained while deep sea trawling for Haddock.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Golden_haddock",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Golden_haddock_detail.png/320px-Golden_haddock_detail.png",
+			"displayItemId": 31412,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 31412 ],
+				"count": 1
+			}
+		},
+		{
+			"id": "f5575959-0ffa-4aa1-a6a6-eb39168ff831",
+			"name": "Catch an Orangefin",
+			"tip": "Obtained while deep sea trawling for Yellowfin.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Orangefin",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Orangefin_detail.png/320px-Orangefin_detail.png",
+			"displayItemId": 31416,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 31416 ],
+				"count": 1
+			}
+		},
+		{
+			"id": "ec9b47be-3655-4f9e-b9a2-444ff3456293",
+			"name": "Catch a Huge halibut",
+			"tip": "Obtained while deep sea trawling for Halibut",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Huge_halibut",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Huge_halibut_detail.png/320px-Huge_halibut_detail.png",
+			"displayItemId": 31420,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 31420 ],
+				"count": 1
+			}
 		}
 	]
 }
