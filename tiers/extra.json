@@ -100,6 +100,13 @@
 			"displayItemId": 29786
 		},
 		{
+			"id": "45d58f26-929c-41b3-8c27-6ba270fbe636",
+			"name": "Get a Jar of feathers",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Jar_of_feathers",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Jar_of_feathers_detail.png/320px-Jar_of_feathers_detail.png",
+			"displayItemId": 32921
+		},
+		{
 			"id": "bf3ce43e-d365-419d-a3fc-edbda9b0a850",
 			"name": "Get 1 unique sigil from the Corporeal Beast",
 			"wikiLink": "https://oldschool.runescape.wiki/w/Corporeal_Beast",
