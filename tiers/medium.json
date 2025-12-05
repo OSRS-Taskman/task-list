@@ -2803,11 +2803,11 @@
 		},
 		{
 			"id": "7838827a-8e44-4b39-876f-25149957bc8f",
-			"name": "Get a Sea Treasure",
-			"tip": "Obtained while sorting salvage. Each sea treasure can be found in a unique salvage type, except for the Sailors' amulet which can be found in any.",
+			"name": "Get the next Sea Treasure",
+			"tip": "Obtained while sorting salvage. Each sea treasure can be found in a unique salvage type. The Sailors' amulet can be found in all salvages and also completes the task.",
 			"wikiLink": "https://oldschool.runescape.wiki/w/Sea_treasure",
-			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Sailors'_amulet_(inert)_detail.png/320px-Sailors'_amulet_(inert)_detail.png",
-			"displayItemId": 32398,
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Plundered_salvage_detail.png/320px-Plundered_salvage_detail.png",
+			"displayItemId": 32855,
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [ 32398, 32863, 32864, 32865, 32866, 32867, 32868, 32869, 32870 ],
@@ -2816,11 +2816,11 @@
 		},
 		{
 			"id": "a7096674-124f-4ec6-9913-576dec586b61",
-			"name": "Get a Sea Treasure",
-			"tip": "Obtained while sorting salvage. Each sea treasure can be found in a unique salvage type, except for the Sailors' amulet which can be found in any.",
+			"name": "Get the next Sea Treasure",
+			"tip": "Obtained while sorting salvage. Each sea treasure can be found in a unique salvage type. The Sailors' amulet can be found in all salvages and also completes the task.",
 			"wikiLink": "https://oldschool.runescape.wiki/w/Sea_treasure",
-			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Sailors'_amulet_(inert)_detail.png/320px-Sailors'_amulet_(inert)_detail.png",
-			"displayItemId": 32398,
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Plundered_salvage_detail.png/320px-Plundered_salvage_detail.png",
+			"displayItemId": 32855,
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [ 32398, 32863, 32864, 32865, 32866, 32867, 32868, 32869, 32870 ],
