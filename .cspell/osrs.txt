@@ -48,8 +48,8 @@ Gricoller
 Grimstone
 Gurtob
 guthixian
-Gwyna
 Gwenith
+Gwyna
 Hellpuppy
 herblore
 Hespori
@@ -64,6 +64,7 @@ Icthlarin
 Ikkle
 impling
 implings
+Iorwerth
 ironman
 ironmen
 ithell
@@ -113,6 +114,7 @@ Phosani
 pickpocketing
 poggers
 Prifddinas
+Priffdinas
 purplefin
 Quetzin
 Ranul
