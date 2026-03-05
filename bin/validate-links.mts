@@ -38,7 +38,7 @@ console.log(`Found ${cachedKeys.size} cached links!`);
 // this might help us catch any changed links
 let purgedKeys = 0;
 for (const cachedKey of cachedKeys) {
-	if (Math.random() < 0.1) {
+	if (Math.random() < 0.2) {
 		cachedKeys.delete(cachedKey);
 		purgedKeys++;
 	}
