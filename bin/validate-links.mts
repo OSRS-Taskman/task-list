@@ -34,6 +34,18 @@ for await (const cacheFile of cacheWalker) {
 
 console.log(`Found ${cachedKeys.size} cached links!`);
 
+// randomly purge 10% of cache so we continuously check part of past links
+// this might help us catch any changed links
+let purgedKeys = 0;
+for (const cachedKey of cachedKeys) {
+	if (Math.random() < 0.1) {
+		cachedKeys.delete(cachedKey);
+		purgedKeys++;
+	}
+}
+
+console.log(`Randomly purged ${purgedKeys} links from cache!`);
+
 const wikiLinks = new Set<string>();
 const imageLinks = new Set<string>();
 
