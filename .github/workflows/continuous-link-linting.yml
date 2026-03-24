@@ -1,0 +1,19 @@
+name: Continuous Link Linting
+
+on:
+  schedule:
+    - cron: 0 0 * * *
+
+jobs:
+  lint-links:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - uses: ./.github/actions/setup
+
+      # we intentionally do not restore cache here
+      - name: Lint links
+        run: npm run lint:links
