@@ -42,7 +42,7 @@ jobs:
           restore-keys: |
             cache-
 
-      - name: Lint code
+      - name: Lint links
         run: npm run lint:links
 
   check-types:
