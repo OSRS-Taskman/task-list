@@ -12,7 +12,7 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
 
       - uses: ./.github/actions/setup
 
@@ -20,7 +20,7 @@ jobs:
         run: npm run gen:list:tedious
 
       - name: Checkout plugin repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
         with:
           repository: OSRS-Taskman/collection-log-master
           token: ${{ secrets.ROBOT_GITHUB_TOKEN }}
@@ -43,12 +43,12 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
 
       - uses: ./.github/actions/setup
 
       - name: Checkout taskapp repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
         with:
           repository: OSRS-Taskman/Taskapp_Public
           token: ${{ secrets.ROBOT_GITHUB_TOKEN }}
