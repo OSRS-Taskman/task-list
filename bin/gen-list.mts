@@ -24,7 +24,11 @@ for (const tier of listTiers) {
 	listData[tierData.name] = tierData.tasks;
 }
 
-await mkdir('./lists');
+await mkdir('./lists').catch((e) => {
+	if (e.code !== 'EEXIST') {
+		throw e;
+	}
+});
 
 // @ts-expect-error
 await writeFile(`./lists/${listName}.json`, fmt.Serialize(listData));
