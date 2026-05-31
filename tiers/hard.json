@@ -2378,32 +2378,6 @@
 			}
 		},
 		{
-			"id": "a06faa16-1d31-44bc-9e38-df68f1e59c6b",
-			"name": "Get a Volcanic mine teleport",
-			"tip": "Can be purchased as a reward from the Volcanic Mine minigame.",
-			"wikiLink": "https://oldschool.runescape.wiki/w/Volcanic_Mine",
-			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Volcanic_mine_teleport_detail.png/320px-Volcanic_mine_teleport_detail.png",
-			"displayItemId": 21541,
-			"verification": {
-				"method": "collection-log",
-				"itemIds": [ 21541 ],
-				"count": 1
-			}
-		},
-		{
-			"id": "bc2a8bdc-c562-480d-bca7-ea8727114dbe",
-			"name": "Get a Heat-proof vessel",
-			"tip": "Can be purchased as a reward from the Volcanic Mine minigame.",
-			"wikiLink": "https://oldschool.runescape.wiki/w/Volcanic_Mine",
-			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Heat-proof_vessel_detail.png/320px-Heat-proof_vessel_detail.png",
-			"displayItemId": 25615,
-			"verification": {
-				"method": "collection-log",
-				"itemIds": [ 25615 ],
-				"count": 1
-			}
-		},
-		{
 			"id": "85ab6e99-1f53-415a-94fd-7295bac9b61d",
 			"name": "Get the Ash covered tome",
 			"tip": "Can be purchased as a reward from the Volcanic Mine minigame.",
