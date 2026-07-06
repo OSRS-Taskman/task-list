@@ -10,6 +10,7 @@ import ajv from '@/util/ajv.mjs';
 const CACHE_DIR = './.cache/links';
 const IMAGE_CONTENT_TYPE_REGEX = /^image\/(png|gif)/;
 const HTML_CONTENT_TYPE_REGEX = /^text\/html/;
+const HTTP_STATUS_OK = 200;
 
 function cacheKey(link: string): string {
 	return hash('sha1', link);
@@ -23,7 +24,7 @@ async function validateLink(link: string, contentTypeRegex: RegExp): Promise<boo
 	const res = await fetch(link, { method: 'HEAD' });
 	const contentType = res.headers.get('Content-Type');
 
-	if (res.status !== 200 || !contentType?.match(contentTypeRegex)) {
+	if (res.status !== HTTP_STATUS_OK || !contentType?.match(contentTypeRegex)) {
 		return false;
 	}
 

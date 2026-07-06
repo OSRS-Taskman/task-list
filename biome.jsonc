@@ -1,5 +1,5 @@
 {
-	"$schema": "https://biomejs.dev/schemas/2.0.6/schema.json",
+	"$schema": "./node_modules/@biomejs/biome/configuration_schema.json",
 	"extends": ["ultracite"],
 	"files": {
 		"includes": [
@@ -7,7 +7,7 @@
 			// we'll use FracturedJson to format the tasks files
 			"!tiers/*.json",
 			"!lists/*.json",
-			"!ext/**",
+			"!ext",
 			"!package-lock.json",
 			"!types.d.ts"
 		]
@@ -28,9 +28,16 @@
 				"noConsole": "off"
 			},
 			"nursery": {
-				"noUselessUndefined": "off",
-				"noAwaitInLoop": "off"
+				"noUselessUndefined": "off"
+			},
+			"performance": {
+				"noAwaitInLoops": "off"
 			}
+		}
+	},
+	"javascript": {
+		"formatter": {
+			"quoteStyle": "single"
 		}
 	}
 }
