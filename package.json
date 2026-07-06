@@ -12,7 +12,6 @@
 		"gen:types": "tsx bin/gen-types.mts",
 		"gen:uuids": "tsx bin/validate-uuids.mts --generate",
 		"gen:list:official": "tsx bin/gen-list.mts official easy,medium,hard,elite,master",
-		"gen:list:tedious": "tsx bin/gen-list.mts tedious easy,medium,hard,elite,master-tedious",
 		"all": "npm run format && npm run lint && npm run gen"
 	},
 	"devDependencies": {
