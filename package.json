@@ -6,10 +6,11 @@
 		"lint:ultracite": "ultracite lint",
 		"lint:tasks": "tsx bin/frac.mts --lint tiers/*.json",
 		"lint:schema": "tsx bin/validate-schema.mts",
+		"lint:uuids": "tsx bin/validate-uuids.mts",
 		"lint:links": "tsx bin/validate-links.mts",
-		"lint": "npm run lint:ultracite && npm run lint:tasks && npm run lint:schema && npm run lint:links",
+		"lint": "npm run lint:ultracite && npm run lint:tasks && npm run lint:schema && npm run lint:uuids && npm run lint:links",
 		"gen:types": "tsx bin/gen-types.mts",
-		"gen:uuids": "npx tsx bin/gen-uuids.mts",
+		"gen:uuids": "tsx bin/validate-uuids.mts --generate",
 		"gen:list:official": "tsx bin/gen-list.mts official easy,medium,hard,elite,master",
 		"gen:list:tedious": "tsx bin/gen-list.mts tedious easy,medium,hard,elite,master-tedious",
 		"all": "npm run format && npm run lint && npm run gen"

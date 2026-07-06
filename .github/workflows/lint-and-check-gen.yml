@@ -25,6 +25,9 @@ jobs:
       - name: Lint schema
         run: npm run lint:schema
 
+      - name: Lint UUIDs
+        run: npm run lint:uuids
+
   lint-links:
     runs-on: ubuntu-latest
 
