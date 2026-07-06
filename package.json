@@ -15,20 +15,27 @@
 		"all": "npm run format && npm run lint && npm run gen"
 	},
 	"devDependencies": {
-		"@biomejs/biome": "2.0.6",
-		"@tsconfig/node-ts": "^23.6.1",
-		"@tsconfig/node22": "^22.0.2",
+		"@biomejs/biome": "^2.0.6",
+		"@tsconfig/node-ts": "^23.6.4",
+		"@tsconfig/node26": "^26.0.0",
 		"@types/ajv": "^0.0.5",
-		"@types/node": "^24.0.13",
-		"ajv": "^8.17.1",
+		"@types/node": "^26.1.0",
+		"ajv": "^8.20.0",
 		"ajv-formats": "^3.0.1",
-		"fracturedjsonjs": "^4.1.0",
-		"glob": "^11.0.3",
+		"fracturedjsonjs": "^4.1.1",
+		"glob": "^11.1.0",
 		"json-schema-to-typescript": "^15.0.4",
-		"lefthook": "^1.12.1",
+		"lefthook": "^1.13.6",
 		"radash": "^12.1.1",
-		"tsx": "^4.20.3",
-		"typescript": "^5.8.3",
-		"ultracite": "5.0.32"
+		"tsx": "^4.23.0",
+		"typescript": "^6.0.3",
+		"ultracite": "^7.9.2"
+	},
+	"volta": {
+		"node": "26.4.0"
+	},
+	"allowScripts": {
+		"esbuild": true,
+		"lefthook": true
 	}
 }
