@@ -1,17 +1,8 @@
 {
-	"extends": [
-		"@tsconfig/node26/tsconfig.json",
-		"@tsconfig/node-ts/tsconfig.json"
-	],
+	"extends": ["@tsconfig/node26/tsconfig.json", "@tsconfig/node-ts/tsconfig.json"],
 	"compilerOptions": {
 		"strictNullChecks": true,
-		"lib": [
-			"es2024",
-			"ESNext.Array",
-			"ESNext.Collection",
-			"ESNext.Iterator",
-			"DOM"
-		],
+		"lib": ["es2024", "ESNext.Array", "ESNext.Collection", "ESNext.Iterator", "DOM"],
 		"paths": {
 			"@/*": ["./*"]
 		},
