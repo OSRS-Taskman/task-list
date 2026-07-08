@@ -15,6 +15,7 @@ export interface Root {
 export interface Task {
 	id: string;
 	name: string;
+	shortName?: string;
 	tip?: string;
 	wikiLink: string;
 	imageLink: string;
