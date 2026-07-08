@@ -45,6 +45,10 @@
 			"type": "string",
 			"maxLength": 255
 		},
+		"shortName": {
+			"type": "string",
+			"maxLength": 14
+		},
 		"tip": {
 			"type": "string"
 		},
