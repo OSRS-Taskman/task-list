@@ -1,15 +1,16 @@
 {
+	"$id": "root",
 	"$schema": "http://json-schema.org/draft-07/schema",
 	"type": "object",
 	"definitions": {
 		"task": {
-			"$ref": "task.schema.json#"
+			"$ref": "task"
 		},
 		"task-tier": {
-			"$ref": "task-tier.schema.json#"
+			"$ref": "task-tier"
 		},
 		"task-list": {
-			"$ref": "task-list.schema.json#"
+			"$ref": "task-list"
 		}
 	}
 }
