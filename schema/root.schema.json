@@ -1,16 +1,16 @@
 {
-	"$id": "http://osrs-taskman.com/root.schema.json",
+	"$id": "root.schema.json",
 	"$schema": "http://json-schema.org/draft-07/schema",
 	"type": "object",
 	"definitions": {
 		"task": {
-			"$ref": "task.schema.json#"
+			"$ref": "task.schema.json"
 		},
 		"task-tier": {
-			"$ref": "task-tier.schema.json#"
+			"$ref": "task-tier.schema.json"
 		},
 		"task-list": {
-			"$ref": "task-list.schema.json#"
+			"$ref": "task-list.schema.json"
 		}
 	}
 }

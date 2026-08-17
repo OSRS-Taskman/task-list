@@ -1,5 +1,5 @@
 {
-	"$id": "http://osrs-taskman.com/task.schema.json",
+	"$id": "task.schema.json",
 	"$schema": "http://json-schema.org/draft-07/schema",
 	"definitions": {
 		"diary-region": {

@@ -1,5 +1,5 @@
 {
-	"$id": "http://osrs-taskman.com/task-tier.schema.json",
+	"$id": "task-tier.schema.json",
 	"$schema": "http://json-schema.org/draft-07/schema",
 	"type": "object",
 	"required": ["name", "tasks"],
@@ -12,7 +12,7 @@
 		"tasks": {
 			"type": "array",
 			"items": {
-				"$ref": "task.schema.json#"
+				"$ref": "task.schema.json"
 			}
 		}
 	}

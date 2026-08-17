@@ -6,12 +6,8 @@ import type { TaskList, TaskTier } from '@/types.js';
 import ajv from '@/util/ajv.mjs';
 
 // type "casting" is required here for type guards to work
-const validateTier = ajv.getSchema(
-	'http://osrs-taskman.com/task-tier.schema.json'
-) as ValidateFunction<TaskTier>;
-const validateList = ajv.getSchema(
-	'http://osrs-taskman.com/task-list.schema.json'
-) as ValidateFunction<TaskList>;
+const validateTier = ajv.getSchema('task-tier.schema.json') as ValidateFunction<TaskTier>;
+const validateList = ajv.getSchema('task-list.schema.json') as ValidateFunction<TaskList>;
 
 const allErrors = new Map<string, DefinedError[]>();
 
