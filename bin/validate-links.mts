@@ -33,9 +33,7 @@ async function validateLink(link: string, contentTypeRegex: RegExp): Promise<boo
 }
 
 // type "casting" is required here for type guards to work
-const validateTier = ajv.getSchema(
-	'http://osrs-taskman.com/task-tier.schema.json'
-) as ValidateFunction<TaskTier>;
+const validateTier = ajv.getSchema('task-tier') as ValidateFunction<TaskTier>;
 
 // create cache directory if needed
 await mkdir(CACHE_DIR, { recursive: true });

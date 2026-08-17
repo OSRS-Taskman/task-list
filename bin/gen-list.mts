@@ -9,9 +9,7 @@ const [listName, tierString] = process.argv.slice(2);
 const listTiers = tierString.split(',');
 
 // type "casting" is required here for type guards to work
-const validateTier = ajv.getSchema(
-	'http://osrs-taskman.com/task-tier.schema.json'
-) as ValidateFunction<TaskTier>;
+const validateTier = ajv.getSchema('task-tier') as ValidateFunction<TaskTier>;
 
 const listData: TaskList = {};
 for (const tier of listTiers) {

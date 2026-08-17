@@ -1,5 +1,4 @@
 import { writeFile } from 'node:fs/promises';
-import { basename } from 'node:path';
 import { compileFromFile } from 'json-schema-to-typescript';
 import { pascal } from 'radash';
 
@@ -10,7 +9,7 @@ const typeContent = await compileFromFile(file, {
 			type.tsEnumNames = type.tsEnumNames.map((v) => pascal(v));
 		}
 
-		return type?.$id ? pascal(basename(type.$id, '.schema.json')) : undefined;
+		return type?.$id ? pascal(type.$id) : undefined;
 	},
 	inferStringEnumKeysFromValues: true,
 	unreachableDefinitions: true,
