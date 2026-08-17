@@ -2,10 +2,8 @@ import { hash } from 'node:crypto';
 import { mkdir, readFile, writeFile } from 'node:fs/promises';
 import { basename } from 'node:path';
 import { exit } from 'node:process';
-import type { ValidateFunction } from 'ajv';
 import { Glob } from 'glob';
 import type { TaskTier } from '@/types.js';
-import ajv from '@/util/ajv.mjs';
 
 const CACHE_DIR = './.cache/links';
 const IMAGE_CONTENT_TYPE_REGEX = /^image\/(png|gif)/;
@@ -32,9 +30,6 @@ async function validateLink(link: string, contentTypeRegex: RegExp): Promise<boo
 	return true;
 }
 
-// type "casting" is required here for type guards to work
-const validateTier = ajv.getSchema('task-tier') as ValidateFunction<TaskTier>;
-
 // create cache directory if needed
 await mkdir(CACHE_DIR, { recursive: true });
 
@@ -52,11 +47,7 @@ const imageLinks = new Set<string>();
 
 const tierWalker = new Glob('./tiers/*.json', {});
 for await (const tierFile of tierWalker) {
-	const tierData = JSON.parse((await readFile(tierFile)).toString());
-	if (!validateTier(tierData)) {
-		console.error(`File ${tierFile} does not match schema`);
-		exit(1);
-	}
+	const tierData: TaskTier = JSON.parse((await readFile(tierFile)).toString());
 
 	for (const task of tierData.tasks) {
 		wikiLinks.add(task.wikiLink);
