@@ -3677,6 +3677,20 @@
 				"itemIds": [ 33634, 33631 ],
 				"count": 2
 			}
+		},
+		{
+			"id": "f9351598-f337-4203-953f-56431d427952",
+			"name": "Get the Slepey Tablet",
+			"shortName": "Slepey Tablet",
+			"tip": "Guaranteed drop at 25kc at Phosani's Nightmare.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Phosani%27s_Nightmare",
+			"imageLink": "https://oldschool.runescape.wiki/w/Slepey_tablet#/media/File:Slepey_tablet_detail.png",
+			"displayItemId": 25837,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 25837 ],
+				"count": 1
+			}
 		}
 	]
 }
