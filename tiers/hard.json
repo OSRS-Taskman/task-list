@@ -3450,20 +3450,6 @@
 			}
 		},
 		{
-			"id": "051b908c-c675-4946-a508-1816cb35022c",
-			"name": "Get a Narwhal horn",
-			"shortName": "Narwhal Horn",
-			"tip": "Obtained as a drop from Narwhals.",
-			"wikiLink": "https://oldschool.runescape.wiki/w/Narwhal_horn",
-			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Narwhal_horn_detail.png/320px-Narwhal_horn_detail.png",
-			"displayItemId": 31954,
-			"verification": {
-				"method": "collection-log",
-				"itemIds": [ 31954 ],
-				"count": 1
-			}
-		},
-		{
 			"id": "b5278998-7a38-4f11-a816-0cd3256cfbcc",
 			"name": "Get a Broken dragon hook",
 			"shortName": "Broken D Hook",
