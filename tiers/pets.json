@@ -858,6 +858,19 @@
 				"itemIds": [ 33642 ],
 				"count": 1
 			}
+		},
+		{
+			"id": "",
+			"name": "Mr McGroot",
+			"tip": "Can be obtained by hunting goats on Wyrmscraig.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Mr_McGroot",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Mr_McGroot_(follower).png/320px-Mr_McGroot_(follower).png",
+			"displayItemId": 34040,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 34040 ],
+				"count": 1
+			}
 		}
 	]
 }
