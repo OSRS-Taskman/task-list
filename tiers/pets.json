@@ -832,6 +832,19 @@
 				"itemIds": [ 33124 ],
 				"count": 1
 			}
+		},
+		{
+			"id": "77fa8b90-bb18-416c-afc2-d41cc46dca20",
+			"name": "Aggy",
+			"tip": "Can be obtained by defeating the Mad Angel.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Aggy",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Aggy_(follower).png/320px-Aggy_(follower).png",
+			"displayItemId": 34042,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 34042 ],
+				"count": 1
+			}
 		}
 	]
 }
