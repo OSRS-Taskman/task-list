@@ -845,6 +845,19 @@
 				"itemIds": [ 34042 ],
 				"count": 1
 			}
+		},
+		{
+			"id": "",
+			"name": "Maggot marquess",
+			"tip": "Can be obtained by defeating the Maggot King.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Maggot_marquess",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Maggot_marquess_(follower).png/320px-Maggot_marquess_(follower).png",
+			"displayItemId": 33642,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 33642 ],
+				"count": 1
+			}
 		}
 	]
 }
