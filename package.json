@@ -22,6 +22,7 @@
 		"@types/node": "^26.1.0",
 		"ajv": "^8.20.0",
 		"ajv-formats": "^3.0.1",
+		"fastest-levenshtein": "^1.0.16",
 		"fracturedjsonjs": "^4.1.1",
 		"glob": "^11.1.0",
 		"json-schema-to-typescript": "^15.0.4",
