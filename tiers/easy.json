@@ -2459,7 +2459,7 @@
 			}
 		},
 		{
-			"id": "3a0fb1be-70be-4caa-a84b-99d2c331cbfe",
+			"id": "",
 			"name": "Get the Sulphur blades",
 			"shortName": "Sulphur Blades",
 			"tip": "Obtained as a drop from Sulphur Naguas. Requires partial completion of the Perilous Moons quest.",
@@ -2472,7 +2472,7 @@
 				"count": 1
 			}
 		},
-		{
+{
 			"id": "f000fd28-3515-4667-a1fc-65ef5c6333aa",
 			"name": "Get a Colossal wyrm teleport scroll",
 			"shortName": "Wyrm TP Scroll",

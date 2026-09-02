@@ -1,0 +1,67 @@
+name: Fix All The Shit
+
+on:
+  pull_request:
+
+jobs:
+  check-sensitive:
+    runs-on: ubuntu-latest
+
+    outputs:
+      require-approval: ${{ steps.changed-sensitive.outputs.any_changed }}
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v7
+        with:
+          repository: ${{ github.event.pull_request.head.repo.full_name }}
+
+      - name: Get changed sensitive files
+        id: changed-sensitive
+        uses: tj-actions/changed-files@v47
+        with:
+          files: |
+            .github/**
+            package*.json
+            **.mts
+            lefthook.yml
+
+  fix-stuff:
+    runs-on: ubuntu-latest
+    needs: check-sensitive
+    #if: needs.check-sensitive.outputs.require-approval != 'true'
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v7
+        with:
+          token: ${{ secrets.ROBOT_GITHUB_TOKEN }}
+          ref: ${{ github.head_ref }}
+
+      - uses: ./.github/actions/setup
+
+      - name: Format Code
+        run: npm run format
+
+      - uses: stefanzweifel/git-auto-commit-action@v7
+        with:
+          commit_message: format everything
+
+      - name: Generate UUIDs
+        run: npm run gen:uuids
+
+      - uses: stefanzweifel/git-auto-commit-action@v7
+        with:
+          commit_message: generate missing UUIDs
+
+  # fix-stuff-review:
+  #   runs-on: ubuntu-latest
+  #   needs: check-sensitive
+  #   if: needs.check-sensitive.outputs.require-approval == 'true'
+  #   environment: Require Approval
+  #   steps:
+  #     - name: Hi
+  #       run: echo 'Alan'
