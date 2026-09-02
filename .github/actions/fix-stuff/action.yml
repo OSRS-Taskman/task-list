@@ -1,0 +1,28 @@
+name: Fix Formatting & Generate UUIDs
+description: Fixes formatiting, generates missing UUUIDs and commits changes
+
+outputs:
+  changes_detected:
+    description: Whether any changes were detected after formatting and generating UUIDs
+    value: ${{ steps.commit-changes.outputs.changes_detected }}
+
+runs:
+  using: composite
+  steps:
+    - uses: ./.github/actions/setup
+
+    - name: Format Code
+      shell: bash
+      run: npm run format
+
+    - name: Generate UUIDs
+      shell: bash
+      run: npm run gen:uuids
+
+    - name: Commit Formatted Code & Generated UUIDs
+      id: commit-changes
+      uses: stefanzweifel/git-auto-commit-action@v7
+      with:
+        commit_user_name: osrs-taskbot
+        commit_user_email: r.mobis+taskbot@gmail.com
+        commit_message: "[skip-fix] format everything and generate missing UUIDs"
