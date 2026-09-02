@@ -1,0 +1,173 @@
+name: Fix & Lint
+
+on:
+  pull_request_target:
+    branches: ["main"]
+
+jobs:
+  check-sensitive:
+    name: Check for Sensitive Files
+    runs-on: ubuntu-latest
+
+    outputs:
+      require_approval: ${{ steps.changed-sensitive.outputs.any_changed || false }}
+      skip_fix: ${{ contains(steps.skip-fix.outputs.commit_message, 'skip-fix') }}
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v7
+        with:
+          fetch-depth: 2
+
+      - name: Check Changed Sensitive Files
+        id: changed-sensitive
+        if: github.event.pull_request.head.repo.full_name != github.event.pull_request.base.repo.full_name
+        uses: tj-actions/changed-files@v47
+        with:
+          files: |
+            .github/**
+            package*.json
+            **.mts
+            lefthook.yml
+
+      - name: Get Latest Commit Message
+        id: skip-fix
+        run: |
+          echo 'commit_message<<EOF' >> $GITHUB_OUTPUT
+          git log -1 --pretty=%B ${{ github.event.pull_request.head.sha }} >> $GITHUB_OUTPUT
+          echo 'EOF' >> $GITHUB_OUTPUT
+
+  fix:
+    name: Fix
+    runs-on: ubuntu-latest
+    needs: check-sensitive
+    if: |
+      always() &&
+      needs.check-sensitive.outputs.skip_fix != 'true' &&
+      needs.check-sensitive.outputs.require_approval == 'false'
+
+    outputs:
+      changes_detected: ${{ steps.fix-stuff.outputs.changes_detected }}
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v7
+        with:
+          token: ${{ secrets.ROBOT_GITHUB_TOKEN }}
+          repository: ${{ github.event.pull_request.head.repo.full_name }}
+          ref: ${{ github.head_ref }}
+          allow-unsafe-pr-checkout: true
+
+      - name: Fix Stuff
+        id: fix-stuff
+        uses: ./.github/actions/fix-stuff
+        with:
+          commit_author: "${{ github.event.pull_request.user.login }} <${{ github.event.pull_request.user.login }}+${{ github.event.pull_request.user.id }}@users.noreply.github.com>"
+
+  fix-sensitive:
+    name: Fix (Sensitive)
+    runs-on: ubuntu-latest
+    environment: Require Approval
+    needs: check-sensitive
+    if: |
+      always() &&
+      needs.check-sensitive.outputs.skip_fix != 'true' &&
+      needs.check-sensitive.outputs.require_approval == 'true'
+
+    outputs:
+      changes_detected: false
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v7
+        with:
+          token: ${{ secrets.ROBOT_GITHUB_TOKEN }}
+          repository: ${{ github.event.pull_request.head.repo.full_name }}
+          ref: ${{ github.head_ref }}
+          allow-unsafe-pr-checkout: true
+
+      - name: Fix Stuff
+        id: fix-stuff
+        uses: ./.github/actions/fix-stuff
+        with:
+          commit_author: "${{ github.event.pull_request.user.login }} <${{ github.event.pull_request.user.login }}+${{ github.event.pull_request.user.id }}@users.noreply.github.com>"
+
+  lint:
+    name: General Linting
+    needs: [fix, fix-sensitive]
+    if: |
+      always() &&
+      needs.fix.outputs.changes_detected != 'true' && needs.fix-sensitive.outputs.changes_detected != 'true'
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v7
+
+      - uses: ./.github/actions/setup
+
+      - name: Lint code
+        run: npm run lint:ultracite
+
+      - name: Lint tasks
+        run: npm run lint:tasks
+
+      - name: Lint schema
+        run: npm run lint:schema
+
+      - name: Lint UUIDs
+        run: npm run lint:uuids
+
+  lint-links:
+    name: Link Links
+    needs: [fix, fix-sensitive]
+    if: |
+      always() &&
+      needs.fix.outputs.changes_detected != 'true' && needs.fix-sensitive.outputs.changes_detected != 'true'
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v7
+
+      - uses: ./.github/actions/setup
+
+      - name: Cache
+        uses: actions/cache@v6
+        with:
+          path: .cache
+          key: cache-${{ hashFiles('tiers/*.json') }}
+          restore-keys: |
+            cache-
+
+      - name: Lint links
+        run: npm run lint:links
+
+  check-types:
+    name: Check Typescript Types
+    needs: [fix, fix-sensitive]
+    if: |
+      always() &&
+      needs.fix.outputs.changes_detected != 'true' && needs.fix-sensitive.outputs.changes_detected != 'true'
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v7
+
+      - uses: ./.github/actions/setup
+
+      - name: Generate types
+        run: npm run gen:types
+
+      - name: Ensure types are up to date
+        run: |
+          if [ -n "$(git status --porcelain)" ]; then
+            exit 1
+          fi
