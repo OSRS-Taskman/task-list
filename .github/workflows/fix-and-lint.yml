@@ -24,7 +24,7 @@ jobs:
 
       - name: Check Changed Sensitive Files
         id: check-sensitive
-        if: github.event.pull_request.head.repo.full_name != github.event.pull_request.base.repo.full_name
+        # if: github.event.pull_request.head.repo.full_name != github.event.pull_request.base.repo.full_name
         uses: tj-actions/changed-files@v47
         with:
           files: |
@@ -48,8 +48,7 @@ jobs:
     if: needs.check-prereqs.outputs.require_approval != 'false'
 
     steps:
-      - name: Approval Received
-        run: echo 'Approved'
+      - run: true
 
   safety-gate:
     name: Safety Gate
@@ -61,8 +60,7 @@ jobs:
       (needs.request-approval.result == 'success' || needs.check-prereqs.outputs.require_approval == 'false')
 
     steps:
-      - name: Gate Passed
-        run: echo 'Passed'
+      - run: true
 
   fix:
     name: Fix
@@ -114,8 +112,7 @@ jobs:
       needs.fix.outputs.skip_lint != 'true'
 
     steps:
-      - name: Gate Passed
-        run: echo 'Passed'
+      - run: true
 
   lint:
     name: General Linting
