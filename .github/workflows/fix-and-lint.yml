@@ -17,7 +17,10 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v7
         with:
+          repository: ${{ github.event.pull_request.head.repo.full_name }}
+          ref: ${{ github.head_ref }}
           fetch-depth: 2
+          allow-unsafe-pr-checkout: true
 
       - name: Check Changed Sensitive Files
         id: changed-sensitive
