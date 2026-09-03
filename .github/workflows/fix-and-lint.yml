@@ -69,6 +69,7 @@ jobs:
     runs-on: ubuntu-latest
     needs: [safety-gate, check-prereqs]
     if: |
+      always() &&
       needs.safety-gate.result == 'success' &&
       needs.check-prereqs.result == 'success' &&
       needs.check-prereqs.outputs.skip_fix != 'true'
