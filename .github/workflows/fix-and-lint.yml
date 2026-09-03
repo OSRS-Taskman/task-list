@@ -74,8 +74,7 @@ jobs:
     needs: check-sensitive
     if: |
       always() &&
-      needs.check-sensitive.outputs.skip_fix != 'true' &&
-      needs.check-sensitive.outputs.require_approval == 'true'
+      needs.check-sensitive.outputs.require_approval != 'false'
 
     outputs:
       changes_detected: false
