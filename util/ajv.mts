@@ -7,6 +7,7 @@ import { Glob } from 'glob';
 const ajv: Ajv = addFormats(new Ajv());
 
 const schemaWalker = new Glob('./schema/*.schema.json', {});
+
 for await (const file of schemaWalker) {
 	const schema = JSON.parse((await readFile(file)).toString());
 	ajv.addSchema(schema);
