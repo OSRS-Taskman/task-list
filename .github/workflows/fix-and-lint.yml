@@ -17,7 +17,10 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v7
         with:
+          repository: ${{ github.event.pull_request.head.repo.full_name }}
+          ref: ${{ github.head_ref }}
           fetch-depth: 2
+          allow-unsafe-pr-checkout: true
 
       - name: Check Changed Sensitive Files
         id: changed-sensitive
@@ -33,6 +36,7 @@ jobs:
       - name: Get Latest Commit Message
         id: skip-fix
         run: |
+          git log
           echo 'commit_message<<EOF' >> $GITHUB_OUTPUT
           git log -1 --pretty=%B ${{ github.event.pull_request.head.sha }} >> $GITHUB_OUTPUT
           echo 'EOF' >> $GITHUB_OUTPUT
@@ -74,8 +78,7 @@ jobs:
     needs: check-sensitive
     if: |
       always() &&
-      needs.check-sensitive.outputs.skip_fix != 'true' &&
-      needs.check-sensitive.outputs.require_approval == 'true'
+      needs.check-sensitive.outputs.require_approval != 'false'
 
     outputs:
       changes_detected: false
