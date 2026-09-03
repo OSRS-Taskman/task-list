@@ -5,12 +5,12 @@ on:
     branches: ["main"]
 
 jobs:
-  check-sensitive:
-    name: Check for Sensitive Files
+  check-prereqs:
+    name: Check for Prerequisites
     runs-on: ubuntu-latest
 
     outputs:
-      require_approval: ${{ steps.changed-sensitive.outputs.any_changed || false }}
+      require_approval: ${{ steps.check-sensitive.outputs.any_changed || false }}
       skip_fix: ${{ contains(steps.skip-fix.outputs.commit_message, 'skip-fix') }}
 
     steps:
@@ -23,7 +23,7 @@ jobs:
           allow-unsafe-pr-checkout: true
 
       - name: Check Changed Sensitive Files
-        id: changed-sensitive
+        id: check-sensitive
         if: github.event.pull_request.head.repo.full_name != github.event.pull_request.base.repo.full_name
         uses: tj-actions/changed-files@v47
         with:
@@ -36,25 +36,45 @@ jobs:
       - name: Get Latest Commit Message
         id: skip-fix
         run: |
-          git log
           echo 'commit_message<<EOF' >> $GITHUB_OUTPUT
           git log -1 --pretty=%B ${{ github.event.pull_request.head.sha }} >> $GITHUB_OUTPUT
           echo 'EOF' >> $GITHUB_OUTPUT
 
+  request-approval:
+    name: Request Approval
+    runs-on: ubuntu-latest
+    environment: Require Approval
+    needs: check-prereqs
+    if: needs.check-prereqs.outputs.require_approval != 'false'
+
+    steps:
+      - name: Approval Received
+        run: echo 'Approved'
+
+  safety-gate:
+    name: Safety Gate
+    runs-on: ubuntu-latest
+    needs: [check-prereqs, request-approval]
+    if: |
+      always() &&
+      needs.check-prereqs.result == 'success' &&
+      (needs.check-prereqs.outputs.require_approval == 'false' || needs.request-approval.result == 'success')
+
+    steps:
+      - name: Gate Passed
+        run: echo 'Passed'
+
   fix:
     name: Fix
     runs-on: ubuntu-latest
-    needs: check-sensitive
+    needs: [safety-gate, check-prereqs]
     if: |
-      always() &&
-      needs.check-sensitive.outputs.skip_fix != 'true' &&
-      needs.check-sensitive.outputs.require_approval == 'false'
+      needs.safety-gate.result == 'success' &&
+      needs.check-prereqs.result == 'success' &&
+      needs.check-prereqs.outputs.skip_fix != 'true'
 
     outputs:
-      changes_detected: ${{ steps.fix-stuff.outputs.changes_detected }}
-
-    permissions:
-      contents: write
+      skip_lint: ${{ steps.commit-changes.outputs.changes_detected }}
 
     steps:
       - name: Checkout repository
@@ -64,49 +84,41 @@ jobs:
           repository: ${{ github.event.pull_request.head.repo.full_name }}
           ref: ${{ github.head_ref }}
           allow-unsafe-pr-checkout: true
+      - uses: ./.github/actions/setup
 
-      - name: Fix Stuff
-        id: fix-stuff
-        uses: ./.github/actions/fix-stuff
+      - name: Format Code
+        shell: bash
+        run: npm run format
+
+      - name: Generate UUIDs
+        shell: bash
+        run: npm run gen:uuids
+
+      - name: Commit Changes
+        id: commit-changes
+        uses: stefanzweifel/git-auto-commit-action@v7
         with:
           commit_author: "${{ github.event.pull_request.user.login }} <${{ github.event.pull_request.user.login }}+${{ github.event.pull_request.user.id }}@users.noreply.github.com>"
+          commit_user_name: osrs-taskbot
+          commit_user_email: r.mobis+taskbot@gmail.com
+          commit_message: "[skip-fix] format and generate missing UUIDs"
 
-  fix-sensitive:
-    name: Fix (Sensitive)
+  lint-gate:
+    name: Lint Gate
     runs-on: ubuntu-latest
-    environment: Require Approval
-    needs: check-sensitive
+    needs: [safety-gate, fix]
     if: |
       always() &&
-      needs.check-sensitive.outputs.require_approval != 'false'
-
-    outputs:
-      changes_detected: false
-
-    permissions:
-      contents: write
+      needs.safety-gate.result == 'success' &&
+      needs.fix.outputs.skip_lint != 'true'
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v7
-        with:
-          token: ${{ secrets.ROBOT_GITHUB_TOKEN }}
-          repository: ${{ github.event.pull_request.head.repo.full_name }}
-          ref: ${{ github.head_ref }}
-          allow-unsafe-pr-checkout: true
-
-      - name: Fix Stuff
-        id: fix-stuff
-        uses: ./.github/actions/fix-stuff
-        with:
-          commit_author: "${{ github.event.pull_request.user.login }} <${{ github.event.pull_request.user.login }}+${{ github.event.pull_request.user.id }}@users.noreply.github.com>"
+      - name: Gate Passed
+        run: echo 'Passed'
 
   lint:
     name: General Linting
-    needs: [fix, fix-sensitive]
-    if: |
-      always() &&
-      needs.fix.outputs.changes_detected != 'true' && needs.fix-sensitive.outputs.changes_detected != 'true'
+    needs: lint-gate
     runs-on: ubuntu-latest
 
     steps:
@@ -129,10 +141,7 @@ jobs:
 
   lint-links:
     name: Link Links
-    needs: [fix, fix-sensitive]
-    if: |
-      always() &&
-      needs.fix.outputs.changes_detected != 'true' && needs.fix-sensitive.outputs.changes_detected != 'true'
+    needs: lint-gate
     runs-on: ubuntu-latest
 
     steps:
@@ -154,10 +163,7 @@ jobs:
 
   check-types:
     name: Check Typescript Types
-    needs: [fix, fix-sensitive]
-    if: |
-      always() &&
-      needs.fix.outputs.changes_detected != 'true' && needs.fix-sensitive.outputs.changes_detected != 'true'
+    needs: lint-gate
     runs-on: ubuntu-latest
 
     steps:
