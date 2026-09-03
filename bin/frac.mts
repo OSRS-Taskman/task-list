@@ -28,6 +28,7 @@ let fileCount = 0,
 const walker = new Glob(fileGlobs, {});
 for await (const file of walker) {
 	fileCount++;
+
 	const content = (await readFile(file)).toString();
 	const formattedContent = fmt.Reformat(content);
 
