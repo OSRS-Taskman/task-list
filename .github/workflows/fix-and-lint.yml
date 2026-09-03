@@ -101,6 +101,7 @@ jobs:
           commit_user_name: osrs-taskbot
           commit_user_email: r.mobis+taskbot@gmail.com
           commit_message: "[skip-fix] format and generate missing UUIDs"
+          disable_pull_request_target_trigger_warning: true
 
   lint-gate:
     name: Lint Gate
