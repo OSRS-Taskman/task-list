@@ -129,17 +129,18 @@ jobs:
 
       - uses: ./.github/actions/setup
 
-      - name: Lint code
-        run: npm run lint:ultracite
+      - parallel:
+          - name: Lint code
+            run: npm run lint:ultracite
 
-      - name: Lint tasks
-        run: npm run lint:tasks
+          - name: Lint tasks
+            run: npm run lint:tasks
 
-      - name: Lint schema
-        run: npm run lint:schema
+          - name: Lint schema
+            run: npm run lint:schema
 
-      - name: Lint UUIDs
-        run: npm run lint:uuids
+          - name: Lint UUIDs
+            run: npm run lint:uuids
 
   lint-links:
     name: Link Links
