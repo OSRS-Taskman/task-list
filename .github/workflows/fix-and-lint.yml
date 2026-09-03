@@ -33,10 +33,10 @@ jobs:
       - name: Get Latest Commit Message
         id: skip-fix
         run: |
+          git log
           echo 'commit_message<<EOF' >> $GITHUB_OUTPUT
           git log -1 --pretty=%B ${{ github.event.pull_request.head.sha }} >> $GITHUB_OUTPUT
           echo 'EOF' >> $GITHUB_OUTPUT
-          git log
 
   fix:
     name: Fix
