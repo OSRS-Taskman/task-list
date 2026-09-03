@@ -7,7 +7,7 @@ on:
 jobs:
   check-prereqs:
     name: Check for Prerequisites
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-slim
 
     outputs:
       require_approval: ${{ steps.check-sensitive.outputs.any_changed || false }}
@@ -42,7 +42,7 @@ jobs:
 
   request-approval:
     name: Request Approval
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-slim
     environment: Require Approval
     needs: check-prereqs
     if: needs.check-prereqs.outputs.require_approval != 'false'
@@ -53,12 +53,12 @@ jobs:
 
   safety-gate:
     name: Safety Gate
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-slim
     needs: [check-prereqs, request-approval]
     if: |
       always() &&
       needs.check-prereqs.result == 'success' &&
-      (needs.check-prereqs.outputs.require_approval == 'false' || needs.request-approval.result == 'success')
+      (needs.request-approval.result == 'success' || needs.check-prereqs.outputs.require_approval == 'false')
 
     steps:
       - name: Gate Passed
@@ -66,7 +66,7 @@ jobs:
 
   fix:
     name: Fix
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-slim
     needs: [safety-gate, check-prereqs]
     if: |
       always() &&
@@ -106,7 +106,7 @@ jobs:
 
   lint-gate:
     name: Lint Gate
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-slim
     needs: [safety-gate, fix]
     if: |
       always() &&
@@ -123,7 +123,7 @@ jobs:
     if: |
       always() &&
       needs.lint-gate.result == 'success'
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-slim
 
     steps:
       - name: Checkout repository
@@ -149,7 +149,7 @@ jobs:
     if: |
       always() &&
       needs.lint-gate.result == 'success'
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-slim
 
     steps:
       - name: Checkout repository
@@ -174,7 +174,7 @@ jobs:
     if: |
       always() &&
       needs.lint-gate.result == 'success'
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-slim
 
     steps:
       - name: Checkout repository
