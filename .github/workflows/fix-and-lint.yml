@@ -158,7 +158,7 @@ jobs:
         uses: actions/cache@v6
         with:
           path: .cache
-          key: cache-${{ hashFiles('tiers/*.json') }}
+          key: cache-${{ hashFiles('bin/validate-links.json') }}
           restore-keys: |
             cache-
 
