@@ -1,4 +1,7 @@
 {
+	"engines": {
+		"node": "^26"
+	},
 	"scripts": {
 		"format:ultracite": "ultracite fix",
 		"format:tasks": "tsx bin/frac.mts tiers/*.json",
@@ -19,7 +22,7 @@
 		"@tsconfig/node-ts": "^23.6.4",
 		"@tsconfig/node26": "^26.0.0",
 		"@types/ajv": "^0.0.5",
-		"@types/node": "^26.1.0",
+		"@types/node": "^26",
 		"ajv": "^8.20.0",
 		"ajv-formats": "^3.0.1",
 		"fastest-levenshtein": "^1.0.16",
