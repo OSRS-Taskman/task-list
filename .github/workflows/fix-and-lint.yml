@@ -145,9 +145,11 @@ jobs:
 
           - name: Lint UUIDs
             run: npm run lint:uuids
+          - name: Lint node types
+            run: npm run lint:node-types
 
   lint-links:
-    name: Link Links
+    name: Lint Links
     needs: lint-gate
     if: |
       always() &&

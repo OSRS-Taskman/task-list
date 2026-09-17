@@ -8,7 +8,8 @@
 		"lint:schema": "tsx bin/validate-schema.mts",
 		"lint:uuids": "tsx bin/validate-uuids.mts",
 		"lint:links": "tsx bin/validate-links.mts",
-		"lint": "npm run lint:ultracite && npm run lint:tasks && npm run lint:schema && npm run lint:uuids && npm run lint:links",
+		"lint:node-types": "check-node-types --print --source devEngines",
+		"lint": "npm run lint:ultracite && npm run lint:tasks && npm run lint:schema && npm run lint:uuids && npm run lint:links && npm run lint:node-types",
 		"gen:types": "tsx bin/gen-types.mts",
 		"gen:uuids": "tsx bin/validate-uuids.mts --generate",
 		"gen:list:official": "tsx bin/gen-list.mts official easy,medium,hard,elite,master",
@@ -22,6 +23,7 @@
 		"@types/node": "^26",
 		"ajv": "^8.20.0",
 		"ajv-formats": "^3.0.1",
+		"check-node-types": "github:rmobis/check-node-types#rmobis/devEngines-build",
 		"fastest-levenshtein": "^1.0.16",
 		"fracturedjsonjs": "^4.1.1",
 		"glob": "^11.1.0",
@@ -41,6 +43,7 @@
 	},
 	"allowScripts": {
 		"esbuild": true,
-		"lefthook": true
+		"lefthook": true,
+		"github:rmobis/check-node-types#22b7e71f0c78d7fa951c5c3e45c03f81b97b2949": true
 	}
 }
