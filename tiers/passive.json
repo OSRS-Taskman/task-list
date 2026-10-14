@@ -10,7 +10,10 @@
 			"displayItemId": 3057,
 			"verification": {
 				"method": "collection-log",
-				"itemIds": [ 25129, 25131, 25133, 25135, 25137, 6656, 6654, 6655, 6182, 6180, 6181, 7594, 7592, 7593, 7596, 7595, 6183, 3057, 3058, 3059, 3060, 3061],
+				"itemIds": [
+					25129, 25131, 25133, 25135, 25137,  6656,  6654,  6655,  6182,  6180,  6181,
+					 7594,  7592,  7593,  7596,  7595,  6183,  3057,  3058,  3059,  3060,  3061
+				],
 				"count": 22
 			}
 		},
@@ -112,9 +115,9 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Brimstone_chest",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Brimstone_key_detail.png/1024px-Brimstone_key_detail.png",
 			"displayItemId": 23083,
-			"verification":{
+			"verification": {
 				"method": "collection-log",
-				"itemIds": [ 22963, 23047, 23050, 23053, 23056, 23059],
+				"itemIds": [ 22963, 23047, 23050, 23053, 23056, 23059 ],
 				"count": 3
 			}
 		},
@@ -125,9 +128,9 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Brimstone_chest",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Brimstone_key_detail.png/1024px-Brimstone_key_detail.png",
 			"displayItemId": 23083,
-			"verification":{
+			"verification": {
 				"method": "collection-log",
-				"itemIds": [ 22963, 23047, 23050, 23053, 23056, 23059],
+				"itemIds": [ 22963, 23047, 23050, 23053, 23056, 23059 ],
 				"count": 4
 			}
 		},
@@ -138,9 +141,9 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Brimstone_chest",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Brimstone_key_detail.png/1024px-Brimstone_key_detail.png",
 			"displayItemId": 23083,
-			"verification":{
+			"verification": {
 				"method": "collection-log",
-				"itemIds": [ 22963, 23047, 23050, 23053, 23056, 23059],
+				"itemIds": [ 22963, 23047, 23050, 23053, 23056, 23059 ],
 				"count": 5
 			}
 		},
@@ -151,9 +154,9 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Brimstone_chest",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Brimstone_key_detail.png/1024px-Brimstone_key_detail.png",
 			"displayItemId": 23083,
-			"verification":{
+			"verification": {
 				"method": "collection-log",
-				"itemIds": [ 22963, 23047, 23050, 23053, 23056, 23059],
+				"itemIds": [ 22963, 23047, 23050, 23053, 23056, 23059 ],
 				"count": 3
 			}
 		},
@@ -949,7 +952,7 @@
 			"displayItemId": 24034,
 			"verification": {
 				"method": "collection-log",
-				"itemIds": [ 24034, 24037, 24040, 24043, 24046],
+				"itemIds": [ 24034, 24037, 24040, 24043, 24046 ],
 				"count": 1
 			}
 		},
@@ -962,7 +965,7 @@
 			"displayItemId": 24034,
 			"verification": {
 				"method": "collection-log",
-				"itemIds": [ 24034, 24037, 24040, 24043, 24046],
+				"itemIds": [ 24034, 24037, 24040, 24043, 24046 ],
 				"count": 2
 			}
 		},
@@ -975,7 +978,7 @@
 			"displayItemId": 24034,
 			"verification": {
 				"method": "collection-log",
-				"itemIds": [ 24034, 24037, 24040, 24043, 24046],
+				"itemIds": [ 24034, 24037, 24040, 24043, 24046 ],
 				"count": 3
 			}
 		},
@@ -988,7 +991,7 @@
 			"displayItemId": 24034,
 			"verification": {
 				"method": "collection-log",
-				"itemIds": [ 24034, 24037, 24040, 24043, 24046],
+				"itemIds": [ 24034, 24037, 24040, 24043, 24046 ],
 				"count": 4
 			}
 		},
@@ -1001,7 +1004,7 @@
 			"displayItemId": 24034,
 			"verification": {
 				"method": "collection-log",
-				"itemIds": [ 24034, 24037, 24040, 24043, 24046],
+				"itemIds": [ 24034, 24037, 24040, 24043, 24046 ],
 				"count": 5
 			}
 		},
@@ -1015,11 +1018,11 @@
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [
-					21387, 10476, 20238, 10326, 10327, 7331, 7330, 7329, 12402, 12403,
-					12404, 12405, 12406, 12407, 12408, 12409, 12410, 12411, 12642, 20220,
-					20223, 20226, 20229, 20232, 20235, 12621, 12622, 12623, 12634, 12613,
-					12614, 12615, 12616, 12617, 12618, 12619, 12620, 3827, 3828, 3829,
-					3830, 3831, 3832, 3833, 3834, 3835, 3836, 3837, 3838
+					21387, 10476, 20238, 10326, 10327,  7331,  7330,  7329, 12402, 12403, 12404,
+					12405, 12406, 12407, 12408, 12409, 12410, 12411, 12642, 20220, 20223, 20226,
+					20229, 20232, 20235, 12621, 12622, 12623, 12634, 12613, 12614, 12615, 12616,
+					12617, 12618, 12619, 12620,  3827,  3828,  3829,  3830,  3831,  3832,  3833,
+					 3834,  3835,  3836,  3837,  3838
 				],
 				"count": 49
 			}
@@ -1031,7 +1034,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Gilded_full_helm",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Gilded_full_helm_detail.png/110px-Gilded_full_helm_detail.png",
 			"displayItemId": 3486,
-			"verification":{
+			"verification": {
 				"method": "collection-log",
 				"itemIds": [ 3486 ],
 				"count": 1
@@ -1044,7 +1047,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Gilded_platebody",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Gilded_platebody_detail.png/120px-Gilded_platebody_detail.png",
 			"displayItemId": 3481,
-			"verification":{
+			"verification": {
 				"method": "collection-log",
 				"itemIds": [ 3481 ],
 				"count": 1
@@ -1057,7 +1060,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Gilded_platelegs",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Gilded_platelegs_detail.png/120px-Gilded_platelegs_detail.png",
 			"displayItemId": 3483,
-			"verification":{
+			"verification": {
 				"method": "collection-log",
 				"itemIds": [ 3483 ],
 				"count": 1
@@ -1070,7 +1073,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Gilded_plateskirt",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Gilded_plateskirt_detail.png/120px-Gilded_plateskirt_detail.png",
 			"displayItemId": 3485,
-			"verification":{
+			"verification": {
 				"method": "collection-log",
 				"itemIds": [ 3485 ],
 				"count": 1
@@ -1083,7 +1086,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Gilded_kiteshield",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Gilded_kiteshield_detail.png/120px-Gilded_kiteshield_detail.png",
 			"displayItemId": 3488,
-			"verification":{
+			"verification": {
 				"method": "collection-log",
 				"itemIds": [ 3488 ],
 				"count": 1
@@ -1096,7 +1099,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Gilded_med_helm",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Gilded_med_helm_detail.png/120px-Gilded_med_helm_detail.png",
 			"displayItemId": 20146,
-			"verification":{
+			"verification": {
 				"method": "collection-log",
 				"itemIds": [ 20146 ],
 				"count": 1
@@ -1109,7 +1112,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Gilded_chainbody",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Gilded_chainbody_detail.png/120px-Gilded_chainbody_detail.png",
 			"displayItemId": 20149,
-			"verification":{
+			"verification": {
 				"method": "collection-log",
 				"itemIds": [ 20149 ],
 				"count": 1
@@ -1122,7 +1125,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Gilded_sq_shield",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Gilded_sq_shield_detail.png/120px-Gilded_sq_shield_detail.png",
 			"displayItemId": 20152,
-			"verification":{
+			"verification": {
 				"method": "collection-log",
 				"itemIds": [ 20152 ],
 				"count": 1
@@ -1135,7 +1138,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Gilded_2h_sword",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Gilded_2h_sword_detail.png/130px-Gilded_2h_sword_detail.png",
 			"displayItemId": 20155,
-			"verification":{
+			"verification": {
 				"method": "collection-log",
 				"itemIds": [ 20155 ],
 				"count": 1
@@ -1148,7 +1151,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Gilded_spear",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Gilded_spear_detail.png/120px-Gilded_spear_detail.png",
 			"displayItemId": 20158,
-			"verification":{
+			"verification": {
 				"method": "collection-log",
 				"itemIds": [ 20158 ],
 				"count": 1
@@ -1161,7 +1164,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Gilded_hasta",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Gilded_hasta_detail.png/120px-Gilded_hasta_detail.png",
 			"displayItemId": 20161,
-			"verification":{
+			"verification": {
 				"method": "collection-log",
 				"itemIds": [ 20161 ],
 				"count": 1
@@ -1174,7 +1177,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/3rd_Age_full_helmet",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/3rd_Age_full_helmet_detail.png/100px-3rd_Age_full_helmet_detail.png",
 			"displayItemId": 10350,
-			"verification":{
+			"verification": {
 				"method": "collection-log",
 				"itemIds": [ 10350 ],
 				"count": 1
@@ -1187,7 +1190,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/3rd_Age_platebody",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/3rd_Age_platebody_detail.png/100px-3rd_Age_platebody_detail.png",
 			"displayItemId": 10348,
-			"verification":{
+			"verification": {
 				"method": "collection-log",
 				"itemIds": [ 10348 ],
 				"count": 1
@@ -1200,7 +1203,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/3rd_Age_platelegs",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/3rd_Age_platelegs_detail.png/100px-3rd_Age_platelegs_detail.png",
 			"displayItemId": 10346,
-			"verification":{
+			"verification": {
 				"method": "collection-log",
 				"itemIds": [ 10346 ],
 				"count": 1
@@ -1213,7 +1216,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/3rd_Age_plateskirt",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/3rd_Age_plateskirt_detail.png/100px-3rd_Age_plateskirt_detail.png",
 			"displayItemId": 23242,
-			"verification":{
+			"verification": {
 				"method": "collection-log",
 				"itemIds": [ 23242 ],
 				"count": 1
@@ -1226,7 +1229,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/3rd_Age_kiteshield",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/3rd_Age_kiteshield_detail.png/100px-3rd_Age_kiteshield_detail.png",
 			"displayItemId": 10352,
-			"verification":{
+			"verification": {
 				"method": "collection-log",
 				"itemIds": [ 10352 ],
 				"count": 1
@@ -1239,7 +1242,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/3rd_Age_range_coif",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/3rd_Age_range_coif_detail.png/100px-3rd_Age_range_coif_detail.png",
 			"displayItemId": 10334,
-			"verification":{
+			"verification": {
 				"method": "collection-log",
 				"itemIds": [ 10334 ],
 				"count": 1
@@ -1252,7 +1255,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/3rd_Age_range_top",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/3rd_Age_range_top_detail.png/100px-3rd_Age_range_top_detail.png",
 			"displayItemId": 10330,
-			"verification":{
+			"verification": {
 				"method": "collection-log",
 				"itemIds": [ 10330 ],
 				"count": 1
@@ -1265,7 +1268,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/3rd_Age_range_legs",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/3rd_Age_range_legs_detail.png/100px-3rd_Age_range_legs_detail.png",
 			"displayItemId": 10332,
-			"verification":{
+			"verification": {
 				"method": "collection-log",
 				"itemIds": [ 10332 ],
 				"count": 1
@@ -1278,7 +1281,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/3rd_Age_vambraces",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/3rd_Age_vambraces_detail.png/100px-3rd_Age_vambraces_detail.png",
 			"displayItemId": 10336,
-			"verification":{
+			"verification": {
 				"method": "collection-log",
 				"itemIds": [ 10336 ],
 				"count": 1
@@ -1291,7 +1294,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/3rd_Age_mage hat",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/3rd_Age_mage_hat_detail.png/100px-3rd_Age_mage_hat_detail.png",
 			"displayItemId": 10342,
-			"verification":{
+			"verification": {
 				"method": "collection-log",
 				"itemIds": [ 10342 ],
 				"count": 1
@@ -1304,7 +1307,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/3rd_Age_robe top",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/3rd_Age_robe_top_detail.png/100px-3rd_Age_robe_top_detail.png",
 			"displayItemId": 10338,
-			"verification":{
+			"verification": {
 				"method": "collection-log",
 				"itemIds": [ 10338 ],
 				"count": 1
@@ -1317,7 +1320,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/3rd_Age_robe",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/3rd_Age_robe_detail.png/100px-3rd_Age_robe_detail.png",
 			"displayItemId": 10340,
-			"verification":{
+			"verification": {
 				"method": "collection-log",
 				"itemIds": [ 10340 ],
 				"count": 1
@@ -1330,7 +1333,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/3rd_Age_amulet",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/3rd_Age_amulet_detail.png/100px-3rd_Age_amulet_detail.png",
 			"displayItemId": 10344,
-			"verification":{
+			"verification": {
 				"method": "collection-log",
 				"itemIds": [ 10344 ],
 				"count": 1
@@ -1343,7 +1346,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Ring_of_nature",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Ring_of_nature_detail.png/140px-Ring_of_nature_detail.png",
 			"displayItemId": 20005,
-			"verification":{
+			"verification": {
 				"method": "collection-log",
 				"itemIds": [ 20005 ],
 				"count": 1
@@ -1356,7 +1359,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Ring_of_nature",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Ring_of_nature_detail.png/140px-Ring_of_nature_detail.png",
 			"displayItemId": 20005,
-			"verification":{
+			"verification": {
 				"method": "collection-log",
 				"itemIds": [ 20005 ],
 				"count": 1
@@ -1369,7 +1372,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Lava_dragon_mask",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Lava_dragon_mask_detail.png/110px-Lava_dragon_mask_detail.png",
 			"displayItemId": 12371,
-			"verification":{
+			"verification": {
 				"method": "collection-log",
 				"itemIds": [ 12371 ],
 				"count": 1
@@ -1382,7 +1385,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Gilded_scimitar",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Gilded_scimitar_detail.png/120px-Gilded_scimitar_detail.png",
 			"displayItemId": 12389,
-			"verification":{
+			"verification": {
 				"method": "collection-log",
 				"itemIds": [ 12389 ],
 				"count": 1
@@ -1395,7 +1398,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Gilded_boots",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Gilded_boots_detail.png/120px-Gilded_boots_detail.png",
 			"displayItemId": 12391,
-			"verification":{
+			"verification": {
 				"method": "collection-log",
 				"itemIds": [ 12391 ],
 				"count": 1
@@ -1408,7 +1411,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Gilded_coif",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Gilded_coif_detail.png/120px-Gilded_coif_detail.png",
 			"displayItemId": 23258,
-			"verification":{
+			"verification": {
 				"method": "collection-log",
 				"itemIds": [ 23258 ],
 				"count": 1
@@ -1421,7 +1424,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Gilded_d%27hide_vambraces",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Gilded_d%27hide_vambraces_detail.png/130px-Gilded_d%27hide_vambraces_detail.png",
 			"displayItemId": 23261,
-			"verification":{
+			"verification": {
 				"method": "collection-log",
 				"itemIds": [ 23261 ],
 				"count": 1
@@ -1434,7 +1437,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Gilded_d%27hide_body",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Gilded_d%27hide_body_detail.png/120px-Gilded_d%27hide_body_detail.png",
 			"displayItemId": 23264,
-			"verification":{
+			"verification": {
 				"method": "collection-log",
 				"itemIds": [ 23264 ],
 				"count": 1
@@ -1447,7 +1450,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Gilded_d%27hide_chaps",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Gilded_d%27hide_chaps_detail.png/80px-Gilded_d%27hide_chaps_detail.png",
 			"displayItemId": 23267,
-			"verification":{
+			"verification": {
 				"method": "collection-log",
 				"itemIds": [ 23267 ],
 				"count": 1
@@ -1460,7 +1463,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Gilded_pickaxe",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Gilded_pickaxe_detail.png/120px-Gilded_pickaxe_detail.png",
 			"displayItemId": 23276,
-			"verification":{
+			"verification": {
 				"method": "collection-log",
 				"itemIds": [ 23276 ],
 				"count": 1
@@ -1473,7 +1476,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Gilded_axe",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Gilded_axe_detail.png/120px-Gilded_axe_detail.png",
 			"displayItemId": 23279,
-			"verification":{
+			"verification": {
 				"method": "collection-log",
 				"itemIds": [ 23279 ],
 				"count": 1
@@ -1486,7 +1489,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Gilded_spade",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Gilded_spade_detail.png/120px-Gilded_spade_detail.png",
 			"displayItemId": 23282,
-			"verification":{
+			"verification": {
 				"method": "collection-log",
 				"itemIds": [ 23282 ],
 				"count": 1
@@ -1499,7 +1502,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/3rd_Age_longsword",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/3rd_Age_longsword_detail.png/100px-3rd_Age_longsword_detail.png",
 			"displayItemId": 12426,
-			"verification":{
+			"verification": {
 				"method": "collection-log",
 				"itemIds": [ 12426 ],
 				"count": 1
@@ -1512,7 +1515,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/3rd_Age_wand",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/3rd_Age_wand_detail.png/100px-3rd_Age_wand_detail.png",
 			"displayItemId": 12422,
-			"verification":{
+			"verification": {
 				"method": "collection-log",
 				"itemIds": [ 12422 ],
 				"count": 1
@@ -1525,7 +1528,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/3rd_Age_cloak",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/3rd_Age_cloak_detail.png/100px-3rd_Age_cloak_detail.png",
 			"displayItemId": 12437,
-			"verification":{
+			"verification": {
 				"method": "collection-log",
 				"itemIds": [ 12437 ],
 				"count": 1
@@ -1538,7 +1541,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/3rd_Age_bow",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/3rd_Age_bow_detail.png/100px-3rd_Age_bow_detail.png",
 			"displayItemId": 12424,
-			"verification":{
+			"verification": {
 				"method": "collection-log",
 				"itemIds": [ 12424 ],
 				"count": 1
@@ -1551,7 +1554,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Bucket_helm_(g)",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Bucket_helm_%28g%29_detail.png/130px-Bucket_helm_%28g%29_detail.png",
 			"displayItemId": 20059,
-			"verification":{
+			"verification": {
 				"method": "collection-log",
 				"itemIds": [ 20059 ],
 				"count": 1
@@ -1564,7 +1567,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Ring_of_coins",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Ring_of_coins_detail.png/100px-Ring_of_coins_detail.png",
 			"displayItemId": 20017,
-			"verification":{
+			"verification": {
 				"method": "collection-log",
 				"itemIds": [ 20017 ],
 				"count": 1
@@ -1577,7 +1580,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/3rd_Age_druidic_robe_top",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/3rd_Age_druidic_robe_top_detail.png/100px-3rd_Age_druidic_robe_top_detail.png",
 			"displayItemId": 23336,
-			"verification":{
+			"verification": {
 				"method": "collection-log",
 				"itemIds": [ 23336 ],
 				"count": 1
@@ -1590,7 +1593,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/3rd_Age_druidic_robe_bottoms",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/3rd_Age_druidic_robe_bottoms_detail.png/100px-3rd_Age_druidic_robe_bottoms_detail.png",
 			"displayItemId": 23339,
-			"verification":{
+			"verification": {
 				"method": "collection-log",
 				"itemIds": [ 23339 ],
 				"count": 1
@@ -1603,7 +1606,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/3rd_Age_druidic_cloak",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/3rd_Age_druidic_cloak_detail.png/100px-3rd_Age_druidic_cloak_detail.png",
 			"displayItemId": 23345,
-			"verification":{
+			"verification": {
 				"method": "collection-log",
 				"itemIds": [ 23345 ],
 				"count": 1
@@ -1616,7 +1619,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/3rd_Age_pickaxe",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/3rd_Age_pickaxe_detail.png/100px-3rd_Age_pickaxe_detail.png",
 			"displayItemId": 20014,
-			"verification":{
+			"verification": {
 				"method": "collection-log",
 				"itemIds": [ 20014 ],
 				"count": 1
@@ -1629,7 +1632,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/3rd_Age_axe",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/3rd_Age_axe_detail.png/100px-3rd_Age_axe_detail.png",
 			"displayItemId": 20011,
-			"verification":{
+			"verification": {
 				"method": "collection-log",
 				"itemIds": [ 20011 ],
 				"count": 1
@@ -1642,7 +1645,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Evil_chicken_outfit",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Evil_chicken_head_detail.png/320px-Evil_chicken_head_detail.png",
 			"displayItemId": 20439,
-			"verification":{
+			"verification": {
 				"method": "collection-log",
 				"itemIds": [ 20433, 20436, 20439, 20442 ],
 				"count": 1
@@ -1655,7 +1658,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Evil_chicken_outfit",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Evil_chicken_head_detail.png/320px-Evil_chicken_head_detail.png",
 			"displayItemId": 20439,
-			"verification":{
+			"verification": {
 				"method": "collection-log",
 				"itemIds": [ 20433, 20436, 20439, 20442 ],
 				"count": 2
@@ -1668,7 +1671,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Evil_chicken_outfit",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Evil_chicken_head_detail.png/320px-Evil_chicken_head_detail.png",
 			"displayItemId": 20439,
-			"verification":{
+			"verification": {
 				"method": "collection-log",
 				"itemIds": [ 20433, 20436, 20439, 20442 ],
 				"count": 3
@@ -1681,20 +1684,20 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Evil_chicken_outfit",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Evil_chicken_head_detail.png/320px-Evil_chicken_head_detail.png",
 			"displayItemId": 20439,
-			"verification":{
+			"verification": {
 				"method": "collection-log",
 				"itemIds": [ 20433, 20436, 20439, 20442 ],
 				"count": 4
 			}
 		},
-				{
+		{
 			"id": "76289358-6c5d-45b0-ba98-1fb6d23569f1",
 			"name": "Get the Deadman's chest",
 			"wikiLink": "https://oldschool.runescape.wiki/w/Deadman's_chest",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Deadman's_chest_(cosmetic)_detail.png/320px-Deadman's_chest_(cosmetic)_detail.png",
 			"displayItemId": 24189,
 			"tags": [ "lms" ],
-			"verification":{
+			"verification": {
 				"method": "collection-log",
 				"itemIds": [ 24189 ],
 				"count": 1
@@ -1707,7 +1710,7 @@
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Deadman's_legs_(cosmetic)_detail.png/320px-Deadman's_legs_(cosmetic)_detail.png",
 			"displayItemId": 24190,
 			"tags": [ "lms" ],
-			"verification":{
+			"verification": {
 				"method": "collection-log",
 				"itemIds": [ 24190 ],
 				"count": 1
@@ -1720,7 +1723,7 @@
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Deadman's_cape_(cosmetic)_detail.png/320px-Deadman's_cape_(cosmetic)_detail.png",
 			"displayItemId": 24191,
 			"tags": [ "lms" ],
-			"verification":{
+			"verification": {
 				"method": "collection-log",
 				"itemIds": [ 24191 ],
 				"count": 1
@@ -1733,7 +1736,7 @@
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Swift_blade_detail.png/320px-Swift_blade_detail.png",
 			"displayItemId": 24219,
 			"tags": [ "lms" ],
-			"verification":{
+			"verification": {
 				"method": "collection-log",
 				"itemIds": [ 24219 ],
 				"count": 1
@@ -1746,7 +1749,7 @@
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Armadyl_halo_detail.png/320px-Armadyl_halo_detail.png",
 			"displayItemId": 24192,
 			"tags": [ "lms" ],
-			"verification":{
+			"verification": {
 				"method": "collection-log",
 				"itemIds": [ 24192 ],
 				"count": 1
@@ -1759,7 +1762,7 @@
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Bandos_halo_detail.png/320px-Bandos_halo_detail.png",
 			"displayItemId": 24195,
 			"tags": [ "lms" ],
-			"verification":{
+			"verification": {
 				"method": "collection-log",
 				"itemIds": [ 24195 ],
 				"count": 1
@@ -1772,7 +1775,7 @@
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Seren_halo_detail.png/320px-Seren_halo_detail.png",
 			"displayItemId": 24198,
 			"tags": [ "lms" ],
-			"verification":{
+			"verification": {
 				"method": "collection-log",
 				"itemIds": [ 24198 ],
 				"count": 1
@@ -1785,7 +1788,7 @@
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Ancient_halo_detail.png/320px-Ancient_halo_detail.png",
 			"displayItemId": 24201,
 			"tags": [ "lms" ],
-			"verification":{
+			"verification": {
 				"method": "collection-log",
 				"itemIds": [ 24201 ],
 				"count": 1
@@ -1798,7 +1801,7 @@
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Brassica_halo_detail.png/320px-Brassica_halo_detail.png",
 			"displayItemId": 24204,
 			"tags": [ "lms" ],
-			"verification":{
+			"verification": {
 				"method": "collection-log",
 				"itemIds": [ 24204 ],
 				"count": 1
@@ -1811,7 +1814,7 @@
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Guthixian_icon_detail.png/320px-Guthixian_icon_detail.png",
 			"displayItemId": 24217,
 			"tags": [ "lms" ],
-			"verification":{
+			"verification": {
 				"method": "collection-log",
 				"itemIds": [ 24217 ],
 				"count": 1
@@ -1823,7 +1826,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Metamorphic_dust",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Metamorphic_dust_detail.png/320px-Metamorphic_dust_detail.png",
 			"displayItemId": 22386,
-			"verification":{
+			"verification": {
 				"method": "collection-log",
 				"itemIds": [ 22386 ],
 				"count": 1
@@ -1835,7 +1838,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Sanguine_dust",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Sanguine_dust_detail.png/320px-Sanguine_dust_detail.png",
 			"displayItemId": 25746,
-			"verification":{
+			"verification": {
 				"method": "collection-log",
 				"itemIds": [ 25746 ],
 				"count": 1
@@ -1847,7 +1850,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Parasitic_egg",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Parasitic_egg_detail.png/320px-Parasitic_egg_detail.png",
 			"displayItemId": 25838,
-			"verification":{
+			"verification": {
 				"method": "collection-log",
 				"itemIds": [ 25838 ],
 				"count": 1
@@ -1859,7 +1862,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Twisted_ancestral_colour_kit",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Twisted_ancestral_colour_kit_detail.png/320px-Twisted_ancestral_colour_kit_detail.png",
 			"displayItemId": 24670,
-			"verification":{
+			"verification": {
 				"method": "collection-log",
 				"itemIds": [ 24670 ],
 				"count": 1
@@ -1871,7 +1874,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Holy_ornament_kit",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Holy_ornament_kit_detail.png/320px-Holy_ornament_kit_detail.png",
 			"displayItemId": 25742,
-			"verification":{
+			"verification": {
 				"method": "collection-log",
 				"itemIds": [ 25742 ],
 				"count": 1
@@ -1883,7 +1886,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Sanguine_ornament_kit",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Sanguine_ornament_kit_detail.png/320px-Sanguine_ornament_kit_detail.png",
 			"displayItemId": 25744,
-			"verification":{
+			"verification": {
 				"method": "collection-log",
 				"itemIds": [ 25744 ],
 				"count": 1
@@ -1895,7 +1898,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Menaphite_ornament_kit",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Menaphite_ornament_kit_detail.png/320px-Menaphite_ornament_kit_detail.png",
 			"displayItemId": 27255,
-			"verification":{
+			"verification": {
 				"method": "collection-log",
 				"itemIds": [ 27255 ],
 				"count": 1
@@ -1907,7 +1910,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Cursed_phalanx",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Cursed_phalanx_detail.png/320px-Cursed_phalanx_detail.png",
 			"displayItemId": 27248,
-			"verification":{
+			"verification": {
 				"method": "collection-log",
 				"itemIds": [ 27248 ],
 				"count": 1
@@ -1919,7 +1922,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Masori_crafting_kit",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Masori_crafting_kit_detail.png/320px-Masori_crafting_kit_detail.png",
 			"displayItemId": 27372,
-			"verification":{
+			"verification": {
 				"method": "collection-log",
 				"itemIds": [ 27372 ],
 				"count": 1
@@ -1931,7 +1934,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Remnant_of_Akkha",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Remnant_of_Akkha_detail.png/320px-Remnant_of_Akkha_detail.png",
 			"displayItemId": 27377,
-			"verification":{
+			"verification": {
 				"method": "collection-log",
 				"itemIds": [ 27377 ],
 				"count": 1
@@ -1943,7 +1946,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Remnant_of_Ba-Ba",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Remnant_of_Ba-Ba_detail.png/320px-Remnant_of_Ba-Ba_detail.png",
 			"displayItemId": 27378,
-			"verification":{
+			"verification": {
 				"method": "collection-log",
 				"itemIds": [ 27378 ],
 				"count": 1
@@ -1955,7 +1958,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Remnant_of_Kephri",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Remnant_of_Kephri_detail.png/320px-Remnant_of_Kephri_detail.png",
 			"displayItemId": 27379,
-			"verification":{
+			"verification": {
 				"method": "collection-log",
 				"itemIds": [ 27379 ],
 				"count": 1
@@ -1967,7 +1970,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Remnant_of_Zebak",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Remnant_of_Zebak_detail.png/320px-Remnant_of_Zebak_detail.png",
 			"displayItemId": 27380,
-			"verification":{
+			"verification": {
 				"method": "collection-log",
 				"itemIds": [ 27380 ],
 				"count": 1
@@ -1979,7 +1982,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Ancient_remnant",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Ancient_remnant_detail.png/320px-Ancient_remnant_detail.png",
 			"displayItemId": 27381,
-			"verification":{
+			"verification": {
 				"method": "collection-log",
 				"itemIds": [ 27381 ],
 				"count": 1

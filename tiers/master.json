@@ -1551,8 +1551,8 @@
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [
-					13320, 13321, 13322, 13324, 20659, 20661, 20663, 20665, 31283,
-					12703, 21509, 25348, 26901, 28962, 34040
+					13320, 13321, 13322, 13324, 20659, 20661, 20663, 20665, 31283, 12703, 21509,
+					25348, 26901, 28962, 34040
 				],
 				"count": 1
 			}
@@ -1569,8 +1569,8 @@
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [
-					13320, 13321, 13322, 13324, 20659, 20661, 20663, 20665, 31283,
-					12703, 21509, 25348, 26901, 28962, 34040
+					13320, 13321, 13322, 13324, 20659, 20661, 20663, 20665, 31283, 12703, 21509,
+					25348, 26901, 28962, 34040
 				],
 				"count": 2
 			}
@@ -1587,8 +1587,8 @@
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [
-					13320, 13321, 13322, 13324, 20659, 20661, 20663, 20665, 31283,
-					12703, 21509, 25348, 26901, 28962, 34040
+					13320, 13321, 13322, 13324, 20659, 20661, 20663, 20665, 31283, 12703, 21509,
+					25348, 26901, 28962, 34040
 				],
 				"count": 3
 			}
@@ -1605,8 +1605,8 @@
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [
-					13320, 13321, 13322, 13324, 20659, 20661, 20663, 20665, 31283,
-					12703, 21509, 25348, 26901, 28962, 34040
+					13320, 13321, 13322, 13324, 20659, 20661, 20663, 20665, 31283, 12703, 21509,
+					25348, 26901, 28962, 34040
 				],
 				"count": 4
 			}
@@ -1623,8 +1623,8 @@
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [
-					13320, 13321, 13322, 13324, 20659, 20661, 20663, 20665, 31283,
-					12703, 21509, 25348, 26901, 28962, 34040
+					13320, 13321, 13322, 13324, 20659, 20661, 20663, 20665, 31283, 12703, 21509,
+					25348, 26901, 28962, 34040
 				],
 				"count": 5
 			}
@@ -1641,8 +1641,8 @@
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [
-					13320, 13321, 13322, 13324, 20659, 20661, 20663, 20665, 31283,
-					12703, 21509, 25348, 26901, 28962, 34040
+					13320, 13321, 13322, 13324, 20659, 20661, 20663, 20665, 31283, 12703, 21509,
+					25348, 26901, 28962, 34040
 				],
 				"count": 6
 			}
@@ -1659,8 +1659,8 @@
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [
-					13320, 13321, 13322, 13324, 20659, 20661, 20663, 20665, 31283,
-					12703, 21509, 25348, 26901, 28962, 34040
+					13320, 13321, 13322, 13324, 20659, 20661, 20663, 20665, 31283, 12703, 21509,
+					25348, 26901, 28962, 34040
 				],
 				"count": 7
 			}
@@ -1895,9 +1895,7 @@
 			"tags": [ "Boss" ],
 			"verification": {
 				"method": "collection-log",
-				"itemIds": [
-					24422, 24517, 24511, 24514, 24419, 24420, 24421, 24417
-				],
+				"itemIds": [ 24422, 24517, 24511, 24514, 24419, 24420, 24421, 24417 ],
 				"count": 1
 			}
 		},
@@ -1912,9 +1910,7 @@
 			"tags": [ "Boss" ],
 			"verification": {
 				"method": "collection-log",
-				"itemIds": [
-					24422, 24517, 24511, 24514, 24419, 24420, 24421, 24417
-				],
+				"itemIds": [ 24422, 24517, 24511, 24514, 24419, 24420, 24421, 24417 ],
 				"count": 2
 			}
 		},
@@ -1929,9 +1925,7 @@
 			"tags": [ "Boss" ],
 			"verification": {
 				"method": "collection-log",
-				"itemIds": [
-					24422, 24517, 24511, 24514, 24419, 24420, 24421, 24417
-				],
+				"itemIds": [ 24422, 24517, 24511, 24514, 24419, 24420, 24421, 24417 ],
 				"count": 3
 			}
 		},
@@ -1946,9 +1940,7 @@
 			"tags": [ "Boss" ],
 			"verification": {
 				"method": "collection-log",
-				"itemIds": [
-					24422, 24517, 24511, 24514, 24419, 24420, 24421, 24417
-				],
+				"itemIds": [ 24422, 24517, 24511, 24514, 24419, 24420, 24421, 24417 ],
 				"count": 4
 			}
 		},
@@ -1962,9 +1954,7 @@
 			"tags": [ "99" ],
 			"verification": {
 				"method": "skill",
-				"experience": {
-					"attack"      : 13034431
-				},
+				"experience": { "attack": 13034431 },
 				"count": 1
 			}
 		},
@@ -1978,9 +1968,7 @@
 			"tags": [ "99" ],
 			"verification": {
 				"method": "skill",
-				"experience": {
-					"strength"    : 13034431
-				},
+				"experience": { "strength": 13034431 },
 				"count": 1
 			}
 		},
@@ -1994,9 +1982,7 @@
 			"tags": [ "99" ],
 			"verification": {
 				"method": "skill",
-				"experience": {
-					"defence"     : 13034431
-				},
+				"experience": { "defence": 13034431 },
 				"count": 1
 			}
 		},
@@ -2010,9 +1996,7 @@
 			"tags": [ "99" ],
 			"verification": {
 				"method": "skill",
-				"experience": {
-					"ranged"      : 13034431
-				},
+				"experience": { "ranged": 13034431 },
 				"count": 1
 			}
 		},
@@ -2026,9 +2010,7 @@
 			"tags": [ "99" ],
 			"verification": {
 				"method": "skill",
-				"experience": {
-					"prayer"      : 13034431
-				},
+				"experience": { "prayer": 13034431 },
 				"count": 1
 			}
 		},
@@ -2042,9 +2024,7 @@
 			"tags": [ "99" ],
 			"verification": {
 				"method": "skill",
-				"experience": {
-					"magic"       : 13034431
-				},
+				"experience": { "magic": 13034431 },
 				"count": 1
 			}
 		},
@@ -2058,9 +2038,7 @@
 			"tags": [ "99" ],
 			"verification": {
 				"method": "skill",
-				"experience": {
-					"runecraft"   : 13034431
-				},
+				"experience": { "runecraft": 13034431 },
 				"count": 1
 			}
 		},
@@ -2074,9 +2052,7 @@
 			"tags": [ "99" ],
 			"verification": {
 				"method": "skill",
-				"experience": {
-					"hitpoints"   : 13034431
-				},
+				"experience": { "hitpoints": 13034431 },
 				"count": 1
 			}
 		},
@@ -2090,9 +2066,7 @@
 			"tags": [ "99" ],
 			"verification": {
 				"method": "skill",
-				"experience": {
-					"crafting"    : 13034431
-				},
+				"experience": { "crafting": 13034431 },
 				"count": 1
 			}
 		},
@@ -2106,9 +2080,7 @@
 			"tags": [ "99" ],
 			"verification": {
 				"method": "skill",
-				"experience": {
-					"mining"      : 13034431
-				},
+				"experience": { "mining": 13034431 },
 				"count": 1
 			}
 		},
@@ -2122,9 +2094,7 @@
 			"tags": [ "99" ],
 			"verification": {
 				"method": "skill",
-				"experience": {
-					"smithing"    : 13034431
-				},
+				"experience": { "smithing": 13034431 },
 				"count": 1
 			}
 		},
@@ -2138,9 +2108,7 @@
 			"tags": [ "99" ],
 			"verification": {
 				"method": "skill",
-				"experience": {
-					"fishing"     : 13034431
-				},
+				"experience": { "fishing": 13034431 },
 				"count": 1
 			}
 		},
@@ -2154,9 +2122,7 @@
 			"tags": [ "99" ],
 			"verification": {
 				"method": "skill",
-				"experience": {
-					"cooking"     : 13034431
-				},
+				"experience": { "cooking": 13034431 },
 				"count": 1
 			}
 		},
@@ -2170,9 +2136,7 @@
 			"tags": [ "99" ],
 			"verification": {
 				"method": "skill",
-				"experience": {
-					"firemaking"  : 13034431
-				},
+				"experience": { "firemaking": 13034431 },
 				"count": 1
 			}
 		},
@@ -2186,9 +2150,7 @@
 			"tags": [ "99" ],
 			"verification": {
 				"method": "skill",
-				"experience": {
-					"woodcutting" : 13034431
-				},
+				"experience": { "woodcutting": 13034431 },
 				"count": 1
 			}
 		},
@@ -2202,9 +2164,7 @@
 			"tags": [ "99" ],
 			"verification": {
 				"method": "skill",
-				"experience": {
-					"agility"     : 13034431
-				},
+				"experience": { "agility": 13034431 },
 				"count": 1
 			}
 		},
@@ -2218,9 +2178,7 @@
 			"tags": [ "99" ],
 			"verification": {
 				"method": "skill",
-				"experience": {
-					"herblore"    : 13034431
-				},
+				"experience": { "herblore": 13034431 },
 				"count": 1
 			}
 		},
@@ -2234,9 +2192,7 @@
 			"tags": [ "99" ],
 			"verification": {
 				"method": "skill",
-				"experience": {
-					"thieving"    : 13034431
-				},
+				"experience": { "thieving": 13034431 },
 				"count": 1
 			}
 		},
@@ -2250,9 +2206,7 @@
 			"tags": [ "99" ],
 			"verification": {
 				"method": "skill",
-				"experience": {
-					"fletching"   : 13034431
-				},
+				"experience": { "fletching": 13034431 },
 				"count": 1
 			}
 		},
@@ -2266,9 +2220,7 @@
 			"tags": [ "99" ],
 			"verification": {
 				"method": "skill",
-				"experience": {
-					"slayer"      : 13034431
-				},
+				"experience": { "slayer": 13034431 },
 				"count": 1
 			}
 		},
@@ -2282,9 +2234,7 @@
 			"tags": [ "99" ],
 			"verification": {
 				"method": "skill",
-				"experience": {
-					"farming"     : 13034431
-				},
+				"experience": { "farming": 13034431 },
 				"count": 1
 			}
 		},
@@ -2298,9 +2248,7 @@
 			"tags": [ "99" ],
 			"verification": {
 				"method": "skill",
-				"experience": {
-					"construction": 13034431
-				},
+				"experience": { "construction": 13034431 },
 				"count": 1
 			}
 		},
@@ -2314,9 +2262,7 @@
 			"tags": [ "99" ],
 			"verification": {
 				"method": "skill",
-				"experience": {
-					"hunter"      : 13034431
-				},
+				"experience": { "hunter": 13034431 },
 				"count": 1
 			}
 		},
@@ -2330,9 +2276,7 @@
 			"tags": [ "99" ],
 			"verification": {
 				"method": "skill",
-				"experience": {
-					"sailing"     : 13034431
-				},
+				"experience": { "sailing": 13034431 },
 				"count": 1
 			}
 		},
@@ -2876,9 +2820,9 @@
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Brimstone_key_detail.png/1024px-Brimstone_key_detail.png",
 			"displayItemId": 23083,
 			"tags": [ "Boss" ],
-			"verification":{
+			"verification": {
 				"method": "collection-log",
-				"itemIds": [ 22963, 23047, 23050, 23053, 23056, 23059],
+				"itemIds": [ 22963, 23047, 23050, 23053, 23056, 23059 ],
 				"count": 1
 			}
 		},
@@ -2890,9 +2834,9 @@
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Brimstone_key_detail.png/1024px-Brimstone_key_detail.png",
 			"displayItemId": 23083,
 			"tags": [ "Boss" ],
-			"verification":{
+			"verification": {
 				"method": "collection-log",
-				"itemIds": [ 22963, 23047, 23050, 23053, 23056, 23059],
+				"itemIds": [ 22963, 23047, 23050, 23053, 23056, 23059 ],
 				"count": 2
 			}
 		},
