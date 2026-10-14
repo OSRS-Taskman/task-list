@@ -1951,7 +1951,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Attack",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Attack_cape%28t%29_detail.png/120px-Attack_cape%28t%29_detail.png",
 			"displayItemId": 9748,
-			"tags": [ "99" ],
+			"tags": [ "L99" ],
 			"verification": {
 				"method": "skill",
 				"experience": { "attack": 13034431 },
@@ -1965,7 +1965,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Strength",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Strength_cape%28t%29_detail.png/120px-Strength_cape%28t%29_detail.png",
 			"displayItemId": 9751,
-			"tags": [ "99" ],
+			"tags": [ "L99" ],
 			"verification": {
 				"method": "skill",
 				"experience": { "strength": 13034431 },
@@ -1979,7 +1979,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Defence",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Defence_cape%28t%29_detail.png/120px-Defence_cape%28t%29_detail.png",
 			"displayItemId": 9754,
-			"tags": [ "99" ],
+			"tags": [ "L99" ],
 			"verification": {
 				"method": "skill",
 				"experience": { "defence": 13034431 },
@@ -1993,7 +1993,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Ranged",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Ranging_cape%28t%29_detail.png/120px-Ranging_cape%28t%29_detail.png",
 			"displayItemId": 9757,
-			"tags": [ "99" ],
+			"tags": [ "L99" ],
 			"verification": {
 				"method": "skill",
 				"experience": { "ranged": 13034431 },
@@ -2007,7 +2007,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Prayer",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Prayer_cape%28t%29_detail.png/120px-Prayer_cape%28t%29_detail.png",
 			"displayItemId": 9760,
-			"tags": [ "99" ],
+			"tags": [ "L99" ],
 			"verification": {
 				"method": "skill",
 				"experience": { "prayer": 13034431 },
@@ -2021,7 +2021,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Magic",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Magic_cape%28t%29_detail.png/120px-Magic_cape%28t%29_detail.png",
 			"displayItemId": 9763,
-			"tags": [ "99" ],
+			"tags": [ "L99" ],
 			"verification": {
 				"method": "skill",
 				"experience": { "magic": 13034431 },
@@ -2035,7 +2035,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Runecraft",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Runecraft_cape%28t%29_detail.png/120px-Runecraft_cape%28t%29_detail.png",
 			"displayItemId": 9766,
-			"tags": [ "99" ],
+			"tags": [ "L99" ],
 			"verification": {
 				"method": "skill",
 				"experience": { "runecraft": 13034431 },
@@ -2049,7 +2049,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Hitpoints",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Hitpoints_cape%28t%29_detail.png/120px-Hitpoints_cape%28t%29_detail.png",
 			"displayItemId": 9769,
-			"tags": [ "99" ],
+			"tags": [ "L99" ],
 			"verification": {
 				"method": "skill",
 				"experience": { "hitpoints": 13034431 },
@@ -2063,7 +2063,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Crafting",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Crafting_cape%28t%29_detail.png/120px-Crafting_cape%28t%29_detail.png",
 			"displayItemId": 9781,
-			"tags": [ "99" ],
+			"tags": [ "L99" ],
 			"verification": {
 				"method": "skill",
 				"experience": { "crafting": 13034431 },
@@ -2077,7 +2077,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Mining",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Mining_cape%28t%29_detail.png/120px-Mining_cape%28t%29_detail.png",
 			"displayItemId": 9793,
-			"tags": [ "99" ],
+			"tags": [ "L99" ],
 			"verification": {
 				"method": "skill",
 				"experience": { "mining": 13034431 },
@@ -2091,7 +2091,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Smithing",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Smithing_cape%28t%29_detail.png/120px-Smithing_cape%28t%29_detail.png",
 			"displayItemId": 9796,
-			"tags": [ "99" ],
+			"tags": [ "L99" ],
 			"verification": {
 				"method": "skill",
 				"experience": { "smithing": 13034431 },
@@ -2105,7 +2105,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Fishing",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Fishing_cape%28t%29_detail.png/120px-Fishing_cape%28t%29_detail.png",
 			"displayItemId": 9799,
-			"tags": [ "99" ],
+			"tags": [ "L99" ],
 			"verification": {
 				"method": "skill",
 				"experience": { "fishing": 13034431 },
@@ -2119,7 +2119,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Cooking",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Cooking_cape%28t%29_detail.png/120px-Cooking_cape%28t%29_detail.png",
 			"displayItemId": 9802,
-			"tags": [ "99" ],
+			"tags": [ "L99" ],
 			"verification": {
 				"method": "skill",
 				"experience": { "cooking": 13034431 },
@@ -2133,7 +2133,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Firemaking",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Firemaking_cape%28t%29_detail.png/120px-Firemaking_cape%28t%29_detail.png",
 			"displayItemId": 9805,
-			"tags": [ "99" ],
+			"tags": [ "L99" ],
 			"verification": {
 				"method": "skill",
 				"experience": { "firemaking": 13034431 },
@@ -2147,7 +2147,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Woodcutting",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Woodcut._cape%28t%29_detail.png/120px-Woodcut._cape%28t%29_detail.png",
 			"displayItemId": 9808,
-			"tags": [ "99" ],
+			"tags": [ "L99" ],
 			"verification": {
 				"method": "skill",
 				"experience": { "woodcutting": 13034431 },
@@ -2161,7 +2161,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Agility",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Agility_cape%28t%29_detail.png/120px-Agility_cape%28t%29_detail.png",
 			"displayItemId": 9772,
-			"tags": [ "99" ],
+			"tags": [ "L99" ],
 			"verification": {
 				"method": "skill",
 				"experience": { "agility": 13034431 },
@@ -2175,7 +2175,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Herblore",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Herblore_cape%28t%29_detail.png/120px-Herblore_cape%28t%29_detail.png",
 			"displayItemId": 9775,
-			"tags": [ "99" ],
+			"tags": [ "L99" ],
 			"verification": {
 				"method": "skill",
 				"experience": { "herblore": 13034431 },
@@ -2189,7 +2189,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Thieving",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Thieving_cape%28t%29_detail.png/120px-Thieving_cape%28t%29_detail.png",
 			"displayItemId": 9778,
-			"tags": [ "99" ],
+			"tags": [ "L99" ],
 			"verification": {
 				"method": "skill",
 				"experience": { "thieving": 13034431 },
@@ -2203,7 +2203,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Fletching",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Fletching_cape%28t%29_detail.png/120px-Fletching_cape%28t%29_detail.png",
 			"displayItemId": 9784,
-			"tags": [ "99" ],
+			"tags": [ "L99" ],
 			"verification": {
 				"method": "skill",
 				"experience": { "fletching": 13034431 },
@@ -2217,7 +2217,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Slayer",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Slayer_cape%28t%29_detail.png/120px-Slayer_cape%28t%29_detail.png",
 			"displayItemId": 9787,
-			"tags": [ "99" ],
+			"tags": [ "L99" ],
 			"verification": {
 				"method": "skill",
 				"experience": { "slayer": 13034431 },
@@ -2231,7 +2231,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Farming",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Farming_cape%28t%29_detail.png/120px-Farming_cape%28t%29_detail.png",
 			"displayItemId": 9811,
-			"tags": [ "99" ],
+			"tags": [ "L99" ],
 			"verification": {
 				"method": "skill",
 				"experience": { "farming": 13034431 },
@@ -2245,7 +2245,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Contruction",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Construct._cape%28t%29_detail.png/120px-Construct._cape%28t%29_detail.png",
 			"displayItemId": 9790,
-			"tags": [ "99" ],
+			"tags": [ "L99" ],
 			"verification": {
 				"method": "skill",
 				"experience": { "construction": 13034431 },
@@ -2259,7 +2259,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Hunter",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Hunter_cape%28t%29_detail.png/120px-Hunter_cape%28t%29_detail.png",
 			"displayItemId": 9949,
-			"tags": [ "99" ],
+			"tags": [ "L99" ],
 			"verification": {
 				"method": "skill",
 				"experience": { "hunter": 13034431 },
@@ -2273,7 +2273,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Sailing",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Sailing_cape%28t%29_detail.png/130px-Sailing_cape%28t%29_detail.png",
 			"displayItemId": 31290,
-			"tags": [ "99" ],
+			"tags": [ "L99" ],
 			"verification": {
 				"method": "skill",
 				"experience": { "sailing": 13034431 },

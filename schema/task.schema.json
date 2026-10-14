@@ -30,7 +30,7 @@
 		},
 		"tag": {
 			"type": "string",
-			"enum": ["lms", "Boss", "Raid", "Clue", "Misc", "BPet", "SPet", "CA", "99"]
+			"enum": ["lms", "Boss", "Raid", "Clue", "Misc", "BPet", "SPet", "CA", "L99"]
 		}
 	},
 	"type": "object",
