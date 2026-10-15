@@ -30,7 +30,17 @@
 		},
 		"tag": {
 			"type": "string",
-			"enum": ["lms", "boss-unique", "raids", "clues", "misc", "boss-pet", "skilling-pet", "combat-achievement", "level-99"]
+			"enum": [
+				"lms",
+				"boss-unique",
+				"raids",
+				"clues",
+				"misc",
+				"boss-pet",
+				"skilling-pet",
+				"combat-achievement",
+				"level-99"
+			]
 		}
 	},
 	"type": "object",
