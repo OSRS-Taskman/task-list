@@ -9,7 +9,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Infernal_cape",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Infernal_cape_detail_animated.gif/320px-Infernal_cape_detail_animated.gif",
 			"displayItemId": 21295,
-			"tags": [ "Boss" ],
+			"tags": [ "boss-unique" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [ 21295 ],
@@ -24,7 +24,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Clue_scroll_(easy)",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Reward_casket_(easy)_detail.png/320px-Reward_casket_(easy)_detail.png",
 			"displayItemId": 20546,
-			"tags": [ "Clue" ],
+			"tags": [ "clues" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [
@@ -52,7 +52,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Clue_scroll_(easy)",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Reward_casket_(easy)_detail.png/320px-Reward_casket_(easy)_detail.png",
 			"displayItemId": 20546,
-			"tags": [ "Clue" ],
+			"tags": [ "clues" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [
@@ -80,7 +80,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Clue_scroll_(easy)",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Reward_casket_(easy)_detail.png/320px-Reward_casket_(easy)_detail.png",
 			"displayItemId": 20546,
-			"tags": [ "Clue" ],
+			"tags": [ "clues" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [
@@ -108,7 +108,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Clue_scroll_(easy)",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Reward_casket_(easy)_detail.png/320px-Reward_casket_(easy)_detail.png",
 			"displayItemId": 20546,
-			"tags": [ "Clue" ],
+			"tags": [ "clues" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [
@@ -136,7 +136,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Clue_scroll_(easy)",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Reward_casket_(easy)_detail.png/320px-Reward_casket_(easy)_detail.png",
 			"displayItemId": 20546,
-			"tags": [ "Clue" ],
+			"tags": [ "clues" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [
@@ -164,7 +164,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Clue_scroll_(medium)",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Reward_casket_(medium)_detail.png/320px-Reward_casket_(medium)_detail.png",
 			"displayItemId": 20545,
-			"tags": [ "Clue" ],
+			"tags": [ "clues" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [
@@ -191,7 +191,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Clue_scroll_(medium)",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Reward_casket_(medium)_detail.png/320px-Reward_casket_(medium)_detail.png",
 			"displayItemId": 20545,
-			"tags": [ "Clue" ],
+			"tags": [ "clues" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [
@@ -218,7 +218,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Clue_scroll_(medium)",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Reward_casket_(medium)_detail.png/320px-Reward_casket_(medium)_detail.png",
 			"displayItemId": 20545,
-			"tags": [ "Clue" ],
+			"tags": [ "clues" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [
@@ -245,7 +245,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Clue_scroll_(medium)",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Reward_casket_(medium)_detail.png/320px-Reward_casket_(medium)_detail.png",
 			"displayItemId": 20545,
-			"tags": [ "Clue" ],
+			"tags": [ "clues" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [
@@ -272,7 +272,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Clue_scroll_(medium)",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Reward_casket_(medium)_detail.png/320px-Reward_casket_(medium)_detail.png",
 			"displayItemId": 20545,
-			"tags": [ "Clue" ],
+			"tags": [ "clues" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [
@@ -299,7 +299,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Clue_scroll_(hard)",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Reward_casket_(hard)_detail.png/320px-Reward_casket_(hard)_detail.png",
 			"displayItemId": 20544,
-			"tags": [ "Clue" ],
+			"tags": [ "clues" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [
@@ -328,7 +328,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Clue_scroll_(hard)",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Reward_casket_(hard)_detail.png/320px-Reward_casket_(hard)_detail.png",
 			"displayItemId": 20544,
-			"tags": [ "Clue" ],
+			"tags": [ "clues" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [
@@ -357,7 +357,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Clue_scroll_(hard)",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Reward_casket_(hard)_detail.png/320px-Reward_casket_(hard)_detail.png",
 			"displayItemId": 20544,
-			"tags": [ "Clue" ],
+			"tags": [ "clues" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [
@@ -386,7 +386,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Clue_scroll_(hard)",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Reward_casket_(hard)_detail.png/320px-Reward_casket_(hard)_detail.png",
 			"displayItemId": 20544,
-			"tags": [ "Clue" ],
+			"tags": [ "clues" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [
@@ -415,7 +415,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Clue_scroll_(hard)",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Reward_casket_(hard)_detail.png/320px-Reward_casket_(hard)_detail.png",
 			"displayItemId": 20544,
-			"tags": [ "Clue" ],
+			"tags": [ "clues" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [
@@ -444,7 +444,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Clue_scroll_(elite)",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Clue_scroll_(elite)_detail.png/320px-Clue_scroll_(elite)_detail.png",
 			"displayItemId": 12073,
-			"tags": [ "Clue" ],
+			"tags": [ "clues" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [
@@ -466,7 +466,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Clue_scroll_(elite)",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Clue_scroll_(elite)_detail.png/320px-Clue_scroll_(elite)_detail.png",
 			"displayItemId": 12073,
-			"tags": [ "Clue" ],
+			"tags": [ "clues" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [
@@ -488,7 +488,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Clue_scroll_(elite)",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Clue_scroll_(elite)_detail.png/320px-Clue_scroll_(elite)_detail.png",
 			"displayItemId": 12073,
-			"tags": [ "Clue" ],
+			"tags": [ "clues" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [
@@ -510,7 +510,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Clue_scroll_(elite)",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Clue_scroll_(elite)_detail.png/320px-Clue_scroll_(elite)_detail.png",
 			"displayItemId": 12073,
-			"tags": [ "Clue" ],
+			"tags": [ "clues" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [
@@ -532,7 +532,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Clue_scroll_(elite)",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Clue_scroll_(elite)_detail.png/320px-Clue_scroll_(elite)_detail.png",
 			"displayItemId": 12073,
-			"tags": [ "Clue" ],
+			"tags": [ "clues" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [
@@ -554,7 +554,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Clue_scroll_(elite)",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Clue_scroll_(elite)_detail.png/320px-Clue_scroll_(elite)_detail.png",
 			"displayItemId": 12073,
-			"tags": [ "Clue" ],
+			"tags": [ "clues" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [
@@ -576,7 +576,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Clue_scroll_(elite)",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Clue_scroll_(elite)_detail.png/320px-Clue_scroll_(elite)_detail.png",
 			"displayItemId": 12073,
-			"tags": [ "Clue" ],
+			"tags": [ "clues" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [
@@ -598,7 +598,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Clue_scroll_(elite)",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Clue_scroll_(elite)_detail.png/320px-Clue_scroll_(elite)_detail.png",
 			"displayItemId": 12073,
-			"tags": [ "Clue" ],
+			"tags": [ "clues" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [
@@ -620,7 +620,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Clue_scroll_(elite)",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Clue_scroll_(elite)_detail.png/320px-Clue_scroll_(elite)_detail.png",
 			"displayItemId": 12073,
-			"tags": [ "Clue" ],
+			"tags": [ "clues" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [
@@ -642,7 +642,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Clue_scroll_(elite)",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Clue_scroll_(elite)_detail.png/320px-Clue_scroll_(elite)_detail.png",
 			"displayItemId": 12073,
-			"tags": [ "Clue" ],
+			"tags": [ "clues" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [
@@ -664,7 +664,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Clue_scroll_(master)",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Clue_scroll_(master)_detail.png/320px-Clue_scroll_(master)_detail.png",
 			"displayItemId": 19835,
-			"tags": [ "Clue" ],
+			"tags": [ "clues" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [
@@ -685,7 +685,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Clue_scroll_(master)",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Clue_scroll_(master)_detail.png/320px-Clue_scroll_(master)_detail.png",
 			"displayItemId": 19835,
-			"tags": [ "Clue" ],
+			"tags": [ "clues" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [
@@ -706,7 +706,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Clue_scroll_(master)",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Clue_scroll_(master)_detail.png/320px-Clue_scroll_(master)_detail.png",
 			"displayItemId": 19835,
-			"tags": [ "Clue" ],
+			"tags": [ "clues" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [
@@ -727,7 +727,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Clue_scroll_(master)",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Clue_scroll_(master)_detail.png/320px-Clue_scroll_(master)_detail.png",
 			"displayItemId": 19835,
-			"tags": [ "Clue" ],
+			"tags": [ "clues" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [
@@ -748,7 +748,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Clue_scroll_(master)",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Clue_scroll_(master)_detail.png/320px-Clue_scroll_(master)_detail.png",
 			"displayItemId": 19835,
-			"tags": [ "Clue" ],
+			"tags": [ "clues" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [
@@ -769,7 +769,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Clue_scroll_(master)",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Clue_scroll_(master)_detail.png/320px-Clue_scroll_(master)_detail.png",
 			"displayItemId": 19835,
-			"tags": [ "Clue" ],
+			"tags": [ "clues" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [
@@ -790,7 +790,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Clue_scroll_(master)",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Clue_scroll_(master)_detail.png/320px-Clue_scroll_(master)_detail.png",
 			"displayItemId": 19835,
-			"tags": [ "Clue" ],
+			"tags": [ "clues" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [
@@ -811,7 +811,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Clue_scroll_(master)",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Clue_scroll_(master)_detail.png/320px-Clue_scroll_(master)_detail.png",
 			"displayItemId": 19835,
-			"tags": [ "Clue" ],
+			"tags": [ "clues" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [
@@ -832,7 +832,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Clue_scroll_(master)",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Clue_scroll_(master)_detail.png/320px-Clue_scroll_(master)_detail.png",
 			"displayItemId": 19835,
-			"tags": [ "Clue" ],
+			"tags": [ "clues" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [
@@ -853,7 +853,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Clue_scroll_(master)",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Clue_scroll_(master)_detail.png/320px-Clue_scroll_(master)_detail.png",
 			"displayItemId": 19835,
-			"tags": [ "Clue" ],
+			"tags": [ "clues" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [
@@ -870,11 +870,11 @@
 			"id": "57672680-b11b-44a8-80f6-cb93510612f6",
 			"name": "Get 1 unique from Raids",
 			"shortName": "Raids",
-			"tip": "Can be received as a drop from any raid: Chambers of Xeric, Theatre of Blood, Tombs of Amascut or The Fractured Archive.",
+			"tip": "Can be received as a drop from any raid: Chambers of Xeric, Theatre of Blood or Tombs of Amascut.",
 			"wikiLink": "https://oldschool.runescape.wiki/w/Raids",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Twisted_bow_detail.png/320px-Twisted_bow_detail.png",
 			"displayItemId": 20997,
-			"tags": [ "Raid" ],
+			"tags": [ "raids" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [
@@ -889,11 +889,11 @@
 			"id": "4f784efb-9602-42a3-9e39-8e38902c56a8",
 			"name": "Get 1 unique from Raids",
 			"shortName": "Raids",
-			"tip": "Can be received as a drop from any raid: Chambers of Xeric, Theatre of Blood, Tombs of Amascut or The Fractured Archive.",
+			"tip": "Can be received as a drop from any raid: Chambers of Xeric, Theatre of Blood or Tombs of Amascut.",
 			"wikiLink": "https://oldschool.runescape.wiki/w/Raids",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Twisted_bow_detail.png/320px-Twisted_bow_detail.png",
 			"displayItemId": 20997,
-			"tags": [ "Raid" ],
+			"tags": [ "raids" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [
@@ -908,11 +908,11 @@
 			"id": "a06109c2-b146-4d9e-957a-445b30380f25",
 			"name": "Get 1 unique from Raids",
 			"shortName": "Raids",
-			"tip": "Can be received as a drop from any raid: Chambers of Xeric, Theatre of Blood, Tombs of Amascut or The Fractured Archive.",
+			"tip": "Can be received as a drop from any raid: Chambers of Xeric, Theatre of Blood or Tombs of Amascut.",
 			"wikiLink": "https://oldschool.runescape.wiki/w/Raids",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Twisted_bow_detail.png/320px-Twisted_bow_detail.png",
 			"displayItemId": 20997,
-			"tags": [ "Raid" ],
+			"tags": [ "raids" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [
@@ -927,11 +927,11 @@
 			"id": "c79d7736-b65e-46d6-a4f4-c003e68a54c3",
 			"name": "Get 1 unique from Raids",
 			"shortName": "Raids",
-			"tip": "Can be received as a drop from any raid: Chambers of Xeric, Theatre of Blood, Tombs of Amascut or The Fractured Archive.",
+			"tip": "Can be received as a drop from any raid: Chambers of Xeric, Theatre of Blood or Tombs of Amascut.",
 			"wikiLink": "https://oldschool.runescape.wiki/w/Raids",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Twisted_bow_detail.png/320px-Twisted_bow_detail.png",
 			"displayItemId": 20997,
-			"tags": [ "Raid" ],
+			"tags": [ "raids" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [
@@ -946,11 +946,11 @@
 			"id": "3e69c1e2-e004-451e-bd0a-3bf7b9a15ea1",
 			"name": "Get 1 unique from Raids",
 			"shortName": "Raids",
-			"tip": "Can be received as a drop from any raid: Chambers of Xeric, Theatre of Blood, Tombs of Amascut or The Fractured Archive.",
+			"tip": "Can be received as a drop from any raid: Chambers of Xeric, Theatre of Blood or Tombs of Amascut.",
 			"wikiLink": "https://oldschool.runescape.wiki/w/Raids",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Twisted_bow_detail.png/320px-Twisted_bow_detail.png",
 			"displayItemId": 20997,
-			"tags": [ "Raid" ],
+			"tags": [ "raids" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [
@@ -965,11 +965,11 @@
 			"id": "bb7abf29-aa33-43db-823d-ba6db8643535",
 			"name": "Get 1 unique from Raids",
 			"shortName": "Raids",
-			"tip": "Can be received as a drop from any raid: Chambers of Xeric, Theatre of Blood, Tombs of Amascut or The Fractured Archive.",
+			"tip": "Can be received as a drop from any raid: Chambers of Xeric, Theatre of Blood or Tombs of Amascut.",
 			"wikiLink": "https://oldschool.runescape.wiki/w/Raids",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Twisted_bow_detail.png/320px-Twisted_bow_detail.png",
 			"displayItemId": 20997,
-			"tags": [ "Raid" ],
+			"tags": [ "raids" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [
@@ -984,11 +984,11 @@
 			"id": "b9763997-7f6a-4cbe-969d-20c13eefa372",
 			"name": "Get 1 unique from Raids",
 			"shortName": "Raids",
-			"tip": "Can be received as a drop from any raid: Chambers of Xeric, Theatre of Blood, Tombs of Amascut or The Fractured Archive.",
+			"tip": "Can be received as a drop from any raid: Chambers of Xeric, Theatre of Blood or Tombs of Amascut.",
 			"wikiLink": "https://oldschool.runescape.wiki/w/Raids",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Twisted_bow_detail.png/320px-Twisted_bow_detail.png",
 			"displayItemId": 20997,
-			"tags": [ "Raid" ],
+			"tags": [ "raids" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [
@@ -1003,11 +1003,11 @@
 			"id": "b9c2fde0-ba98-40a3-bb7f-16feaaa2f3dc",
 			"name": "Get 1 unique from Raids",
 			"shortName": "Raids",
-			"tip": "Can be received as a drop from any raid: Chambers of Xeric, Theatre of Blood, Tombs of Amascut or The Fractured Archive.",
+			"tip": "Can be received as a drop from any raid: Chambers of Xeric, Theatre of Blood or Tombs of Amascut.",
 			"wikiLink": "https://oldschool.runescape.wiki/w/Raids",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Twisted_bow_detail.png/320px-Twisted_bow_detail.png",
 			"displayItemId": 20997,
-			"tags": [ "Raid" ],
+			"tags": [ "raids" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [
@@ -1022,11 +1022,11 @@
 			"id": "888e95b6-c2fa-4ec4-852e-49a9de064b6b",
 			"name": "Get 1 unique from Raids",
 			"shortName": "Raids",
-			"tip": "Can be received as a drop from any raid: Chambers of Xeric, Theatre of Blood, Tombs of Amascut or The Fractured Archive.",
+			"tip": "Can be received as a drop from any raid: Chambers of Xeric, Theatre of Blood or Tombs of Amascut.",
 			"wikiLink": "https://oldschool.runescape.wiki/w/Raids",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Twisted_bow_detail.png/320px-Twisted_bow_detail.png",
 			"displayItemId": 20997,
-			"tags": [ "Raid" ],
+			"tags": [ "raids" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [
@@ -1041,11 +1041,11 @@
 			"id": "ceba2322-95a3-4dab-90aa-2f0693353801",
 			"name": "Get 1 unique from Raids",
 			"shortName": "Raids",
-			"tip": "Can be received as a drop from any raid: Chambers of Xeric, Theatre of Blood, Tombs of Amascut or The Fractured Archive.",
+			"tip": "Can be received as a drop from any raid: Chambers of Xeric, Theatre of Blood or Tombs of Amascut.",
 			"wikiLink": "https://oldschool.runescape.wiki/w/Raids",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Twisted_bow_detail.png/320px-Twisted_bow_detail.png",
 			"displayItemId": 20997,
-			"tags": [ "Raid" ],
+			"tags": [ "raids" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [
@@ -1064,7 +1064,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Boss",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Abyssal_orphan_(follower).png/320px-Abyssal_orphan_(follower).png",
 			"displayItemId": 13262,
-			"tags": [ "BPet" ],
+			"tags": [ "boss-pet" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [
@@ -1087,7 +1087,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Boss",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Abyssal_orphan_(follower).png/320px-Abyssal_orphan_(follower).png",
 			"displayItemId": 13262,
-			"tags": [ "BPet" ],
+			"tags": [ "boss-pet" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [
@@ -1110,7 +1110,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Boss",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Abyssal_orphan_(follower).png/320px-Abyssal_orphan_(follower).png",
 			"displayItemId": 13262,
-			"tags": [ "BPet" ],
+			"tags": [ "boss-pet" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [
@@ -1133,7 +1133,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Boss",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Abyssal_orphan_(follower).png/320px-Abyssal_orphan_(follower).png",
 			"displayItemId": 13262,
-			"tags": [ "BPet" ],
+			"tags": [ "boss-pet" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [
@@ -1156,7 +1156,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Boss",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Abyssal_orphan_(follower).png/320px-Abyssal_orphan_(follower).png",
 			"displayItemId": 13262,
-			"tags": [ "BPet" ],
+			"tags": [ "boss-pet" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [
@@ -1179,7 +1179,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Boss",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Abyssal_orphan_(follower).png/320px-Abyssal_orphan_(follower).png",
 			"displayItemId": 13262,
-			"tags": [ "BPet" ],
+			"tags": [ "boss-pet" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [
@@ -1202,7 +1202,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Boss",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Abyssal_orphan_(follower).png/320px-Abyssal_orphan_(follower).png",
 			"displayItemId": 13262,
-			"tags": [ "BPet" ],
+			"tags": [ "boss-pet" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [
@@ -1225,7 +1225,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Boss",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Abyssal_orphan_(follower).png/320px-Abyssal_orphan_(follower).png",
 			"displayItemId": 13262,
-			"tags": [ "BPet" ],
+			"tags": [ "boss-pet" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [
@@ -1248,7 +1248,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Boss",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Abyssal_orphan_(follower).png/320px-Abyssal_orphan_(follower).png",
 			"displayItemId": 13262,
-			"tags": [ "BPet" ],
+			"tags": [ "boss-pet" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [
@@ -1271,7 +1271,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Boss",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Abyssal_orphan_(follower).png/320px-Abyssal_orphan_(follower).png",
 			"displayItemId": 13262,
-			"tags": [ "BPet" ],
+			"tags": [ "boss-pet" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [
@@ -1294,7 +1294,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Boss",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Abyssal_orphan_(follower).png/320px-Abyssal_orphan_(follower).png",
 			"displayItemId": 13262,
-			"tags": [ "BPet" ],
+			"tags": [ "boss-pet" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [
@@ -1317,7 +1317,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Boss",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Abyssal_orphan_(follower).png/320px-Abyssal_orphan_(follower).png",
 			"displayItemId": 13262,
-			"tags": [ "BPet" ],
+			"tags": [ "boss-pet" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [
@@ -1340,7 +1340,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Boss",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Abyssal_orphan_(follower).png/320px-Abyssal_orphan_(follower).png",
 			"displayItemId": 13262,
-			"tags": [ "BPet" ],
+			"tags": [ "boss-pet" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [
@@ -1363,7 +1363,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Boss",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Abyssal_orphan_(follower).png/320px-Abyssal_orphan_(follower).png",
 			"displayItemId": 13262,
-			"tags": [ "BPet" ],
+			"tags": [ "boss-pet" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [
@@ -1386,7 +1386,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Boss",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Abyssal_orphan_(follower).png/320px-Abyssal_orphan_(follower).png",
 			"displayItemId": 13262,
-			"tags": [ "BPet" ],
+			"tags": [ "boss-pet" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [
@@ -1409,7 +1409,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Boss",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Abyssal_orphan_(follower).png/320px-Abyssal_orphan_(follower).png",
 			"displayItemId": 13262,
-			"tags": [ "BPet" ],
+			"tags": [ "boss-pet" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [
@@ -1432,7 +1432,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Boss",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Abyssal_orphan_(follower).png/320px-Abyssal_orphan_(follower).png",
 			"displayItemId": 13262,
-			"tags": [ "BPet" ],
+			"tags": [ "boss-pet" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [
@@ -1455,7 +1455,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Boss",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Abyssal_orphan_(follower).png/320px-Abyssal_orphan_(follower).png",
 			"displayItemId": 13262,
-			"tags": [ "BPet" ],
+			"tags": [ "boss-pet" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [
@@ -1478,7 +1478,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Boss",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Abyssal_orphan_(follower).png/320px-Abyssal_orphan_(follower).png",
 			"displayItemId": 13262,
-			"tags": [ "BPet" ],
+			"tags": [ "boss-pet" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [
@@ -1501,7 +1501,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Boss",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Abyssal_orphan_(follower).png/320px-Abyssal_orphan_(follower).png",
 			"displayItemId": 13262,
-			"tags": [ "BPet" ],
+			"tags": [ "boss-pet" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [
@@ -1524,7 +1524,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Boss",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Abyssal_orphan_(follower).png/320px-Abyssal_orphan_(follower).png",
 			"displayItemId": 13262,
-			"tags": [ "BPet" ],
+			"tags": [ "boss-pet" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [
@@ -1547,7 +1547,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Pet#Skilling_pets",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Rocky_(follower).png/320px-Rocky_(follower).png",
 			"displayItemId": 20663,
-			"tags": [ "SPet" ],
+			"tags": [ "skilling-pet" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [
@@ -1565,7 +1565,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Pet#Skilling_pets",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Rocky_(follower).png/320px-Rocky_(follower).png",
 			"displayItemId": 20663,
-			"tags": [ "SPet" ],
+			"tags": [ "skilling-pet" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [
@@ -1583,7 +1583,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Pet#Skilling_pets",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Rocky_(follower).png/320px-Rocky_(follower).png",
 			"displayItemId": 20663,
-			"tags": [ "SPet" ],
+			"tags": [ "skilling-pet" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [
@@ -1601,7 +1601,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Pet#Skilling_pets",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Rocky_(follower).png/320px-Rocky_(follower).png",
 			"displayItemId": 20663,
-			"tags": [ "SPet" ],
+			"tags": [ "skilling-pet" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [
@@ -1619,7 +1619,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Pet#Skilling_pets",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Rocky_(follower).png/320px-Rocky_(follower).png",
 			"displayItemId": 20663,
-			"tags": [ "SPet" ],
+			"tags": [ "skilling-pet" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [
@@ -1637,7 +1637,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Pet#Skilling_pets",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Rocky_(follower).png/320px-Rocky_(follower).png",
 			"displayItemId": 20663,
-			"tags": [ "SPet" ],
+			"tags": [ "skilling-pet" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [
@@ -1655,7 +1655,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Pet#Skilling_pets",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Rocky_(follower).png/320px-Rocky_(follower).png",
 			"displayItemId": 20663,
-			"tags": [ "SPet" ],
+			"tags": [ "skilling-pet" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [
@@ -1673,7 +1673,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Wilderness#bosses",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Skull_of_Vet'ion_detail.png/320px-Skull_of_Vet'ion_detail.png",
 			"displayItemId": 27673,
-			"tags": [ "Boss" ],
+			"tags": [ "boss-unique" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [
@@ -1690,7 +1690,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Wilderness#bosses",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Skull_of_Vet'ion_detail.png/320px-Skull_of_Vet'ion_detail.png",
 			"displayItemId": 27673,
-			"tags": [ "Boss" ],
+			"tags": [ "boss-unique" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [
@@ -1707,7 +1707,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Revenants",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Ancient_relic_detail.png/320px-Ancient_relic_detail.png",
 			"displayItemId": 22305,
-			"tags": [ "Misc" ],
+			"tags": [ "misc" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [
@@ -1724,7 +1724,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Revenants",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Ancient_relic_detail.png/320px-Ancient_relic_detail.png",
 			"displayItemId": 22305,
-			"tags": [ "Misc" ],
+			"tags": [ "misc" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [
@@ -1741,7 +1741,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Revenants",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Ancient_relic_detail.png/320px-Ancient_relic_detail.png",
 			"displayItemId": 22305,
-			"tags": [ "Misc" ],
+			"tags": [ "misc" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [
@@ -1758,7 +1758,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Revenants",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Ancient_relic_detail.png/320px-Ancient_relic_detail.png",
 			"displayItemId": 22305,
-			"tags": [ "Misc" ],
+			"tags": [ "misc" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [
@@ -1775,7 +1775,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Collection_log#Slayer",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Imbued_heart_detail.png/320px-Imbued_heart_detail.png",
 			"displayItemId": 20724,
-			"tags": [ "Misc" ],
+			"tags": [ "misc" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [ 20724, 21270 ],
@@ -1790,7 +1790,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Collection_log#Slayer",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Imbued_heart_detail.png/320px-Imbued_heart_detail.png",
 			"displayItemId": 20724,
-			"tags": [ "Misc" ],
+			"tags": [ "misc" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [ 20724, 21270 ],
@@ -1805,7 +1805,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Collection_log#Miscellaneous",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Dragon_full_helm_detail.png/320px-Dragon_full_helm_detail.png",
 			"displayItemId": 11335,
-			"tags": [ "Misc" ],
+			"tags": [ "misc" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [ 11335, 22103, 22100 ],
@@ -1820,7 +1820,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Collection_log#Miscellaneous",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Dragon_full_helm_detail.png/320px-Dragon_full_helm_detail.png",
 			"displayItemId": 11335,
-			"tags": [ "Misc" ],
+			"tags": [ "misc" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [ 11335, 22103, 22100 ],
@@ -1835,7 +1835,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Collection_log#Miscellaneous",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Dragon_full_helm_detail.png/320px-Dragon_full_helm_detail.png",
 			"displayItemId": 11335,
-			"tags": [ "Misc" ],
+			"tags": [ "misc" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [ 11335, 22103, 22100 ],
@@ -1849,7 +1849,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Corporeal_Beast",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Elysian_sigil_detail.png/320px-Elysian_sigil_detail.png",
 			"displayItemId": 12819,
-			"tags": [ "Boss" ],
+			"tags": [ "boss-unique" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [ 12827, 12823, 12819 ],
@@ -1863,7 +1863,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Zalcano",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Zalcano_shard_detail.png/320px-Zalcano_shard_detail.png",
 			"displayItemId": 23908,
-			"tags": [ "Boss" ],
+			"tags": [ "boss-unique" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [ 23953, 23908 ],
@@ -1877,7 +1877,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Vorkath",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Dragonbone_necklace_detail.png/320px-Dragonbone_necklace_detail.png",
 			"displayItemId": 22111,
-			"tags": [ "Boss" ],
+			"tags": [ "boss-unique" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [ 22111, 22006 ],
@@ -1892,7 +1892,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/The_Nightmare",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Inquisitor's_mace_detail.png/320px-Inquisitor's_mace_detail.png",
 			"displayItemId": 24417,
-			"tags": [ "Boss" ],
+			"tags": [ "boss-unique" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [ 24422, 24517, 24511, 24514, 24419, 24420, 24421, 24417 ],
@@ -1907,7 +1907,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/The_Nightmare",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Inquisitor's_mace_detail.png/320px-Inquisitor's_mace_detail.png",
 			"displayItemId": 24417,
-			"tags": [ "Boss" ],
+			"tags": [ "boss-unique" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [ 24422, 24517, 24511, 24514, 24419, 24420, 24421, 24417 ],
@@ -1922,7 +1922,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/The_Nightmare",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Inquisitor's_mace_detail.png/320px-Inquisitor's_mace_detail.png",
 			"displayItemId": 24417,
-			"tags": [ "Boss" ],
+			"tags": [ "boss-unique" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [ 24422, 24517, 24511, 24514, 24419, 24420, 24421, 24417 ],
@@ -1937,7 +1937,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/The_Nightmare",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Inquisitor's_mace_detail.png/320px-Inquisitor's_mace_detail.png",
 			"displayItemId": 24417,
-			"tags": [ "Boss" ],
+			"tags": [ "boss-unique" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [ 24422, 24517, 24511, 24514, 24419, 24420, 24421, 24417 ],
@@ -1951,7 +1951,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Attack",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Attack_cape%28t%29_detail.png/120px-Attack_cape%28t%29_detail.png",
 			"displayItemId": 9748,
-			"tags": [ "L99" ],
+			"tags": [ "level-99" ],
 			"verification": {
 				"method": "skill",
 				"experience": { "attack": 13034431 },
@@ -1965,7 +1965,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Strength",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Strength_cape%28t%29_detail.png/120px-Strength_cape%28t%29_detail.png",
 			"displayItemId": 9751,
-			"tags": [ "L99" ],
+			"tags": [ "level-99" ],
 			"verification": {
 				"method": "skill",
 				"experience": { "strength": 13034431 },
@@ -1979,7 +1979,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Defence",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Defence_cape%28t%29_detail.png/120px-Defence_cape%28t%29_detail.png",
 			"displayItemId": 9754,
-			"tags": [ "L99" ],
+			"tags": [ "level-99" ],
 			"verification": {
 				"method": "skill",
 				"experience": { "defence": 13034431 },
@@ -1993,7 +1993,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Ranged",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Ranging_cape%28t%29_detail.png/120px-Ranging_cape%28t%29_detail.png",
 			"displayItemId": 9757,
-			"tags": [ "L99" ],
+			"tags": [ "level-99" ],
 			"verification": {
 				"method": "skill",
 				"experience": { "ranged": 13034431 },
@@ -2007,7 +2007,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Prayer",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Prayer_cape%28t%29_detail.png/120px-Prayer_cape%28t%29_detail.png",
 			"displayItemId": 9760,
-			"tags": [ "L99" ],
+			"tags": [ "level-99" ],
 			"verification": {
 				"method": "skill",
 				"experience": { "prayer": 13034431 },
@@ -2021,7 +2021,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Magic",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Magic_cape%28t%29_detail.png/120px-Magic_cape%28t%29_detail.png",
 			"displayItemId": 9763,
-			"tags": [ "L99" ],
+			"tags": [ "level-99" ],
 			"verification": {
 				"method": "skill",
 				"experience": { "magic": 13034431 },
@@ -2035,7 +2035,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Runecraft",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Runecraft_cape%28t%29_detail.png/120px-Runecraft_cape%28t%29_detail.png",
 			"displayItemId": 9766,
-			"tags": [ "L99" ],
+			"tags": [ "level-99" ],
 			"verification": {
 				"method": "skill",
 				"experience": { "runecraft": 13034431 },
@@ -2049,7 +2049,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Hitpoints",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Hitpoints_cape%28t%29_detail.png/120px-Hitpoints_cape%28t%29_detail.png",
 			"displayItemId": 9769,
-			"tags": [ "L99" ],
+			"tags": [ "level-99" ],
 			"verification": {
 				"method": "skill",
 				"experience": { "hitpoints": 13034431 },
@@ -2063,7 +2063,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Crafting",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Crafting_cape%28t%29_detail.png/120px-Crafting_cape%28t%29_detail.png",
 			"displayItemId": 9781,
-			"tags": [ "L99" ],
+			"tags": [ "level-99" ],
 			"verification": {
 				"method": "skill",
 				"experience": { "crafting": 13034431 },
@@ -2077,7 +2077,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Mining",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Mining_cape%28t%29_detail.png/120px-Mining_cape%28t%29_detail.png",
 			"displayItemId": 9793,
-			"tags": [ "L99" ],
+			"tags": [ "level-99" ],
 			"verification": {
 				"method": "skill",
 				"experience": { "mining": 13034431 },
@@ -2091,7 +2091,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Smithing",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Smithing_cape%28t%29_detail.png/120px-Smithing_cape%28t%29_detail.png",
 			"displayItemId": 9796,
-			"tags": [ "L99" ],
+			"tags": [ "level-99" ],
 			"verification": {
 				"method": "skill",
 				"experience": { "smithing": 13034431 },
@@ -2105,7 +2105,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Fishing",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Fishing_cape%28t%29_detail.png/120px-Fishing_cape%28t%29_detail.png",
 			"displayItemId": 9799,
-			"tags": [ "L99" ],
+			"tags": [ "level-99" ],
 			"verification": {
 				"method": "skill",
 				"experience": { "fishing": 13034431 },
@@ -2119,7 +2119,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Cooking",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Cooking_cape%28t%29_detail.png/120px-Cooking_cape%28t%29_detail.png",
 			"displayItemId": 9802,
-			"tags": [ "L99" ],
+			"tags": [ "level-99" ],
 			"verification": {
 				"method": "skill",
 				"experience": { "cooking": 13034431 },
@@ -2133,7 +2133,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Firemaking",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Firemaking_cape%28t%29_detail.png/120px-Firemaking_cape%28t%29_detail.png",
 			"displayItemId": 9805,
-			"tags": [ "L99" ],
+			"tags": [ "level-99" ],
 			"verification": {
 				"method": "skill",
 				"experience": { "firemaking": 13034431 },
@@ -2147,7 +2147,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Woodcutting",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Woodcut._cape%28t%29_detail.png/120px-Woodcut._cape%28t%29_detail.png",
 			"displayItemId": 9808,
-			"tags": [ "L99" ],
+			"tags": [ "level-99" ],
 			"verification": {
 				"method": "skill",
 				"experience": { "woodcutting": 13034431 },
@@ -2161,7 +2161,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Agility",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Agility_cape%28t%29_detail.png/120px-Agility_cape%28t%29_detail.png",
 			"displayItemId": 9772,
-			"tags": [ "L99" ],
+			"tags": [ "level-99" ],
 			"verification": {
 				"method": "skill",
 				"experience": { "agility": 13034431 },
@@ -2175,7 +2175,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Herblore",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Herblore_cape%28t%29_detail.png/120px-Herblore_cape%28t%29_detail.png",
 			"displayItemId": 9775,
-			"tags": [ "L99" ],
+			"tags": [ "level-99" ],
 			"verification": {
 				"method": "skill",
 				"experience": { "herblore": 13034431 },
@@ -2189,7 +2189,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Thieving",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Thieving_cape%28t%29_detail.png/120px-Thieving_cape%28t%29_detail.png",
 			"displayItemId": 9778,
-			"tags": [ "L99" ],
+			"tags": [ "level-99" ],
 			"verification": {
 				"method": "skill",
 				"experience": { "thieving": 13034431 },
@@ -2203,7 +2203,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Fletching",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Fletching_cape%28t%29_detail.png/120px-Fletching_cape%28t%29_detail.png",
 			"displayItemId": 9784,
-			"tags": [ "L99" ],
+			"tags": [ "level-99" ],
 			"verification": {
 				"method": "skill",
 				"experience": { "fletching": 13034431 },
@@ -2217,7 +2217,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Slayer",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Slayer_cape%28t%29_detail.png/120px-Slayer_cape%28t%29_detail.png",
 			"displayItemId": 9787,
-			"tags": [ "L99" ],
+			"tags": [ "level-99" ],
 			"verification": {
 				"method": "skill",
 				"experience": { "slayer": 13034431 },
@@ -2231,7 +2231,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Farming",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Farming_cape%28t%29_detail.png/120px-Farming_cape%28t%29_detail.png",
 			"displayItemId": 9811,
-			"tags": [ "L99" ],
+			"tags": [ "level-99" ],
 			"verification": {
 				"method": "skill",
 				"experience": { "farming": 13034431 },
@@ -2245,7 +2245,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Contruction",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Construct._cape%28t%29_detail.png/120px-Construct._cape%28t%29_detail.png",
 			"displayItemId": 9790,
-			"tags": [ "L99" ],
+			"tags": [ "level-99" ],
 			"verification": {
 				"method": "skill",
 				"experience": { "construction": 13034431 },
@@ -2259,7 +2259,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Hunter",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Hunter_cape%28t%29_detail.png/120px-Hunter_cape%28t%29_detail.png",
 			"displayItemId": 9949,
-			"tags": [ "L99" ],
+			"tags": [ "level-99" ],
 			"verification": {
 				"method": "skill",
 				"experience": { "hunter": 13034431 },
@@ -2273,7 +2273,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Sailing",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Sailing_cape%28t%29_detail.png/130px-Sailing_cape%28t%29_detail.png",
 			"displayItemId": 31290,
-			"tags": [ "L99" ],
+			"tags": [ "level-99" ],
 			"verification": {
 				"method": "skill",
 				"experience": { "sailing": 13034431 },
@@ -2287,7 +2287,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Combat_Achievements",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Combat_achievements_detail.png/320px-Combat_achievements_detail.png",
 			"displayItemId": 25934,
-			"tags": [ "CA" ]
+			"tags": [ "combat-achievement" ]
 		},
 		{
 			"id": "4e7cac5a-3159-4899-bdba-ecf8e8eda485",
@@ -2296,7 +2296,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Combat_Achievements",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Combat_achievements_detail.png/320px-Combat_achievements_detail.png",
 			"displayItemId": 25934,
-			"tags": [ "CA" ]
+			"tags": [ "combat-achievement" ]
 		},
 		{
 			"id": "1c714090-24b2-4505-8965-97bfa304f51f",
@@ -2305,7 +2305,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Combat_Achievements",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Combat_achievements_detail.png/320px-Combat_achievements_detail.png",
 			"displayItemId": 25934,
-			"tags": [ "CA" ]
+			"tags": [ "combat-achievement" ]
 		},
 		{
 			"id": "afc8f59d-87d7-4a41-a543-1548e1f98bcb",
@@ -2314,7 +2314,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Combat_Achievements",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Combat_achievements_detail.png/320px-Combat_achievements_detail.png",
 			"displayItemId": 25934,
-			"tags": [ "CA" ]
+			"tags": [ "combat-achievement" ]
 		},
 		{
 			"id": "1dac8e7b-3bc3-4020-b74b-deac3bbbabde",
@@ -2323,7 +2323,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Combat_Achievements",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Combat_achievements_detail.png/320px-Combat_achievements_detail.png",
 			"displayItemId": 25934,
-			"tags": [ "CA" ]
+			"tags": [ "combat-achievement" ]
 		},
 		{
 			"id": "4bab41fb-35a5-42a3-9937-c073817fcbf7",
@@ -2332,7 +2332,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Combat_Achievements",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Combat_achievements_detail.png/320px-Combat_achievements_detail.png",
 			"displayItemId": 25934,
-			"tags": [ "CA" ]
+			"tags": [ "combat-achievement" ]
 		},
 		{
 			"id": "025e5d3f-44cf-4539-972b-06752e7e4178",
@@ -2341,7 +2341,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Combat_Achievements",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Combat_achievements_detail.png/320px-Combat_achievements_detail.png",
 			"displayItemId": 25934,
-			"tags": [ "CA" ]
+			"tags": [ "combat-achievement" ]
 		},
 		{
 			"id": "5ccb09c9-b8b8-46b0-b9b5-db8129c710fb",
@@ -2350,7 +2350,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Combat_Achievements",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Combat_achievements_detail.png/320px-Combat_achievements_detail.png",
 			"displayItemId": 25934,
-			"tags": [ "CA" ]
+			"tags": [ "combat-achievement" ]
 		},
 		{
 			"id": "819b3614-9c74-4e53-8f31-dbd404d6acaa",
@@ -2359,7 +2359,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Combat_Achievements",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Combat_achievements_detail.png/320px-Combat_achievements_detail.png",
 			"displayItemId": 25934,
-			"tags": [ "CA" ]
+			"tags": [ "combat-achievement" ]
 		},
 		{
 			"id": "a7b09ed2-ab52-4d35-b35b-daa26428e701",
@@ -2368,7 +2368,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Combat_Achievements",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Combat_achievements_detail.png/320px-Combat_achievements_detail.png",
 			"displayItemId": 25934,
-			"tags": [ "CA" ]
+			"tags": [ "combat-achievement" ]
 		},
 		{
 			"id": "d9349bb1-64a5-473e-b8e4-10bd0949e754",
@@ -2377,7 +2377,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Combat_Achievements",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Combat_achievements_detail.png/320px-Combat_achievements_detail.png",
 			"displayItemId": 25934,
-			"tags": [ "CA" ]
+			"tags": [ "combat-achievement" ]
 		},
 		{
 			"id": "8ba02532-0df7-4294-9056-1d42086e5ad1",
@@ -2386,7 +2386,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Combat_Achievements",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Combat_achievements_detail.png/320px-Combat_achievements_detail.png",
 			"displayItemId": 25934,
-			"tags": [ "CA" ]
+			"tags": [ "combat-achievement" ]
 		},
 		{
 			"id": "8f3e41b8-b2ff-46e9-a98a-dd721ac6814b",
@@ -2395,7 +2395,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Combat_Achievements",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Combat_achievements_detail.png/320px-Combat_achievements_detail.png",
 			"displayItemId": 25934,
-			"tags": [ "CA" ]
+			"tags": [ "combat-achievement" ]
 		},
 		{
 			"id": "84fe3ec1-a169-4ba7-a309-781258cb9bae",
@@ -2404,7 +2404,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Combat_Achievements",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Combat_achievements_detail.png/320px-Combat_achievements_detail.png",
 			"displayItemId": 25934,
-			"tags": [ "CA" ]
+			"tags": [ "combat-achievement" ]
 		},
 		{
 			"id": "5c3ecb1c-5c0b-4bce-948d-250867a1a914",
@@ -2413,7 +2413,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Combat_Achievements",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Combat_achievements_detail.png/320px-Combat_achievements_detail.png",
 			"displayItemId": 25934,
-			"tags": [ "CA" ]
+			"tags": [ "combat-achievement" ]
 		},
 		{
 			"id": "00e2d932-c6f2-44c6-a0ae-7cbd740bc292",
@@ -2422,7 +2422,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Combat_Achievements",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Combat_achievements_detail.png/320px-Combat_achievements_detail.png",
 			"displayItemId": 25934,
-			"tags": [ "CA" ]
+			"tags": [ "combat-achievement" ]
 		},
 		{
 			"id": "14c84ab1-3086-4d62-985c-d94577fb512a",
@@ -2431,7 +2431,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Combat_Achievements",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Combat_achievements_detail.png/320px-Combat_achievements_detail.png",
 			"displayItemId": 25934,
-			"tags": [ "CA" ]
+			"tags": [ "combat-achievement" ]
 		},
 		{
 			"id": "04266cfa-9130-4b81-a510-0a33fd4fd729",
@@ -2440,7 +2440,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Combat_Achievements",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Combat_achievements_detail.png/320px-Combat_achievements_detail.png",
 			"displayItemId": 25934,
-			"tags": [ "CA" ]
+			"tags": [ "combat-achievement" ]
 		},
 		{
 			"id": "b24bc8b3-5bce-4027-af5c-1a0d8be2f235",
@@ -2449,7 +2449,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Combat_Achievements",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Combat_achievements_detail.png/320px-Combat_achievements_detail.png",
 			"displayItemId": 25934,
-			"tags": [ "CA" ]
+			"tags": [ "combat-achievement" ]
 		},
 		{
 			"id": "a9ed8741-c122-41a1-b341-3ae95be3c7de",
@@ -2459,7 +2459,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/God_Wars_Dungeon",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Armadyl_helmet_detail.png/320px-Armadyl_helmet_detail.png",
 			"displayItemId": 11826,
-			"tags": [ "Boss" ],
+			"tags": [ "boss-unique" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [
@@ -2477,7 +2477,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/God_Wars_Dungeon",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Armadyl_helmet_detail.png/320px-Armadyl_helmet_detail.png",
 			"displayItemId": 11826,
-			"tags": [ "Boss" ],
+			"tags": [ "boss-unique" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [
@@ -2495,7 +2495,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/God_Wars_Dungeon",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Armadyl_helmet_detail.png/320px-Armadyl_helmet_detail.png",
 			"displayItemId": 11826,
-			"tags": [ "Boss" ],
+			"tags": [ "boss-unique" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [
@@ -2513,7 +2513,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/God_Wars_Dungeon",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Armadyl_helmet_detail.png/320px-Armadyl_helmet_detail.png",
 			"displayItemId": 11826,
-			"tags": [ "Boss" ],
+			"tags": [ "boss-unique" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [
@@ -2530,7 +2530,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Desert_Treasure_II_-_The_Fallen_Empire",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Soulreaper_axe_detail.png/320px-Soulreaper_axe_detail.png",
 			"displayItemId": 28338,
-			"tags": [ "Boss" ],
+			"tags": [ "boss-unique" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [
@@ -2547,7 +2547,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Desert_Treasure_II_-_The_Fallen_Empire",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Soulreaper_axe_detail.png/320px-Soulreaper_axe_detail.png",
 			"displayItemId": 28338,
-			"tags": [ "Boss" ],
+			"tags": [ "boss-unique" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [
@@ -2564,7 +2564,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Desert_Treasure_II_-_The_Fallen_Empire",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Soulreaper_axe_detail.png/320px-Soulreaper_axe_detail.png",
 			"displayItemId": 28338,
-			"tags": [ "Boss" ],
+			"tags": [ "boss-unique" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [
@@ -2581,7 +2581,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Desert_Treasure_II_-_The_Fallen_Empire",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Soulreaper_axe_detail.png/320px-Soulreaper_axe_detail.png",
 			"displayItemId": 28338,
-			"tags": [ "Boss" ],
+			"tags": [ "boss-unique" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [
@@ -2598,7 +2598,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Desert_Treasure_II_-_The_Fallen_Empire",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Soulreaper_axe_detail.png/320px-Soulreaper_axe_detail.png",
 			"displayItemId": 28338,
-			"tags": [ "Boss" ],
+			"tags": [ "boss-unique" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [
@@ -2615,7 +2615,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Desert_Treasure_II_-_The_Fallen_Empire",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Soulreaper_axe_detail.png/320px-Soulreaper_axe_detail.png",
 			"displayItemId": 28338,
-			"tags": [ "Boss" ],
+			"tags": [ "boss-unique" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [
@@ -2632,7 +2632,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Desert_Treasure_II_-_The_Fallen_Empire",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Soulreaper_axe_detail.png/320px-Soulreaper_axe_detail.png",
 			"displayItemId": 28338,
-			"tags": [ "Boss" ],
+			"tags": [ "boss-unique" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [
@@ -2649,7 +2649,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Desert_Treasure_II_-_The_Fallen_Empire",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Soulreaper_axe_detail.png/320px-Soulreaper_axe_detail.png",
 			"displayItemId": 28338,
-			"tags": [ "Boss" ],
+			"tags": [ "boss-unique" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [
@@ -2666,7 +2666,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Desert_Treasure_II_-_The_Fallen_Empire",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Soulreaper_axe_detail.png/320px-Soulreaper_axe_detail.png",
 			"displayItemId": 28338,
-			"tags": [ "Boss" ],
+			"tags": [ "boss-unique" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [
@@ -2683,7 +2683,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Desert_Treasure_II_-_The_Fallen_Empire",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Soulreaper_axe_detail.png/320px-Soulreaper_axe_detail.png",
 			"displayItemId": 28338,
-			"tags": [ "Boss" ],
+			"tags": [ "boss-unique" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [
@@ -2700,7 +2700,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Fortis_Colosseum",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Dizana's_quiver_detail.png/320px-Dizana's_quiver_detail.png",
 			"displayItemId": 28951,
-			"tags": [ "Boss" ],
+			"tags": [ "boss-unique" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [ 28947, 28933, 28936, 28939, 28942, 28919 ],
@@ -2714,7 +2714,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Fortis_Colosseum",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Dizana's_quiver_detail.png/320px-Dizana's_quiver_detail.png",
 			"displayItemId": 28951,
-			"tags": [ "Boss" ],
+			"tags": [ "boss-unique" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [ 28947, 28933, 28936, 28939, 28942, 28919 ],
@@ -2728,7 +2728,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Fortis_Colosseum",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Dizana's_quiver_detail.png/320px-Dizana's_quiver_detail.png",
 			"displayItemId": 28951,
-			"tags": [ "Boss" ],
+			"tags": [ "boss-unique" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [ 28947, 28933, 28936, 28939, 28942, 28919 ],
@@ -2743,7 +2743,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Gauntlet",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Blade_of_Saeldor_(inactive)_detail.png/320px-Blade_of_Saeldor_(inactive)_detail.png",
 			"displayItemId": 25862,
-			"tags": [ "Boss" ],
+			"tags": [ "boss-unique" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [ 4207, 23956, 25859 ],
@@ -2757,7 +2757,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Yama",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Oathplate_chest_detail.png/320px-Oathplate_chest_detail.png",
 			"displayItemId": 30753,
-			"tags": [ "Boss" ],
+			"tags": [ "boss-unique" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [
@@ -2773,7 +2773,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Yama",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Oathplate_chest_detail.png/320px-Oathplate_chest_detail.png",
 			"displayItemId": 30753,
-			"tags": [ "Boss" ],
+			"tags": [ "boss-unique" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [
@@ -2789,7 +2789,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Yama",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Oathplate_chest_detail.png/320px-Oathplate_chest_detail.png",
 			"displayItemId": 30753,
-			"tags": [ "Boss" ],
+			"tags": [ "boss-unique" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [
@@ -2805,7 +2805,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Doom_of_Mokhaiotl",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Eye_of_Ayak_detail.png/320px-Eye_of_Ayak_detail.png",
 			"displayItemId": 31115,
-			"tags": [ "Boss" ],
+			"tags": [ "boss-unique" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [ 31111, 31099, 31109, 31115, 31088 ],
@@ -2819,7 +2819,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Brimstone_chest",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Brimstone_key_detail.png/1024px-Brimstone_key_detail.png",
 			"displayItemId": 23083,
-			"tags": [ "Boss" ],
+			"tags": [ "boss-unique" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [ 22963, 23047, 23050, 23053, 23056, 23059 ],
@@ -2833,7 +2833,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Brimstone_chest",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Brimstone_key_detail.png/1024px-Brimstone_key_detail.png",
 			"displayItemId": 23083,
-			"tags": [ "Boss" ],
+			"tags": [ "boss-unique" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [ 22963, 23047, 23050, 23053, 23056, 23059 ],
@@ -2848,7 +2848,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Dagon'hai_robes",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Dagon'hai_robe_top_detail.png/320px-Dagon'hai_robe_top_detail.png",
 			"displayItemId": 24291,
-			"tags": [ "Boss" ],
+			"tags": [ "boss-unique" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [ 24288, 24291, 24294 ],
@@ -2862,7 +2862,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Dark_claw",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Dark_claw_detail.png/320px-Dark_claw_detail.png",
 			"displayItemId": 21275,
-			"tags": [ "Boss" ],
+			"tags": [ "boss-unique" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [ 21275, 19685 ],
@@ -2876,7 +2876,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Dark_claw",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Dark_claw_detail.png/320px-Dark_claw_detail.png",
 			"displayItemId": 21275,
-			"tags": [ "Boss" ],
+			"tags": [ "boss-unique" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [ 21275, 19685 ],
@@ -2890,7 +2890,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Angler's_paint",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Angler's_paint_detail.png/320px-Angler's_paint_detail.png",
 			"displayItemId": 32096,
-			"tags": [ "Misc" ],
+			"tags": [ "misc" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [ 32096 ],
@@ -2904,7 +2904,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Salvor's_paint",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Salvor's_paint_detail.png/320px-Salvor's_paint_detail.png",
 			"displayItemId": 32099,
-			"tags": [ "Misc" ],
+			"tags": [ "misc" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [ 32099 ],
@@ -2918,7 +2918,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Draconic_visage",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Draconic_visage_detail.png/320px-Draconic_visage_detail.png",
 			"displayItemId": 11286,
-			"tags": [ "Misc" ],
+			"tags": [ "misc" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [ 11286 ],
@@ -2933,7 +2933,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Hallowed_Sepulchre",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Hallowed_mark_detail.png/320px-Hallowed_mark_detail.png",
 			"displayItemId": 24711,
-			"tags": [ "Misc" ],
+			"tags": [ "misc" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [
@@ -2951,7 +2951,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Guardians_of_the_Rift",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Hat_of_the_Eye_detail.png/120px-Hat_of_the_Eye_detail.png",
 			"displayItemId": 26850,
-			"tags": [ "Misc" ],
+			"tags": [ "misc" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [

@@ -30,7 +30,7 @@
 		},
 		"tag": {
 			"type": "string",
-			"enum": ["lms", "Boss", "Raid", "Clue", "Misc", "BPet", "SPet", "CA", "L99"]
+			"enum": ["lms", "boss-unique", "raids", "clues", "misc", "boss-pet", "skilling-pet", "combat-achievement", "level-99"]
 		}
 	},
 	"type": "object",
