@@ -180,7 +180,15 @@ export interface TaskList {
  * via the `definition` "tag".
  */
 export const enum KeyNameFromDefinitionItems {
-	Lms = 'lms'
+	Lms = 'lms',
+	BossUnique = 'boss-unique',
+	Raids = 'raids',
+	Clues = 'clues',
+	Misc = 'misc',
+	BossPet = 'boss-pet',
+	SkillingPet = 'skilling-pet',
+	CombatAchievement = 'combat-achievement',
+	Level99 = 'level-99'
 }
 export const enum Method {
 	CollectionLog = 'collection-log'

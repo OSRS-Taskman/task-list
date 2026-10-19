@@ -7,15 +7,28 @@
 			"tip": "Events spawn randomly every 1 to 2 hours.",
 			"wikiLink": "https://oldschool.runescape.wiki/w/Random_events",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Mime_mask_detail.png/320px-Mime_mask_detail.png",
-			"displayItemId": 3057
+			"displayItemId": 3057,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [
+					25129, 25131, 25133, 25135, 25137,  6656,  6654,  6655,  6182,  6180,  6181,
+					 7594,  7592,  7593,  7596,  7595,  6183,  3057,  3058,  3059,  3060,  3061
+				],
+				"count": 22
+			}
 		},
 		{
 			"id": "a61b7987-5b75-4316-b8f9-92b08042123b",
 			"name": "Get the Stale baguette",
-			"tip": "Can be obtained from the sandwich lady random event.",
+			"tip": "Can be obtained from the Sandwich Lady and Quiz Master random events.",
 			"wikiLink": "https://oldschool.runescape.wiki/w/Stale_baguette",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Stale_baguette_detail.png/320px-Stale_baguette_detail.png",
-			"displayItemId": 20590
+			"displayItemId": 20590,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 20590 ],
+				"count": 1
+			}
 		},
 		{
 			"id": "26f3b25f-9241-4f7a-bb20-f1a6ef7d52d6",
@@ -23,7 +36,12 @@
 			"tip": "Trees and Belladonna have the best chances for a Hespori seed.",
 			"wikiLink": "https://oldschool.runescape.wiki/w/Hespori_seed",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Hespori_seed_detail.png/320px-Hespori_seed_detail.png",
-			"displayItemId": 22875
+			"displayItemId": 22875,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 22875 ],
+				"count": 1
+			}
 		},
 		{
 			"id": "2b04b9de-3453-479f-b4d4-259c7b62a9b8",
@@ -31,7 +49,12 @@
 			"tip": "Can be obtained by killing Hespori.",
 			"wikiLink": "https://oldschool.runescape.wiki/w/Iasor_seed",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Iasor_seed_detail.png/320px-Iasor_seed_detail.png",
-			"displayItemId": 22883
+			"displayItemId": 22883,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 22883 ],
+				"count": 1
+			}
 		},
 		{
 			"id": "0699bc0c-eb2e-4bc5-b025-1342e177b25f",
@@ -39,7 +62,12 @@
 			"tip": "Can be obtained by killing Hespori.",
 			"wikiLink": "https://oldschool.runescape.wiki/w/Kronos_seed",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Kronos_seed_detail.png/320px-Kronos_seed_detail.png",
-			"displayItemId": 22885
+			"displayItemId": 22885,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 22885 ],
+				"count": 1
+			}
 		},
 		{
 			"id": "ae28548d-8cc3-4732-9361-3a3178731dda",
@@ -47,7 +75,12 @@
 			"tip": "Can be obtained by killing Hespori.",
 			"wikiLink": "https://oldschool.runescape.wiki/w/Attas_seed",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Attas_seed_detail.png/320px-Attas_seed_detail.png",
-			"displayItemId": 22881
+			"displayItemId": 22881,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 22881 ],
+				"count": 1
+			}
 		},
 		{
 			"id": "0cbccceb-6021-4e75-bece-ed9337dd15ca",
@@ -55,7 +88,12 @@
 			"tip": "Can be obtained by killing Hespori.",
 			"wikiLink": "https://oldschool.runescape.wiki/w/Bottomless_compost_bucket",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Bottomless_compost_bucket_detail.png/320px-Bottomless_compost_bucket_detail.png",
-			"displayItemId": 22994
+			"displayItemId": 22994,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 22994 ],
+				"count": 1
+			}
 		},
 		{
 			"id": "d4daebe8-75b6-4e47-90da-170666f716a5",
@@ -63,55 +101,64 @@
 			"tip": "Can be obtained by aerial fishing at Molch island.",
 			"wikiLink": "https://oldschool.runescape.wiki/w/Golden_tench",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Golden_tench_detail.png/320px-Golden_tench_detail.png",
-			"displayItemId": 22840
+			"displayItemId": 22840,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 22840 ],
+				"count": 1
+			}
 		},
 		{
 			"id": "4a2b22e5-09ec-41da-946f-55add14f33af",
-			"name": "Get a Broken dragon hasta",
+			"name": "Get a Brimstone Chest unique",
 			"tip": "Can be obtained by doing Konar slayer and opening Brimstone chests.",
-			"wikiLink": "https://oldschool.runescape.wiki/w/Broken_dragon_hasta",
-			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Broken_dragon_hasta_detail.png/320px-Broken_dragon_hasta_detail.png",
-			"displayItemId": 22963
+			"wikiLink": "https://oldschool.runescape.wiki/w/Brimstone_chest",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Brimstone_key_detail.png/320px-Brimstone_key_detail.png",
+			"displayItemId": 23083,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 22963, 23047, 23050, 23053, 23056, 23059 ],
+				"count": 3
+			}
 		},
 		{
 			"id": "e5a1072e-fcf2-4027-8c9e-4fa2f7bbad0b",
-			"name": "Get a Mystic hat (dusk)",
+			"name": "Get a Brimstone Chest unique",
 			"tip": "Can be obtained by doing Konar slayer and opening Brimstone chests.",
-			"wikiLink": "https://oldschool.runescape.wiki/w/Mystic_hat_(dusk)",
-			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Mystic_hat_(dusk)_detail.png/320px-Mystic_hat_(dusk)_detail.png",
-			"displayItemId": 23047
+			"wikiLink": "https://oldschool.runescape.wiki/w/Brimstone_chest",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Brimstone_key_detail.png/320px-Brimstone_key_detail.png",
+			"displayItemId": 23083,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 22963, 23047, 23050, 23053, 23056, 23059 ],
+				"count": 4
+			}
 		},
 		{
 			"id": "53cb421f-bd1a-436b-902d-c28ff860161e",
-			"name": "Get a Mystic robe top (dusk)",
+			"name": "Get a Brimstone Chest unique",
 			"tip": "Can be obtained by doing Konar slayer and opening Brimstone chests.",
-			"wikiLink": "https://oldschool.runescape.wiki/w/Mystic_robe_top_(dusk)",
-			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Mystic_robe_top_(dusk)_detail.png/320px-Mystic_robe_top_(dusk)_detail.png",
-			"displayItemId": 23050
+			"wikiLink": "https://oldschool.runescape.wiki/w/Brimstone_chest",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Brimstone_key_detail.png/320px-Brimstone_key_detail.png",
+			"displayItemId": 23083,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 22963, 23047, 23050, 23053, 23056, 23059 ],
+				"count": 5
+			}
 		},
 		{
 			"id": "63ee8276-44d1-42d2-bf07-212ac073b262",
-			"name": "Get a Mystic robe bottom (dusk)",
+			"name": "Get a Brimstone Chest unique",
 			"tip": "Can be obtained by doing Konar slayer and opening Brimstone chests.",
-			"wikiLink": "https://oldschool.runescape.wiki/w/Mystic_robe_bottom_(dusk)",
-			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Mystic_robe_bottom_(dusk)_detail.png/320px-Mystic_robe_bottom_(dusk)_detail.png",
-			"displayItemId": 23053
-		},
-		{
-			"id": "be70f64b-4685-4613-b9a2-5e2ed3543e8e",
-			"name": "Get Mystic gloves (dusk)",
-			"tip": "Can be obtained by doing Konar slayer and opening Brimstone chests.",
-			"wikiLink": "https://oldschool.runescape.wiki/w/Mystic_gloves_(dusk)",
-			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Mystic_gloves_(dusk)_detail.png/320px-Mystic_gloves_(dusk)_detail.png",
-			"displayItemId": 23056
-		},
-		{
-			"id": "e8e7f5cd-a97f-4df8-b4a2-ff35cfc7a5c4",
-			"name": "Get Mystic boots (dusk)",
-			"tip": "Can be obtained by doing Konar slayer and opening Brimstone chests.",
-			"wikiLink": "https://oldschool.runescape.wiki/w/Mystic_boots_(dusk)",
-			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Mystic_boots_(dusk)_detail.png/320px-Mystic_boots_(dusk)_detail.png",
-			"displayItemId": 23059
+			"wikiLink": "https://oldschool.runescape.wiki/w/Brimstone_chest",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Brimstone_key_detail.png/320px-Brimstone_key_detail.png",
+			"displayItemId": 23083,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 22963, 23047, 23050, 23053, 23056, 23059 ],
+				"count": 3
+			}
 		},
 		{
 			"id": "570f2e82-f361-4555-8ea6-575725400013",
@@ -119,7 +166,12 @@
 			"tip": "Can be obtained by killing any boss or sub-boss in the God Wars Dungeon.",
 			"wikiLink": "https://oldschool.runescape.wiki/w/Godsword_shard_1",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Godsword_shard_1_detail.png/320px-Godsword_shard_1_detail.png",
-			"displayItemId": 11818
+			"displayItemId": 11818,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 11818 ],
+				"count": 1
+			}
 		},
 		{
 			"id": "b3d932c4-ca95-472a-9a96-e4c2165e9e34",
@@ -127,7 +179,12 @@
 			"tip": "Can be obtained by killing any boss or sub-boss in the God Wars Dungeon.",
 			"wikiLink": "https://oldschool.runescape.wiki/w/Godsword_shard_2",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Godsword_shard_2_detail.png/320px-Godsword_shard_2_detail.png",
-			"displayItemId": 11820
+			"displayItemId": 11820,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 11820 ],
+				"count": 1
+			}
 		},
 		{
 			"id": "c40c079b-ebc2-42f9-9718-0211b814d906",
@@ -135,7 +192,12 @@
 			"tip": "Can be obtained by killing any boss or sub-boss in the God Wars Dungeon.",
 			"wikiLink": "https://oldschool.runescape.wiki/w/Godsword_shard_3",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Godsword_shard_3_detail.png/320px-Godsword_shard_3_detail.png",
-			"displayItemId": 11822
+			"displayItemId": 11822,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 11822 ],
+				"count": 1
+			}
 		},
 		{
 			"id": "34b647e7-15dc-4c80-85d9-20b01090fa96",
@@ -143,7 +205,12 @@
 			"tip": "Obtained by defeating Corrupted Hunllef in the Gauntlet once.",
 			"wikiLink": "https://oldschool.runescape.wiki/w/Gauntlet_cape",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Gauntlet_cape_detail.png/320px-Gauntlet_cape_detail.png",
-			"displayItemId": 23859
+			"displayItemId": 23859,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 23859 ],
+				"count": 1
+			}
 		},
 		{
 			"id": "0377b2d8-9f37-41fb-b1ff-39e3b035f8dd",
@@ -151,7 +218,12 @@
 			"tip": "Can be obtained by completing the Chambers of Xeric.",
 			"wikiLink": "https://oldschool.runescape.wiki/w/Dark_relic",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Dark_relic_detail.png/320px-Dark_relic_detail.png",
-			"displayItemId": 21027
+			"displayItemId": 21027,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 21027 ],
+				"count": 1
+			}
 		},
 		{
 			"id": "32c51d2d-9c12-4c22-a520-12f0e068cd31",
@@ -159,7 +231,12 @@
 			"tip": "Can be obtained by completing the Chambers of Xeric.",
 			"wikiLink": "https://oldschool.runescape.wiki/w/Torn_prayer_scroll",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Torn_prayer_scroll_detail.png/320px-Torn_prayer_scroll_detail.png",
-			"displayItemId": 21047
+			"displayItemId": 21047,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 21047 ],
+				"count": 1
+			}
 		},
 		{
 			"id": "66ee8f7a-9ecd-4550-80bf-6858be56b685",
@@ -167,7 +244,12 @@
 			"tip": "Can be obtained by completing the Chambers of Xeric in Challenge Mode 100 times.",
 			"wikiLink": "https://oldschool.runescape.wiki/w/Xeric's_guard",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Xeric's_guard_detail.png/320px-Xeric's_guard_detail.png",
-			"displayItemId": 22388
+			"displayItemId": 22388,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 22388 ],
+				"count": 1
+			}
 		},
 		{
 			"id": "bf1746ac-616d-4d36-a0d9-ff80efc8815a",
@@ -175,7 +257,12 @@
 			"tip": "Can be obtained by completing the Chambers of Xeric in Challenge Mode 500 times.",
 			"wikiLink": "https://oldschool.runescape.wiki/w/Xeric's_warrior",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Xeric's_warrior_detail.png/320px-Xeric's_warrior_detail.png",
-			"displayItemId": 22390
+			"displayItemId": 22390,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 22390 ],
+				"count": 1
+			}
 		},
 		{
 			"id": "28828d55-937a-48ce-9e6f-3eebd9787ca2",
@@ -183,7 +270,12 @@
 			"tip": "Can be obtained by completing the Chambers of Xeric in Challenge Mode 1000 times.",
 			"wikiLink": "https://oldschool.runescape.wiki/w/Xeric's_sentinel",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Xeric's_sentinel_detail.png/320px-Xeric's_sentinel_detail.png",
-			"displayItemId": 22392
+			"displayItemId": 22392,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 22392 ],
+				"count": 1
+			}
 		},
 		{
 			"id": "c62186de-8faf-48e2-b002-e194a3ba1f81",
@@ -191,7 +283,12 @@
 			"tip": "Can be obtained by completing the Chambers of Xeric in Challenge Mode 1500 times.",
 			"wikiLink": "https://oldschool.runescape.wiki/w/Xeric's_general",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Xeric's_general_detail.png/320px-Xeric's_general_detail.png",
-			"displayItemId": 22394
+			"displayItemId": 22394,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 22394 ],
+				"count": 1
+			}
 		},
 		{
 			"id": "48bd67af-af5b-4c35-9977-8520bd55d6df",
@@ -199,7 +296,12 @@
 			"tip": "Can be obtained by completing the Chambers of Xeric in Challenge Mode 2000 times.",
 			"wikiLink": "https://oldschool.runescape.wiki/w/Xeric's_champion",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Xeric's_champion_detail.png/320px-Xeric's_champion_detail.png",
-			"displayItemId": 22396
+			"displayItemId": 22396,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 22396 ],
+				"count": 1
+			}
 		},
 		{
 			"id": "1ae0a2ab-491a-4784-bb3a-a162f3c8c475",
@@ -207,7 +309,12 @@
 			"tip": "Can be obtained by completing the Theatre of Blood 100 times.",
 			"wikiLink": "https://oldschool.runescape.wiki/w/Sinhaza_shroud_tier_1",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Sinhaza_shroud_tier_1_detail.png/320px-Sinhaza_shroud_tier_1_detail.png",
-			"displayItemId": 22494
+			"displayItemId": 22494,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 22494 ],
+				"count": 1
+			}
 		},
 		{
 			"id": "af8f252b-0921-42d4-b9db-549e19ae12cd",
@@ -215,7 +322,12 @@
 			"tip": "Can be obtained by completing the Theatre of Blood 500 times.",
 			"wikiLink": "https://oldschool.runescape.wiki/w/Sinhaza_shroud_tier_2",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Sinhaza_shroud_tier_2_detail.png/320px-Sinhaza_shroud_tier_2_detail.png",
-			"displayItemId": 22496
+			"displayItemId": 22496,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 22496 ],
+				"count": 1
+			}
 		},
 		{
 			"id": "3f8ee52b-6d6b-4a05-aa21-054b1cd8d10a",
@@ -223,7 +335,12 @@
 			"tip": "Can be obtained by completing the Theatre of Blood 1000 times.",
 			"wikiLink": "https://oldschool.runescape.wiki/w/Sinhaza_shroud_tier_3",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Sinhaza_shroud_tier_3_detail.png/320px-Sinhaza_shroud_tier_3_detail.png",
-			"displayItemId": 22498
+			"displayItemId": 22498,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 22498 ],
+				"count": 1
+			}
 		},
 		{
 			"id": "6e5b0b9c-a234-4a0c-acce-4eb6c60d26ee",
@@ -231,7 +348,12 @@
 			"tip": "Can be obtained by completing the Theatre of Blood 1500 times.",
 			"wikiLink": "https://oldschool.runescape.wiki/w/Sinhaza_shroud_tier_4",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Sinhaza_shroud_tier_4_detail.png/320px-Sinhaza_shroud_tier_4_detail.png",
-			"displayItemId": 22500
+			"displayItemId": 22500,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 22500 ],
+				"count": 1
+			}
 		},
 		{
 			"id": "474b989a-ff3d-4677-9544-4d3211605c2b",
@@ -239,7 +361,12 @@
 			"tip": "Can be obtained by completing the Theatre of Blood 2000 times.",
 			"wikiLink": "https://oldschool.runescape.wiki/w/Sinhaza_shroud_tier_5",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Sinhaza_shroud_tier_5_detail.png/320px-Sinhaza_shroud_tier_5_detail.png",
-			"displayItemId": 22502
+			"displayItemId": 22502,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 22502 ],
+				"count": 1
+			}
 		},
 		{
 			"id": "e40775f7-de74-46b5-9bd2-1cae32bdbe17",
@@ -247,7 +374,12 @@
 			"tip": "Can be obtained by killing Tekton in the Chambers of Xeric.",
 			"wikiLink": "https://oldschool.runescape.wiki/w/Tekton",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Onyx_detail.png/320px-Onyx_detail.png",
-			"displayItemId": 6573
+			"displayItemId": 6573,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 6573 ],
+				"count": 1
+			}
 		},
 		{
 			"id": "fe497eab-34f5-445d-af25-fd552c6c6986",
@@ -255,7 +387,12 @@
 			"tip": "Can be obtained by completing the Tombs of Amascut 100 times.",
 			"wikiLink": "https://oldschool.runescape.wiki/w/Icthlarin's_shroud_(tier_1)",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Icthlarin's_shroud_(tier_1)_detail.png/320px-Icthlarin's_shroud_(tier_1)_detail.png",
-			"displayItemId": 27257
+			"displayItemId": 27257,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 27257 ],
+				"count": 1
+			}
 		},
 		{
 			"id": "81045ae6-8810-45b2-af43-aea520c3a863",
@@ -263,7 +400,12 @@
 			"tip": "Can be obtained by completing the Tombs of Amascut 500 times.",
 			"wikiLink": "https://oldschool.runescape.wiki/w/Icthlarin's_shroud_(tier_2)",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Icthlarin's_shroud_(tier_2)_detail.png/320px-Icthlarin's_shroud_(tier_2)_detail.png",
-			"displayItemId": 27259
+			"displayItemId": 27259,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 27259 ],
+				"count": 1
+			}
 		},
 		{
 			"id": "6dddaf9a-eedc-4dc9-a15f-d81681e08646",
@@ -271,7 +413,12 @@
 			"tip": "Can be obtained by completing the Tombs of Amascut 1000 times.",
 			"wikiLink": "https://oldschool.runescape.wiki/w/Icthlarin's_shroud_(tier_3)",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Icthlarin's_shroud_(tier_3)_detail.png/320px-Icthlarin's_shroud_(tier_3)_detail.png",
-			"displayItemId": 27261
+			"displayItemId": 27261,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 27261 ],
+				"count": 1
+			}
 		},
 		{
 			"id": "20b92e02-da94-41ce-b4b0-eddfa488e8a4",
@@ -279,7 +426,12 @@
 			"tip": "Can be obtained by completing the Tombs of Amascut 1500 times.",
 			"wikiLink": "https://oldschool.runescape.wiki/w/Icthlarin's_shroud_(tier_4)",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Icthlarin's_shroud_(tier_4)_detail.png/320px-Icthlarin's_shroud_(tier_4)_detail.png",
-			"displayItemId": 27263
+			"displayItemId": 27263,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 27263 ],
+				"count": 1
+			}
 		},
 		{
 			"id": "ad5347ac-d2d9-4112-9a15-854fa88440e1",
@@ -287,7 +439,12 @@
 			"tip": "Can be obtained by completing the Tombs of Amascut 2000 times.",
 			"wikiLink": "https://oldschool.runescape.wiki/w/Icthlarin's_shroud_(tier_5)",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Icthlarin's_shroud_(tier_5)_detail.png/320px-Icthlarin's_shroud_(tier_5)_detail.png",
-			"displayItemId": 27265
+			"displayItemId": 27265,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 27265 ],
+				"count": 1
+			}
 		},
 		{
 			"id": "14516f41-887a-4d5a-ab2e-8be6a5b7e9b8",
@@ -295,7 +452,12 @@
 			"tip": "Can be obtained by getting 1 wins in non-casual Last Man Standing matches.",
 			"wikiLink": "https://oldschool.runescape.wiki/w/Victor's_cape_(1)",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Victor's_cape_(1)_detail.png/320px-Victor's_cape_(1)_detail.png",
-			"displayItemId": 24207
+			"displayItemId": 24207,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 24207 ],
+				"count": 1
+			}
 		},
 		{
 			"id": "56aa7ad2-5050-4ab3-bc99-75c31341aec0",
@@ -303,7 +465,12 @@
 			"tip": "Can be obtained by getting 10 wins in non-casual Last Man Standing matches.",
 			"wikiLink": "https://oldschool.runescape.wiki/w/Victor's_cape_(10)",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Victor's_cape_(10)_detail.png/320px-Victor's_cape_(10)_detail.png",
-			"displayItemId": 24209
+			"displayItemId": 24209,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 24209 ],
+				"count": 1
+			}
 		},
 		{
 			"id": "3c6d4dca-48b0-43b9-b195-a57754970db0",
@@ -311,7 +478,12 @@
 			"tip": "Can be obtained by getting 50 wins in non-casual Last Man Standing matches.",
 			"wikiLink": "https://oldschool.runescape.wiki/w/Victor's_cape_(50)",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Victor's_cape_(50)_detail.png/320px-Victor's_cape_(50)_detail.png",
-			"displayItemId": 24211
+			"displayItemId": 24211,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 24211 ],
+				"count": 1
+			}
 		},
 		{
 			"id": "5c91e05a-699d-4acc-b672-ee94fda8cb8b",
@@ -319,7 +491,12 @@
 			"tip": "Can be obtained by getting 100 wins in non-casual Last Man Standing matches.",
 			"wikiLink": "https://oldschool.runescape.wiki/w/Victor's_cape_(100)",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Victor's_cape_(100)_detail.png/320px-Victor's_cape_(100)_detail.png",
-			"displayItemId": 24213
+			"displayItemId": 24213,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 24216 ],
+				"count": 1
+			}
 		},
 		{
 			"id": "ddb1e4e9-5b72-4d6b-b738-83cfd33ab2e0",
@@ -327,7 +504,12 @@
 			"tip": "Can be obtained by getting 500 wins in non-casual Last Man Standing matches.",
 			"wikiLink": "https://oldschool.runescape.wiki/w/Victor's_cape_(500)",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Victor's_cape_(500)_detail.png/320px-Victor's_cape_(500)_detail.png",
-			"displayItemId": 24215
+			"displayItemId": 24215,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 24215 ],
+				"count": 1
+			}
 		},
 		{
 			"id": "cc072fa0-a9d5-488d-9876-91a61f86fc2b",
@@ -335,7 +517,12 @@
 			"tip": "Can be obtained by getting 1000 wins in non-casual Last Man Standing matches.",
 			"wikiLink": "https://oldschool.runescape.wiki/w/Victor's_cape_(1000)",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Victor's_cape_(1000)_detail.png/320px-Victor's_cape_(1000)_detail.png",
-			"displayItemId": 24217
+			"displayItemId": 24217,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 24217 ],
+				"count": 1
+			}
 		},
 		{
 			"id": "df3f714e-eb7e-4b86-8b73-f25d6ebc3020",
@@ -567,15 +754,12 @@
 			"tip": "Obtained by defeating the Phantom Muspah in less than 3 minutes.",
 			"wikiLink": "https://oldschool.runescape.wiki/w/Charged_ice",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Charged_ice_detail.png/320px-Charged_ice_detail.png",
-			"displayItemId": 27643
-		},
-		{
-			"id": "dd3aa6a9-286d-42b9-9618-0af5db7d2113",
-			"name": "Get a Dark claw",
-			"tip": "Can be obtained by defeating Skotizo.",
-			"wikiLink": "https://oldschool.runescape.wiki/w/Dark_claw",
-			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Dark_claw_detail.png/320px-Dark_claw_detail.png",
-			"displayItemId": 21275
+			"displayItemId": 27643,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 27643 ],
+				"count": 1
+			}
 		},
 		{
 			"name": "Get coagulated venom",
@@ -583,18 +767,10 @@
 			"id": "8b33c81b-3b4e-4f0d-94c2-c57a63a43cdb",
 			"wikiLink": "https://oldschool.runescape.wiki/w/Coagulated_venom",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Coagulated_venom_detail.png/320px-Coagulated_venom_detail.png",
-			"displayItemId": 29781
-		},
-		{
-			"id": "1abf334c-772d-4482-bf65-cece36422127",
-			"name": "Get the Angler's paint",
-			"tip": "Can be rarely obtained while Deep Sea Trawling. Glistening shoals have a slightly higher rate.",
-			"wikiLink": "https://oldschool.runescape.wiki/w/Angler's_paint",
-			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Angler's_paint_detail.png/320px-Angler's_paint_detail.png",
-			"displayItemId": 32096,
+			"displayItemId": 29781,
 			"verification": {
 				"method": "collection-log",
-				"itemIds": [ 32096 ],
+				"itemIds": [ 29781 ],
 				"count": 1
 			}
 		},
@@ -751,6 +927,1064 @@
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [ 31800 ],
+				"count": 1
+			}
+		},
+		{
+			"id": "a266d0d3-91a5-4daf-b242-b8eb146cd376",
+			"name": "Get an Amulet of eternal glory",
+			"tip": "Best done by charging 29 amulets, using one charge on each, and repeat. Hope you did not consume Ghommal's Penny!",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Amulet_of_eternal_glory",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Amulet_of_eternal_glory_detail.png/320px-Amulet_of_eternal_glory_detail.png",
+			"displayItemId": 19707,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 19707 ],
+				"count": 1
+			}
+		},
+		{
+			"id": "9ef42380-4f4c-4b84-a48f-70402652bd1c",
+			"name": "Get 1 unique Dragonstone armour piece",
+			"tip": "Obtained by opening the Elven Crystal Chest in Prifddinas.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Dragonstone_armour",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Dragonstone_full_helm_detail.png/320px-Dragonstone_full_helm_detail.png",
+			"displayItemId": 24034,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 24034, 24037, 24040, 24043, 24046 ],
+				"count": 1
+			}
+		},
+		{
+			"id": "f354457a-fe41-49cd-8e19-22a50b7ae212",
+			"name": "Get 1 unique Dragonstone armour piece",
+			"tip": "Obtained by opening the Elven Crystal Chest in Prifddinas.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Dragonstone_armour",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Dragonstone_full_helm_detail.png/320px-Dragonstone_full_helm_detail.png",
+			"displayItemId": 24034,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 24034, 24037, 24040, 24043, 24046 ],
+				"count": 2
+			}
+		},
+		{
+			"id": "2d7f0c0e-dde4-411e-95ff-0d0b9634307f",
+			"name": "Get 1 unique Dragonstone armour piece",
+			"tip": "Obtained by opening the Elven Crystal Chest in Prifddinas.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Dragonstone_armour",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Dragonstone_full_helm_detail.png/320px-Dragonstone_full_helm_detail.png",
+			"displayItemId": 24034,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 24034, 24037, 24040, 24043, 24046 ],
+				"count": 3
+			}
+		},
+		{
+			"id": "2be0dc59-a73b-4855-a718-cae056a8389a",
+			"name": "Get 1 unique Dragonstone armour piece",
+			"tip": "Obtained by opening the Elven Crystal Chest in Prifddinas.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Dragonstone_armour",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Dragonstone_full_helm_detail.png/320px-Dragonstone_full_helm_detail.png",
+			"displayItemId": 24034,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 24034, 24037, 24040, 24043, 24046 ],
+				"count": 4
+			}
+		},
+		{
+			"id": "5d1ca699-5416-4bf2-9b65-5c5ebc7e9273",
+			"name": "Get 1 unique Dragonstone armour piece",
+			"tip": "Obtained by opening the Elven Crystal Chest in Prifddinas.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Dragonstone_armour",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Dragonstone_full_helm_detail.png/320px-Dragonstone_full_helm_detail.png",
+			"displayItemId": 24034,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 24034, 24037, 24040, 24043, 24046 ],
+				"count": 5
+			}
+		},
+		{
+			"id": "5f272adf-4ea5-4015-9fae-6f9138ce1422",
+			"name": "Finish all shared clue rewards",
+			"tip": "Randomly obtained from all tiers of clues (except beginners).",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Treasure_Trails",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Clue_scroll_detail.png/320px-Clue_scroll_detail.png",
+			"displayItemId": 3831,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [
+					21387, 10476, 20238, 10326, 10327,  7331,  7330,  7329, 12402, 12403, 12404,
+					12405, 12406, 12407, 12408, 12409, 12410, 12411, 12642, 20220, 20223, 20226,
+					20229, 20232, 20235, 12621, 12622, 12623, 12634, 12613, 12614, 12615, 12616,
+					12617, 12618, 12619, 12620,  3827,  3828,  3829,  3830,  3831,  3832,  3833,
+					 3834,  3835,  3836,  3837,  3838
+				],
+				"count": 49
+			}
+		},
+		{
+			"id": "1b331d9c-d511-42f0-9e5c-4afac159128b",
+			"name": "Get a Gilded full helm",
+			"tip": "Obtained very rarely from hard, elite and master clues.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Gilded_full_helm",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Gilded_full_helm_detail.png/320px-Gilded_full_helm_detail.png",
+			"displayItemId": 3486,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 3486 ],
+				"count": 1
+			}
+		},
+		{
+			"id": "3f187da8-266f-4db0-af6b-569045452875",
+			"name": "Get a Gilded platebody",
+			"tip": "Obtained very rarely from hard, elite and master clues.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Gilded_platebody",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Gilded_platebody_detail.png/320px-Gilded_platebody_detail.png",
+			"displayItemId": 3481,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 3481 ],
+				"count": 1
+			}
+		},
+		{
+			"id": "0fa947ec-7a3f-42cf-a518-3b498b912d2c",
+			"name": "Get a Gilded platelegs",
+			"tip": "Obtained very rarely from hard, elite and master clues.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Gilded_platelegs",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Gilded_platelegs_detail.png/320px-Gilded_platelegs_detail.png",
+			"displayItemId": 3483,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 3483 ],
+				"count": 1
+			}
+		},
+		{
+			"id": "7413017d-4f21-4997-abd5-f9a40bd5bbab",
+			"name": "Get a Gilded plateskirt",
+			"tip": "Obtained very rarely from hard, elite and master clues.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Gilded_plateskirt",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Gilded_plateskirt_detail.png/320px-Gilded_plateskirt_detail.png",
+			"displayItemId": 3485,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 3485 ],
+				"count": 1
+			}
+		},
+		{
+			"id": "be17cca4-4121-4ae8-804b-c7524a292702",
+			"name": "Get a Gilded kiteshield",
+			"tip": "Obtained very rarely from hard, elite and master clues.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Gilded_kiteshield",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Gilded_kiteshield_detail.png/320px-Gilded_kiteshield_detail.png",
+			"displayItemId": 3488,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 3488 ],
+				"count": 1
+			}
+		},
+		{
+			"id": "75b18b80-5864-4288-b1e5-ba12ae1e14af",
+			"name": "Get a Gilded med helm",
+			"tip": "Obtained very rarely from hard, elite and master clues.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Gilded_med_helm",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Gilded_med_helm_detail.png/320px-Gilded_med_helm_detail.png",
+			"displayItemId": 20146,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 20146 ],
+				"count": 1
+			}
+		},
+		{
+			"id": "61117f6f-3eab-4168-99f6-3affe16ae66e",
+			"name": "Get a Gilded chainbody",
+			"tip": "Obtained very rarely from hard, elite and master clues.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Gilded_chainbody",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Gilded_chainbody_detail.png/320px-Gilded_chainbody_detail.png",
+			"displayItemId": 20149,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 20149 ],
+				"count": 1
+			}
+		},
+		{
+			"id": "beae7f82-3da9-463c-b510-017ca4b27b85",
+			"name": "Get a Gilded sq shield",
+			"tip": "Obtained very rarely from hard, elite and master clues.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Gilded_sq_shield",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Gilded_sq_shield_detail.png/320px-Gilded_sq_shield_detail.png",
+			"displayItemId": 20152,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 20152 ],
+				"count": 1
+			}
+		},
+		{
+			"id": "ccd29879-4202-4431-ac8c-2c289e0a7fab",
+			"name": "Get a Gilded 2h sword",
+			"tip": "Obtained very rarely from hard, elite and master clues.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Gilded_2h_sword",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Gilded_2h_sword_detail.png/320px-Gilded_2h_sword_detail.png",
+			"displayItemId": 20155,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 20155 ],
+				"count": 1
+			}
+		},
+		{
+			"id": "6ee3d692-d727-4ef9-84f4-45829e3bb180",
+			"name": "Get a Gilded spear",
+			"tip": "Obtained very rarely from hard, elite and master clues.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Gilded_spear",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Gilded_spear_detail.png/320px-Gilded_spear_detail.png",
+			"displayItemId": 20158,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 20158 ],
+				"count": 1
+			}
+		},
+		{
+			"id": "ec4f967f-5cbf-4ad8-be9e-72c3469c5538",
+			"name": "Get a Gilded hasta",
+			"tip": "Obtained very rarely from hard, elite and master clues.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Gilded_hasta",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Gilded_hasta_detail.png/320px-Gilded_hasta_detail.png",
+			"displayItemId": 20161,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 20161 ],
+				"count": 1
+			}
+		},
+		{
+			"id": "5b1bcf92-b938-4933-b4bd-abc1f092bff1",
+			"name": "Get a 3rd Age full helmet",
+			"tip": "Obtained very rarely from hard, elite and master clues.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/3rd_Age_full_helmet",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/3rd_Age_full_helmet_detail.png/320px-3rd_Age_full_helmet_detail.png",
+			"displayItemId": 10350,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 10350 ],
+				"count": 1
+			}
+		},
+		{
+			"id": "19c2a9ee-e703-4b3d-9654-77c1cc88e576",
+			"name": "Get a 3rd Age platebody",
+			"tip": "Obtained very rarely from hard, elite and master clues.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/3rd_Age_platebody",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/3rd_Age_platebody_detail.png/320px-3rd_Age_platebody_detail.png",
+			"displayItemId": 10348,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 10348 ],
+				"count": 1
+			}
+		},
+		{
+			"id": "3d821647-a2e1-4080-81d1-84a9b33fb956",
+			"name": "Get a 3rd Age full helmet",
+			"tip": "Obtained very rarely from hard, elite and master clues.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/3rd_Age_platelegs",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/3rd_Age_platelegs_detail.png/320px-3rd_Age_platelegs_detail.png",
+			"displayItemId": 10346,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 10346 ],
+				"count": 1
+			}
+		},
+		{
+			"id": "086c39c8-a488-4ea0-bc6d-510dad67ff73",
+			"name": "Get a 3rd Age plateskirt",
+			"tip": "Obtained very rarely from hard, elite and master clues.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/3rd_Age_plateskirt",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/3rd_Age_plateskirt_detail.png/320px-3rd_Age_plateskirt_detail.png",
+			"displayItemId": 23242,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 23242 ],
+				"count": 1
+			}
+		},
+		{
+			"id": "a1cf4cad-eb5e-4d4c-8068-420c53b71327",
+			"name": "Get a 3rd Age kiteshield",
+			"tip": "Obtained very rarely from hard, elite and master clues.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/3rd_Age_kiteshield",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/3rd_Age_kiteshield_detail.png/320px-3rd_Age_kiteshield_detail.png",
+			"displayItemId": 10352,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 10352 ],
+				"count": 1
+			}
+		},
+		{
+			"id": "c0c06f1d-3e8d-4a88-90d9-57bbede3f2d4",
+			"name": "Get a 3rd Age range coif",
+			"tip": "Obtained very rarely from hard, elite and master clues.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/3rd_Age_range_coif",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/3rd_Age_range_coif_detail.png/320px-3rd_Age_range_coif_detail.png",
+			"displayItemId": 10334,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 10334 ],
+				"count": 1
+			}
+		},
+		{
+			"id": "41252f65-040b-411c-b0aa-d67402a6fd0e",
+			"name": "Get a 3rd Age range top",
+			"tip": "Obtained very rarely from hard, elite and master clues.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/3rd_Age_range_top",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/3rd_Age_range_top_detail.png/320px-3rd_Age_range_top_detail.png",
+			"displayItemId": 10330,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 10330 ],
+				"count": 1
+			}
+		},
+		{
+			"id": "17b8963b-dadc-4c81-a4e6-2f392c9fc2b5",
+			"name": "Get a 3rd Age range legs",
+			"tip": "Obtained very rarely from hard, elite and master clues.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/3rd_Age_range_legs",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/3rd_Age_range_legs_detail.png/320px-3rd_Age_range_legs_detail.png",
+			"displayItemId": 10332,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 10332 ],
+				"count": 1
+			}
+		},
+		{
+			"id": "867a9472-665a-4e1f-88bc-9b7bc3548ae2",
+			"name": "Get a 3rd Age vambraces",
+			"tip": "Obtained very rarely from hard, elite and master clues.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/3rd_Age_vambraces",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/3rd_Age_vambraces_detail.png/320px-3rd_Age_vambraces_detail.png",
+			"displayItemId": 10336,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 10336 ],
+				"count": 1
+			}
+		},
+		{
+			"id": "1b4a8b3f-58e1-4315-85a8-7efa204b787d",
+			"name": "Get a 3rd Age mage hat",
+			"tip": "Obtained very rarely from hard, elite and master clues.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/3rd_Age_mage_hat",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/3rd_Age_mage_hat_detail.png/320px-3rd_Age_mage_hat_detail.png",
+			"displayItemId": 10342,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 10342 ],
+				"count": 1
+			}
+		},
+		{
+			"id": "87c2fd61-efb8-473f-bee1-4f979830f60f",
+			"name": "Get a 3rd Age robe top",
+			"tip": "Obtained very rarely from hard, elite and master clues.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/3rd_Age_robe_top",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/3rd_Age_robe_top_detail.png/320px-3rd_Age_robe_top_detail.png",
+			"displayItemId": 10338,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 10338 ],
+				"count": 1
+			}
+		},
+		{
+			"id": "e981a8ac-c6c6-4353-9993-585d52c75937",
+			"name": "Get a 3rd Age robe",
+			"tip": "Obtained very rarely from hard, elite and master clues.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/3rd_Age_robe",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/3rd_Age_robe_detail.png/320px-3rd_Age_robe_detail.png",
+			"displayItemId": 10340,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 10340 ],
+				"count": 1
+			}
+		},
+		{
+			"id": "63279670-a775-4962-af26-97dde3b82e8a",
+			"name": "Get a 3rd Age amulet",
+			"tip": "Obtained very rarely from hard, elite and master clues.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/3rd_Age_amulet",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/3rd_Age_amulet_detail.png/320px-3rd_Age_amulet_detail.png",
+			"displayItemId": 10344,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 10344 ],
+				"count": 1
+			}
+		},
+		{
+			"id": "f30a6e94-3765-4c81-aa31-e2fd5c96dffb",
+			"name": "Get a Ring of nature",
+			"tip": "Obtained very rarely from elite clues.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Ring_of_nature",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Ring_of_nature_detail.png/320px-Ring_of_nature_detail.png",
+			"displayItemId": 20005,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 20005 ],
+				"count": 1
+			}
+		},
+		{
+			"id": "98c4cc27-be77-4a80-811b-c09dddb0a01a",
+			"name": "Get a Ring of nature",
+			"tip": "Obtained very rarely from elite clues.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Ring_of_nature",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Ring_of_nature_detail.png/320px-Ring_of_nature_detail.png",
+			"displayItemId": 20005,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 20005 ],
+				"count": 1
+			}
+		},
+		{
+			"id": "307b070f-7878-48bc-a3b0-bb1636511d9d",
+			"name": "Get a Lava dragon mask",
+			"tip": "Obtained very rarely from elite clues.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Lava_dragon_mask",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Lava_dragon_mask_detail.png/320px-Lava_dragon_mask_detail.png",
+			"displayItemId": 12371,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 12371 ],
+				"count": 1
+			}
+		},
+		{
+			"id": "ff35590c-08f1-4f7e-9623-7c6ae6f62580",
+			"name": "Get a Gilded scimitar",
+			"tip": "Obtained very rarely from elite and master clues.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Gilded_scimitar",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Gilded_scimitar_detail.png/320px-Gilded_scimitar_detail.png",
+			"displayItemId": 12389,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 12389 ],
+				"count": 1
+			}
+		},
+		{
+			"id": "8b921903-a3c1-48c9-91d9-b489fd4fd48b",
+			"name": "Get a Gilded boots",
+			"tip": "Obtained very rarely from elite and master clues.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Gilded_boots",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Gilded_boots_detail.png/320px-Gilded_boots_detail.png",
+			"displayItemId": 12391,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 12391 ],
+				"count": 1
+			}
+		},
+		{
+			"id": "99f4f0a5-4bd1-4e04-baaf-f0b69a4353eb",
+			"name": "Get a Gilded coif",
+			"tip": "Obtained very rarely from elite and master clues.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Gilded_coif",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Gilded_coif_detail.png/320px-Gilded_coif_detail.png",
+			"displayItemId": 23258,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 23258 ],
+				"count": 1
+			}
+		},
+		{
+			"id": "e11a8e14-a233-41ec-9678-34b07d2e83ae",
+			"name": "Get a Gilded d'hide vambraces",
+			"tip": "Obtained very rarely from elite and master clues.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Gilded_d%27hide_vambraces",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Gilded_d%27hide_vambraces_detail.png/320px-Gilded_d%27hide_vambraces_detail.png",
+			"displayItemId": 23261,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 23261 ],
+				"count": 1
+			}
+		},
+		{
+			"id": "9be451f1-289a-4a90-86ce-60dc21c14139",
+			"name": "Get a Gilded d'hide body",
+			"tip": "Obtained very rarely from elite and master clues.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Gilded_d%27hide_body",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Gilded_d%27hide_body_detail.png/320px-Gilded_d%27hide_body_detail.png",
+			"displayItemId": 23264,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 23264 ],
+				"count": 1
+			}
+		},
+		{
+			"id": "00cd3f7e-4281-499d-b1e9-16e67a2663cd",
+			"name": "Get a Gilded d'hide chaps",
+			"tip": "Obtained very rarely from elite and master clues.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Gilded_d%27hide_chaps",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Gilded_d%27hide_chaps_detail.png/80px-Gilded_d%27hide_chaps_detail.png",
+			"displayItemId": 23267,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 23267 ],
+				"count": 1
+			}
+		},
+		{
+			"id": "9e0d64fd-69ac-4736-9b85-107edcd71c45",
+			"name": "Get a Gilded pickaxe",
+			"tip": "Obtained very rarely from elite and master clues.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Gilded_pickaxe",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Gilded_pickaxe_detail.png/320px-Gilded_pickaxe_detail.png",
+			"displayItemId": 23276,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 23276 ],
+				"count": 1
+			}
+		},
+		{
+			"id": "f7a7850d-77c9-4204-82e2-e6de8530fd46",
+			"name": "Get a Gilded axe",
+			"tip": "Obtained very rarely from elite and master clues.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Gilded_axe",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Gilded_axe_detail.png/320px-Gilded_axe_detail.png",
+			"displayItemId": 23279,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 23279 ],
+				"count": 1
+			}
+		},
+		{
+			"id": "d4ee42c8-c05e-4f16-9c7b-081720db9f6e",
+			"name": "Get a Gilded spade",
+			"tip": "Obtained very rarely from elite and master clues.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Gilded_spade",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Gilded_spade_detail.png/320px-Gilded_spade_detail.png",
+			"displayItemId": 23282,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 23282 ],
+				"count": 1
+			}
+		},
+		{
+			"id": "16353f84-9f66-4883-9d40-4836205e43ee",
+			"name": "Get a 3rd Age longsword",
+			"tip": "Obtained very rarely from elite and master clues.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/3rd_Age_longsword",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/3rd_Age_longsword_detail.png/320px-3rd_Age_longsword_detail.png",
+			"displayItemId": 12426,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 12426 ],
+				"count": 1
+			}
+		},
+		{
+			"id": "83eb737d-1019-43c9-8723-008f284f85fd",
+			"name": "Get a 3rd Age wand",
+			"tip": "Obtained very rarely from elite and master clues.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/3rd_Age_wand",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/3rd_Age_wand_detail.png/320px-3rd_Age_wand_detail.png",
+			"displayItemId": 12422,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 12422 ],
+				"count": 1
+			}
+		},
+		{
+			"id": "802324ed-5aa5-4b03-b9fd-aa35e183e794",
+			"name": "Get a 3rd Age cloak",
+			"tip": "Obtained very rarely from elite and master clues.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/3rd_Age_cloak",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/3rd_Age_cloak_detail.png/320px-3rd_Age_cloak_detail.png",
+			"displayItemId": 12437,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 12437 ],
+				"count": 1
+			}
+		},
+		{
+			"id": "316d2cc3-fcc2-413d-a8a4-69e575cd459f",
+			"name": "Get a 3rd Age bow",
+			"tip": "Obtained very rarely from elite and master clues.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/3rd_Age_bow",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/3rd_Age_bow_detail.png/320px-3rd_Age_bow_detail.png",
+			"displayItemId": 12424,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 12424 ],
+				"count": 1
+			}
+		},
+		{
+			"id": "1f5a1a70-1d49-48a1-9217-a9b997ff8229",
+			"name": "Get a Bucket helm (g)",
+			"tip": "Obtained very rarely from master clues.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Bucket_helm_(g)",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Bucket_helm_%28g%29_detail.png/320px-Bucket_helm_%28g%29_detail.png",
+			"displayItemId": 20059,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 20059 ],
+				"count": 1
+			}
+		},
+		{
+			"id": "ffa0116d-6f28-4093-8023-39d2c116c227",
+			"name": "Get a Ring of coins",
+			"tip": "Obtained very rarely from master clues.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Ring_of_coins",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Ring_of_coins_detail.png/320px-Ring_of_coins_detail.png",
+			"displayItemId": 20017,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 20017 ],
+				"count": 1
+			}
+		},
+		{
+			"id": "e66b4157-71cf-4c6a-ac66-908373782912",
+			"name": "Get a 3rd Age druidic robe tob",
+			"tip": "Obtained very rarely from master clues.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/3rd_Age_druidic_robe_top",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/3rd_Age_druidic_robe_top_detail.png/320px-3rd_Age_druidic_robe_top_detail.png",
+			"displayItemId": 23336,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 23336 ],
+				"count": 1
+			}
+		},
+		{
+			"id": "9c9309d9-7d10-43b8-8dd2-3d98ebcfdbb9",
+			"name": "Get a 3rd Age druidic robe bottoms",
+			"tip": "Obtained very rarely from master clues.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/3rd_Age_druidic_robe_bottoms",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/3rd_Age_druidic_robe_bottoms_detail.png/320px-3rd_Age_druidic_robe_bottoms_detail.png",
+			"displayItemId": 23339,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 23339 ],
+				"count": 1
+			}
+		},
+		{
+			"id": "c36c5b5a-fa30-4a5b-b14d-82fbba8dd1f4",
+			"name": "Get a 3rd Age druidic cloak",
+			"tip": "Obtained very rarely from master clues.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/3rd_Age_druidic_cloak",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/3rd_Age_druidic_cloak_detail.png/320px-3rd_Age_druidic_cloak_detail.png",
+			"displayItemId": 23345,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 23345 ],
+				"count": 1
+			}
+		},
+		{
+			"id": "548e2a71-edcf-4373-83ef-ba738bed82e4",
+			"name": "Get a 3rd Age pickaxe",
+			"tip": "Obtained very rarely from master clues.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/3rd_Age_pickaxe",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/3rd_Age_pickaxe_detail.png/320px-3rd_Age_pickaxe_detail.png",
+			"displayItemId": 20014,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 20014 ],
+				"count": 1
+			}
+		},
+		{
+			"id": "bada6c37-1537-46ff-9ef0-5bab452ddc1a",
+			"name": "Get a 3rd Age axe",
+			"tip": "Obtained very rarely from master clues.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/3rd_Age_axe",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/3rd_Age_axe_detail.png/320px-3rd_Age_axe_detail.png",
+			"displayItemId": 20011,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 20011 ],
+				"count": 1
+			}
+		},
+		{
+			"id": "81c436b9-7378-492f-b9e5-35e3fe7682da",
+			"name": "Get 1 unique piece of the Evil chicken outfit",
+			"tip": "Obtained by offering bird's eggs to the Shrine in the Woodcutting guild.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Evil_chicken_outfit",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Evil_chicken_head_detail.png/320px-Evil_chicken_head_detail.png",
+			"displayItemId": 20439,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 20433, 20436, 20439, 20442 ],
+				"count": 1
+			}
+		},
+		{
+			"id": "fa646c31-eb7e-4621-ae57-5ac13a1d8a5e",
+			"name": "Get 1 unique piece of the Evil chicken outfit",
+			"tip": "Obtained by offering bird's eggs to the Shrine in the Woodcutting guild.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Evil_chicken_outfit",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Evil_chicken_head_detail.png/320px-Evil_chicken_head_detail.png",
+			"displayItemId": 20439,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 20433, 20436, 20439, 20442 ],
+				"count": 2
+			}
+		},
+		{
+			"id": "e6280cdd-5066-4137-a008-49585a24b7a1",
+			"name": "Get 1 unique piece of the Evil chicken outfit",
+			"tip": "Obtained by offering bird's eggs to the Shrine in the Woodcutting guild.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Evil_chicken_outfit",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Evil_chicken_head_detail.png/320px-Evil_chicken_head_detail.png",
+			"displayItemId": 20439,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 20433, 20436, 20439, 20442 ],
+				"count": 3
+			}
+		},
+		{
+			"id": "931dca2a-bfc8-45e1-a2f4-8ae7aa5249d4",
+			"name": "Get 1 unique piece of the Evil chicken outfit",
+			"tip": "Obtained by offering bird's eggs to the Shrine in the Woodcutting guild.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Evil_chicken_outfit",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Evil_chicken_head_detail.png/320px-Evil_chicken_head_detail.png",
+			"displayItemId": 20439,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 20433, 20436, 20439, 20442 ],
+				"count": 4
+			}
+		},
+		{
+			"id": "76289358-6c5d-45b0-ba98-1fb6d23569f1",
+			"name": "Get the Deadman's chest",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Deadman's_chest",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Deadman's_chest_(cosmetic)_detail.png/320px-Deadman's_chest_(cosmetic)_detail.png",
+			"displayItemId": 24189,
+			"tags": [ "lms" ],
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 24189 ],
+				"count": 1
+			}
+		},
+		{
+			"id": "9900a9d3-71ae-4cf2-bf1d-351cadbe86b8",
+			"name": "Get the Deadman's legs",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Deadman's_legs",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Deadman's_legs_(cosmetic)_detail.png/320px-Deadman's_legs_(cosmetic)_detail.png",
+			"displayItemId": 24190,
+			"tags": [ "lms" ],
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 24190 ],
+				"count": 1
+			}
+		},
+		{
+			"id": "d4c4d63f-2b4c-4ac4-af41-9e3af65df4b3",
+			"name": "Get the Deadman's cape",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Deadman's_cape",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Deadman's_cape_(cosmetic)_detail.png/320px-Deadman's_cape_(cosmetic)_detail.png",
+			"displayItemId": 24191,
+			"tags": [ "lms" ],
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 24191 ],
+				"count": 1
+			}
+		},
+		{
+			"id": "3577ead4-f6d3-4fb5-bdc0-7f5db13f206b",
+			"name": "Get a Swift blade",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Swift_blade",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Swift_blade_detail.png/320px-Swift_blade_detail.png",
+			"displayItemId": 24219,
+			"tags": [ "lms" ],
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 24219 ],
+				"count": 1
+			}
+		},
+		{
+			"id": "95fe3b4e-0df2-4939-92eb-025c4e8a4810",
+			"name": "Get an Armadyl halo",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Armadyl_halo",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Armadyl_halo_detail.png/320px-Armadyl_halo_detail.png",
+			"displayItemId": 24192,
+			"tags": [ "lms" ],
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 24192 ],
+				"count": 1
+			}
+		},
+		{
+			"id": "08936f7d-469f-4b74-9c00-ee017239591a",
+			"name": "Get a Bandos halo",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Bandos_halo",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Bandos_halo_detail.png/320px-Bandos_halo_detail.png",
+			"displayItemId": 24195,
+			"tags": [ "lms" ],
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 24195 ],
+				"count": 1
+			}
+		},
+		{
+			"id": "9c4b4e6a-0454-4b0c-8cda-e38642f0e3b8",
+			"name": "Get a Seren halo",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Seren_halo",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Seren_halo_detail.png/320px-Seren_halo_detail.png",
+			"displayItemId": 24198,
+			"tags": [ "lms" ],
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 24198 ],
+				"count": 1
+			}
+		},
+		{
+			"id": "77655103-5a8c-4d8c-9463-a70063074844",
+			"name": "Get an Ancient halo",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Ancient_halo",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Ancient_halo_detail.png/320px-Ancient_halo_detail.png",
+			"displayItemId": 24201,
+			"tags": [ "lms" ],
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 24201 ],
+				"count": 1
+			}
+		},
+		{
+			"id": "0ba4da1f-c3dd-493d-b285-c7267aa40c5e",
+			"name": "Get a Brassica halo",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Brassica_halo",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Brassica_halo_detail.png/320px-Brassica_halo_detail.png",
+			"displayItemId": 24204,
+			"tags": [ "lms" ],
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 24204 ],
+				"count": 1
+			}
+		},
+		{
+			"id": "08767e3b-3dfb-4798-a40c-98c2a8d5cd60",
+			"name": "Get a Guthixian icon",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Guthixian_icon",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Guthixian_icon_detail.png/320px-Guthixian_icon_detail.png",
+			"displayItemId": 24217,
+			"tags": [ "lms" ],
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 24217 ],
+				"count": 1
+			}
+		},
+		{
+			"id": "cb378535-a3c2-4e31-b859-5bd718c3ddfa",
+			"name": "Get the Metamorphic dust",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Metamorphic_dust",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Metamorphic_dust_detail.png/320px-Metamorphic_dust_detail.png",
+			"displayItemId": 22386,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 22386 ],
+				"count": 1
+			}
+		},
+		{
+			"id": "4c34806a-2220-43f7-aef7-0786ba85ea2b",
+			"name": "Get the Sanguine dust",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Sanguine_dust",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Sanguine_dust_detail.png/320px-Sanguine_dust_detail.png",
+			"displayItemId": 25746,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 25746 ],
+				"count": 1
+			}
+		},
+		{
+			"id": "9ea69606-88d5-4fc1-9514-04f753ba0baa",
+			"name": "Get the Parasitic egg",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Parasitic_egg",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Parasitic_egg_detail.png/320px-Parasitic_egg_detail.png",
+			"displayItemId": 25838,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 25838 ],
+				"count": 1
+			}
+		},
+		{
+			"id": "ab440920-6960-47f6-af1c-6fa08e15fa65",
+			"name": "Get a Twisted ancestral color kit",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Twisted_ancestral_colour_kit",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Twisted_ancestral_colour_kit_detail.png/320px-Twisted_ancestral_colour_kit_detail.png",
+			"displayItemId": 24670,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 24670 ],
+				"count": 1
+			}
+		},
+		{
+			"id": "a166affc-80a1-4442-83f9-f4bb6b2698e2",
+			"name": "Get a Holy ornament kit",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Holy_ornament_kit",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Holy_ornament_kit_detail.png/320px-Holy_ornament_kit_detail.png",
+			"displayItemId": 25742,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 25742 ],
+				"count": 1
+			}
+		},
+		{
+			"id": "8ae80043-8c66-41ab-a99d-70cecedd22ba",
+			"name": "Get a Sanguine ornament kit",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Sanguine_ornament_kit",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Sanguine_ornament_kit_detail.png/320px-Sanguine_ornament_kit_detail.png",
+			"displayItemId": 25744,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 25744 ],
+				"count": 1
+			}
+		},
+		{
+			"id": "6a5d42df-e3f1-41d7-9e3b-ab15b7bb5d86",
+			"name": "Get a Menaphite ornament kit",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Menaphite_ornament_kit",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Menaphite_ornament_kit_detail.png/320px-Menaphite_ornament_kit_detail.png",
+			"displayItemId": 27255,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 27255 ],
+				"count": 1
+			}
+		},
+		{
+			"id": "3e6549c8-8eac-458d-a48d-413787ea9cd1",
+			"name": "Get a Cursed phalanx",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Cursed_phalanx",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Cursed_phalanx_detail.png/320px-Cursed_phalanx_detail.png",
+			"displayItemId": 27248,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 27248 ],
+				"count": 1
+			}
+		},
+		{
+			"id": "2c05b22d-2360-4329-9a41-4e35c5d4dc73",
+			"name": "Get a Masori crafting kit",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Masori_crafting_kit",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Masori_crafting_kit_detail.png/320px-Masori_crafting_kit_detail.png",
+			"displayItemId": 27372,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 27372 ],
+				"count": 1
+			}
+		},
+		{
+			"id": "f3c24c46-f8f5-48ff-8ba6-3c4caef03512",
+			"name": "Get a Remnant of Akkha",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Remnant_of_Akkha",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Remnant_of_Akkha_detail.png/320px-Remnant_of_Akkha_detail.png",
+			"displayItemId": 27377,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 27377 ],
+				"count": 1
+			}
+		},
+		{
+			"id": "107f7fe7-4f09-4aec-b4ab-da3f2309bb68",
+			"name": "Get a Remnant of Ba-Ba",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Remnant_of_Ba-Ba",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Remnant_of_Ba-Ba_detail.png/320px-Remnant_of_Ba-Ba_detail.png",
+			"displayItemId": 27378,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 27378 ],
+				"count": 1
+			}
+		},
+		{
+			"id": "0fd84bb1-f54f-4d8a-bd55-14841aa15bbb",
+			"name": "Get a Remnant of Kephri",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Remnant_of_Kephri",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Remnant_of_Kephri_detail.png/320px-Remnant_of_Kephri_detail.png",
+			"displayItemId": 27379,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 27379 ],
+				"count": 1
+			}
+		},
+		{
+			"id": "d382e513-4655-468d-9316-e37f8f27b424",
+			"name": "Get a Remnant of Zebak",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Remnant_of_Zebak",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Remnant_of_Zebak_detail.png/320px-Remnant_of_Zebak_detail.png",
+			"displayItemId": 27380,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 27380 ],
+				"count": 1
+			}
+		},
+		{
+			"id": "a33b64c6-adaa-4eac-b2de-6a30c6d0db7b",
+			"name": "Get an Ancient remnant",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Ancient_remnant",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Ancient_remnant_detail.png/320px-Ancient_remnant_detail.png",
+			"displayItemId": 27381,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 27381 ],
 				"count": 1
 			}
 		}

@@ -4,10 +4,12 @@
 		{
 			"id": "6b09384d-c06b-44ac-8a07-b7038cd30710",
 			"name": "Get a Infernal Cape",
+			"shortName": "Infernal Cape",
 			"tip": "Acquired by completing The Inferno",
 			"wikiLink": "https://oldschool.runescape.wiki/w/Infernal_cape",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Infernal_cape_detail_animated.gif/320px-Infernal_cape_detail_animated.gif",
 			"displayItemId": 21295,
+			"tags": [ "boss-unique" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [ 21295 ],
@@ -17,10 +19,12 @@
 		{
 			"id": "b3352a94-c018-4bbe-9bfa-285fedc54bf7",
 			"name": "Get 3 uniques from easy clues",
+			"shortName": "Easy Clues",
 			"tip": "Potential reward from easy clues. Pick pocketing H.A.M members are a great way of getting the clues.",
 			"wikiLink": "https://oldschool.runescape.wiki/w/Clue_scroll_(easy)",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Reward_casket_(easy)_detail.png/320px-Reward_casket_(easy)_detail.png",
 			"displayItemId": 20546,
+			"tags": [ "clues" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [
@@ -43,10 +47,12 @@
 		{
 			"id": "dceacba3-4db8-4cfc-98dd-ef4279b376ad",
 			"name": "Get 3 uniques from easy clues",
+			"shortName": "Easy Clues",
 			"tip": "Potential reward from easy clues. Pick pocketing H.A.M members are a great way of getting the clues.",
 			"wikiLink": "https://oldschool.runescape.wiki/w/Clue_scroll_(easy)",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Reward_casket_(easy)_detail.png/320px-Reward_casket_(easy)_detail.png",
 			"displayItemId": 20546,
+			"tags": [ "clues" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [
@@ -69,10 +75,12 @@
 		{
 			"id": "9ba96279-6563-45ee-976f-6dc50752d13c",
 			"name": "Get 3 uniques from easy clues",
+			"shortName": "Easy Clues",
 			"tip": "Potential reward from easy clues. Pick pocketing H.A.M members are a great way of getting the clues.",
 			"wikiLink": "https://oldschool.runescape.wiki/w/Clue_scroll_(easy)",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Reward_casket_(easy)_detail.png/320px-Reward_casket_(easy)_detail.png",
 			"displayItemId": 20546,
+			"tags": [ "clues" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [
@@ -95,10 +103,12 @@
 		{
 			"id": "123672d9-4c59-452d-abed-6a1a3d22e464",
 			"name": "Get 3 uniques from easy clues",
+			"shortName": "Easy Clues",
 			"tip": "Potential reward from easy clues. Pick pocketing H.A.M members are a great way of getting the clues.",
 			"wikiLink": "https://oldschool.runescape.wiki/w/Clue_scroll_(easy)",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Reward_casket_(easy)_detail.png/320px-Reward_casket_(easy)_detail.png",
 			"displayItemId": 20546,
+			"tags": [ "clues" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [
@@ -121,10 +131,12 @@
 		{
 			"id": "4220da74-1cc7-4c2f-b778-48e55ccb6e84",
 			"name": "Get 3 uniques from easy clues",
+			"shortName": "Easy Clues",
 			"tip": "Potential reward from easy clues. Pick pocketing H.A.M members are a great way of getting the clues.",
 			"wikiLink": "https://oldschool.runescape.wiki/w/Clue_scroll_(easy)",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Reward_casket_(easy)_detail.png/320px-Reward_casket_(easy)_detail.png",
 			"displayItemId": 20546,
+			"tags": [ "clues" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [
@@ -147,10 +159,12 @@
 		{
 			"id": "4a69eb7b-e59b-40c9-aa2b-cd8000e84b4d",
 			"name": "Get 3 uniques from medium clues",
+			"shortName": "Medium Clues",
 			"tip": "Killing guards is a decent way of getting the clues. Once you have 50 hunter, Eclectic implings are also a fantastic source.",
 			"wikiLink": "https://oldschool.runescape.wiki/w/Clue_scroll_(medium)",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Reward_casket_(medium)_detail.png/320px-Reward_casket_(medium)_detail.png",
 			"displayItemId": 20545,
+			"tags": [ "clues" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [
@@ -172,10 +186,12 @@
 		{
 			"id": "efd8b7b7-12e4-4513-83c6-9916d7618ea2",
 			"name": "Get 3 uniques from medium clues",
+			"shortName": "Medium Clues",
 			"tip": "Killing guards is a decent way of getting the clues. Once you have 50 hunter, Eclectic implings are also a fantastic source.",
 			"wikiLink": "https://oldschool.runescape.wiki/w/Clue_scroll_(medium)",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Reward_casket_(medium)_detail.png/320px-Reward_casket_(medium)_detail.png",
 			"displayItemId": 20545,
+			"tags": [ "clues" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [
@@ -197,10 +213,12 @@
 		{
 			"id": "3f134d81-0249-4c7b-8b88-c5d2f41d744d",
 			"name": "Get 3 uniques from medium clues",
+			"shortName": "Medium Clues",
 			"tip": "Killing guards is a decent way of getting the clues. Once you have 50 hunter, Eclectic implings are also a fantastic source.",
 			"wikiLink": "https://oldschool.runescape.wiki/w/Clue_scroll_(medium)",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Reward_casket_(medium)_detail.png/320px-Reward_casket_(medium)_detail.png",
 			"displayItemId": 20545,
+			"tags": [ "clues" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [
@@ -222,10 +240,12 @@
 		{
 			"id": "f82713b3-cf6b-495d-9df2-8f8268a3cb0d",
 			"name": "Get 3 uniques from medium clues",
+			"shortName": "Medium Clues",
 			"tip": "Killing guards is a decent way of getting the clues. Once you have 50 hunter, Eclectic implings are also a fantastic source.",
 			"wikiLink": "https://oldschool.runescape.wiki/w/Clue_scroll_(medium)",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Reward_casket_(medium)_detail.png/320px-Reward_casket_(medium)_detail.png",
 			"displayItemId": 20545,
+			"tags": [ "clues" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [
@@ -247,10 +267,12 @@
 		{
 			"id": "334bc53a-880e-4e1d-926b-0ec8d30b850c",
 			"name": "Get 3 uniques from medium clues",
+			"shortName": "Medium Clues",
 			"tip": "Killing guards is a decent way of getting the clues. Once you have 50 hunter, Eclectic implings are also a fantastic source.",
 			"wikiLink": "https://oldschool.runescape.wiki/w/Clue_scroll_(medium)",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Reward_casket_(medium)_detail.png/320px-Reward_casket_(medium)_detail.png",
 			"displayItemId": 20545,
+			"tags": [ "clues" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [
@@ -270,37 +292,14 @@
 			}
 		},
 		{
-			"id": "5da6a087-d8b6-4d6d-be1b-f909fb1fdd26",
-			"name": "Get 3 uniques from medium clues",
-			"tip": "Killing guards is a decent way of getting the clues. Once you have 50 hunter, Eclectic implings are also a fantastic source.",
-			"wikiLink": "https://oldschool.runescape.wiki/w/Clue_scroll_(medium)",
-			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Reward_casket_(medium)_detail.png/320px-Reward_casket_(medium)_detail.png",
-			"displayItemId": 20545,
-			"verification": {
-				"method": "collection-log",
-				"itemIds": [
-					20275, 10282,  2577, 10364,  2579, 12598, 23389, 23413,  2605,  2599,  2601,
-					 3474,  2603,  2613,  2607,  2609,  3475,  2611,  7334,  7340,  7346,  7352,
-					 7358, 10296, 10298, 10300, 10302, 10304, 23392, 23395, 23398, 23401, 23404,
-					12283, 12277, 12279, 12285, 12281, 12293, 12287, 12289, 12295, 12291,  7370,
-					 7372,  7378,  7380, 10452, 10446, 10454, 10448, 10456, 10450, 12203, 12197,
-					12201, 12199, 12259, 12261, 12257, 12263, 12271, 12273, 12269, 12275,  7319,
-					 7323,  7321,  7327,  7325, 12309, 12311, 12313,  2645,  2647,  2649, 12299,
-					12301, 12303, 12305, 12307, 12319, 20240, 20243, 12377, 20251, 20260, 20254,
-					20263, 20257, 20272, 12361, 12428, 12359, 20246, 23407, 23410, 20266, 20269,
-					10416, 10436, 10418, 10438, 10400, 10420, 10402, 10422, 12315, 12339, 12317,
-					12341, 12347, 12343, 12349, 12345
-				],
-				"count": 108
-			}
-		},
-		{
 			"id": "dd2dc035-777c-4da7-af48-62e8c7a65b51",
 			"name": "Get 3 uniques from hard clues",
+			"shortName": "Hard Clues",
 			"tip": "Potential reward from hard clues. Killing hellhounds is a decent way of getting the clues",
 			"wikiLink": "https://oldschool.runescape.wiki/w/Clue_scroll_(hard)",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Reward_casket_(hard)_detail.png/320px-Reward_casket_(hard)_detail.png",
 			"displayItemId": 20544,
+			"tags": [ "clues" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [
@@ -324,10 +323,12 @@
 		{
 			"id": "110256c1-5ef5-4412-b617-fe077c47f3fd",
 			"name": "Get 3 uniques from hard clues",
+			"shortName": "Hard Clues",
 			"tip": "Potential reward from hard clues. Killing hellhounds is a decent way of getting the clues",
 			"wikiLink": "https://oldschool.runescape.wiki/w/Clue_scroll_(hard)",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Reward_casket_(hard)_detail.png/320px-Reward_casket_(hard)_detail.png",
 			"displayItemId": 20544,
+			"tags": [ "clues" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [
@@ -351,10 +352,12 @@
 		{
 			"id": "b0bb4117-6a35-4268-9b2d-f9d21283e39a",
 			"name": "Get 3 uniques from hard clues",
+			"shortName": "Hard Clues",
 			"tip": "Potential reward from hard clues. Killing hellhounds is a decent way of getting the clues",
 			"wikiLink": "https://oldschool.runescape.wiki/w/Clue_scroll_(hard)",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Reward_casket_(hard)_detail.png/320px-Reward_casket_(hard)_detail.png",
 			"displayItemId": 20544,
+			"tags": [ "clues" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [
@@ -378,10 +381,12 @@
 		{
 			"id": "61bf9382-adeb-4110-9d50-36f244155224",
 			"name": "Get 3 uniques from hard clues",
+			"shortName": "Hard Clues",
 			"tip": "Potential reward from hard clues. Killing hellhounds is a decent way of getting the clues",
 			"wikiLink": "https://oldschool.runescape.wiki/w/Clue_scroll_(hard)",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Reward_casket_(hard)_detail.png/320px-Reward_casket_(hard)_detail.png",
 			"displayItemId": 20544,
+			"tags": [ "clues" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [
@@ -405,10 +410,12 @@
 		{
 			"id": "65081c74-4a4b-4100-8c4e-c4a8a87c8d09",
 			"name": "Get 3 uniques from hard clues",
+			"shortName": "Hard Clues",
 			"tip": "Potential reward from hard clues. Killing hellhounds is a decent way of getting the clues",
 			"wikiLink": "https://oldschool.runescape.wiki/w/Clue_scroll_(hard)",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Reward_casket_(hard)_detail.png/320px-Reward_casket_(hard)_detail.png",
 			"displayItemId": 20544,
+			"tags": [ "clues" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [
@@ -430,436 +437,634 @@
 			}
 		},
 		{
-			"id": "7d2d101e-af23-4985-b06f-0f35aa5f9afd",
-			"name": "Get 3 uniques from hard clues",
-			"tip": "Potential reward from hard clues. Killing hellhounds is a decent way of getting the clues",
-			"wikiLink": "https://oldschool.runescape.wiki/w/Clue_scroll_(hard)",
-			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Reward_casket_(hard)_detail.png/320px-Reward_casket_(hard)_detail.png",
-			"displayItemId": 20544,
+			"id": "1e66fa8b-4d06-4f7c-b9e7-a71b914d37be",
+			"name": "Get 1 new unique from elite clues",
+			"shortName": "Elite Clues",
+			"tip": "Potential reward from elite clues. Elite clue rewards are not real. Jagex please fix.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Clue_scroll_(elite)",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Clue_scroll_(elite)_detail.png/320px-Clue_scroll_(elite)_detail.png",
+			"displayItemId": 12073,
+			"tags": [ "clues" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [
-					10354, 10284,  2581,  7400,  7399,  7398, 22231,  2627,  2623,  2625,  3477,
-					 2629,  2619,  2615,  2617,  3476,  2621,  7336,  7342,  7348,  7354,  7360,
-					10286, 10288, 10290, 10292, 10294,  2657,  2653,  2655,  3478,  2659,  2673,
-					 2669,  2671,  3480,  2675,  2665,  2661,  2663,  3479,  2667, 12466, 12460,
-					12462, 12464, 12468, 12476, 12470, 12472, 12474, 12478, 12486, 12480, 12482,
-					12484, 12488, 12327, 12331, 12329, 12333,  7374,  7376,  7382,  7384, 10390,
-					10386, 10388, 10384, 19933, 10382, 10378, 10380, 10376, 19927, 10374, 10370,
-					10372, 10368, 19936, 12504, 12500, 12502, 12498, 19924, 12512, 12508, 12510,
-					12506, 19930, 12496, 12492, 12494, 12490, 19921, 10470, 10440, 10472, 10442,
-					10474, 10444, 19912, 19915,  2651, 12323, 12321, 12325,  2639,  2641,  2643,
-					12516, 12514, 12518, 12520, 12522, 12524, 19918, 12379, 23206, 23224, 23227,
-					23237, 23232, 23209, 23212, 23215, 23218, 23221, 23191, 23188, 23194, 23203,
-					23200, 23197
+					12335, 12337, 12351, 12353, 12355, 12357, 12363, 12365, 12367, 12369, 12373,
+					12381, 12383, 12385, 12387, 12393, 12395, 12397, 12430, 12432, 12439, 12441,
+					12443, 12526, 12528, 12530, 12532, 12534, 12536, 12538, 12540, 12596, 19943,
+					19946, 19949, 19952, 19955, 19958, 19961, 19964, 19967, 19970, 19973, 19976,
+					19979, 19982, 19985, 19988, 19991, 19994, 19997, 20002, 23185, 23246, 23249,
+					23252, 23255, 23270, 23273
 				],
-				"count": 123
+				"count": 21
 			}
 		},
 		{
-			"id": "822e9cd4-4f93-458e-a71c-5aac2866d540",
-			"name": "Get 1 minigame slot",
-			"tip": "Pick a minigame, any minigame.",
-			"wikiLink": "https://oldschool.runescape.wiki/w/Minigames",
-			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Minigames.png/320px-Minigames.png",
-			"displayItemId": 24844,
-			"verification": {
-				"method": "collection-log",
-				"itemIds": [ 26901, 25348, 12703, 4508, 4509, 4510, 4512, 11895, 25174 ],
-				"count": 1
-			}
-		},
-		{
-			"id": "bc12c66f-668b-45e1-b34b-057799e23c1d",
-			"name": "Get 1 minigame slot",
-			"tip": "Pick a minigame, any minigame.",
-			"wikiLink": "https://oldschool.runescape.wiki/w/Minigames",
-			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Minigames.png/320px-Minigames.png",
-			"displayItemId": 24844,
-			"verification": {
-				"method": "collection-log",
-				"itemIds": [ 26901, 25348, 12703, 4508, 4509, 4510, 4512, 11895, 25174 ],
-				"count": 2
-			}
-		},
-		{
-			"id": "35231ee7-721f-4f55-bbd4-a25e33609181",
-			"name": "Get 1 minigame slot",
-			"tip": "Pick a minigame, any minigame.",
-			"wikiLink": "https://oldschool.runescape.wiki/w/Minigames",
-			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Minigames.png/320px-Minigames.png",
-			"displayItemId": 24844,
-			"verification": {
-				"method": "collection-log",
-				"itemIds": [ 26901, 25348, 12703, 4508, 4509, 4510, 4512, 11895, 25174 ],
-				"count": 3
-			}
-		},
-		{
-			"id": "db4581b2-2f48-43da-9b16-2e52c4fa64a7",
-			"name": "Get 1 minigame slot",
-			"tip": "Pick a minigame, any minigame.",
-			"wikiLink": "https://oldschool.runescape.wiki/w/Minigames",
-			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Minigames.png/320px-Minigames.png",
-			"displayItemId": 24844,
-			"verification": {
-				"method": "collection-log",
-				"itemIds": [ 26901, 25348, 12703, 4508, 4509, 4510, 4512, 11895, 25174 ],
-				"count": 4
-			}
-		},
-		{
-			"id": "5424b2bf-a18a-4b24-877a-63e184eac6e9",
-			"name": "Get 1 minigame slot",
-			"tip": "Pick a minigame, any minigame.",
-			"wikiLink": "https://oldschool.runescape.wiki/w/Minigames",
-			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Minigames.png/320px-Minigames.png",
-			"displayItemId": 24844,
-			"verification": {
-				"method": "collection-log",
-				"itemIds": [ 26901, 25348, 12703, 4508, 4509, 4510, 4512, 11895, 25174 ],
-				"count": 5
-			}
-		},
-		{
-			"id": "655a77fa-21f6-43e8-9cde-5eb2b660f829",
-			"name": "Get 2 LMS slots",
-			"tip": "Can be purchased as a reward from the Last Man Standing PVP Minigame.",
-			"wikiLink": "https://oldschool.runescape.wiki/w/Last_Man_Standing",
-			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Victor's_cape_(500)_detail.png/320px-Victor's_cape_(500)_detail.png",
-			"displayItemId": 24213,
-			"tags": [ "lms" ],
+			"id": "b32089e9-ed42-4248-b4d3-c199c88732f6",
+			"name": "Get 1 new unique from elite clues",
+			"shortName": "Elite Clues",
+			"tip": "Potential reward from elite clues. Elite clue rewards are not real. Jagex please fix.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Clue_scroll_(elite)",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Clue_scroll_(elite)_detail.png/320px-Clue_scroll_(elite)_detail.png",
+			"displayItemId": 12073,
+			"tags": [ "clues" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [
-					24219, 24201, 24192, 24195, 24204, 24198, 24189, 24190, 24191, 24217, 24207,
-					24209, 24211, 24213, 24215, 24520
+					12335, 12337, 12351, 12353, 12355, 12357, 12363, 12365, 12367, 12369, 12373,
+					12381, 12383, 12385, 12387, 12393, 12395, 12397, 12430, 12432, 12439, 12441,
+					12443, 12526, 12528, 12530, 12532, 12534, 12536, 12538, 12540, 12596, 19943,
+					19946, 19949, 19952, 19955, 19958, 19961, 19964, 19967, 19970, 19973, 19976,
+					19979, 19982, 19985, 19988, 19991, 19994, 19997, 20002, 23185, 23246, 23249,
+					23252, 23255, 23270, 23273
 				],
-				"count": 2
+				"count": 22
 			}
 		},
 		{
-			"id": "347d5712-ebc3-4b74-8aba-ba909c39013e",
-			"name": "Get 2 LMS slots",
-			"tip": "Can be purchased as a reward from the Last Man Standing PVP Minigame.",
-			"wikiLink": "https://oldschool.runescape.wiki/w/Last_Man_Standing",
-			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Victor's_cape_(500)_detail.png/320px-Victor's_cape_(500)_detail.png",
-			"displayItemId": 24213,
-			"tags": [ "lms" ],
+			"id": "a413af65-169a-4239-a9da-63ff76c7d9d6",
+			"name": "Get 1 new unique from elite clues",
+			"shortName": "Elite Clues",
+			"tip": "Potential reward from elite clues. Elite clue rewards are not real. Jagex please fix.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Clue_scroll_(elite)",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Clue_scroll_(elite)_detail.png/320px-Clue_scroll_(elite)_detail.png",
+			"displayItemId": 12073,
+			"tags": [ "clues" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [
-					24219, 24201, 24192, 24195, 24204, 24198, 24189, 24190, 24191, 24217, 24207,
-					24209, 24211, 24213, 24215, 24520
+					12335, 12337, 12351, 12353, 12355, 12357, 12363, 12365, 12367, 12369, 12373,
+					12381, 12383, 12385, 12387, 12393, 12395, 12397, 12430, 12432, 12439, 12441,
+					12443, 12526, 12528, 12530, 12532, 12534, 12536, 12538, 12540, 12596, 19943,
+					19946, 19949, 19952, 19955, 19958, 19961, 19964, 19967, 19970, 19973, 19976,
+					19979, 19982, 19985, 19988, 19991, 19994, 19997, 20002, 23185, 23246, 23249,
+					23252, 23255, 23270, 23273
 				],
-				"count": 4
+				"count": 23
 			}
 		},
 		{
-			"id": "2eb6623e-a326-4b63-9cae-8fa0823c5d49",
-			"name": "Get 2 LMS slots",
-			"tip": "Can be purchased as a reward from the Last Man Standing PVP Minigame.",
-			"wikiLink": "https://oldschool.runescape.wiki/w/Last_Man_Standing",
-			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Victor's_cape_(500)_detail.png/320px-Victor's_cape_(500)_detail.png",
-			"displayItemId": 24213,
-			"tags": [ "lms" ],
+			"id": "3969f66c-31f3-4737-8058-5d5bd85a8ca2",
+			"name": "Get 1 new unique from elite clues",
+			"shortName": "Elite Clues",
+			"tip": "Potential reward from elite clues. Elite clue rewards are not real. Jagex please fix.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Clue_scroll_(elite)",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Clue_scroll_(elite)_detail.png/320px-Clue_scroll_(elite)_detail.png",
+			"displayItemId": 12073,
+			"tags": [ "clues" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [
-					24219, 24201, 24192, 24195, 24204, 24198, 24189, 24190, 24191, 24217, 24207,
-					24209, 24211, 24213, 24215, 24520
+					12335, 12337, 12351, 12353, 12355, 12357, 12363, 12365, 12367, 12369, 12373,
+					12381, 12383, 12385, 12387, 12393, 12395, 12397, 12430, 12432, 12439, 12441,
+					12443, 12526, 12528, 12530, 12532, 12534, 12536, 12538, 12540, 12596, 19943,
+					19946, 19949, 19952, 19955, 19958, 19961, 19964, 19967, 19970, 19973, 19976,
+					19979, 19982, 19985, 19988, 19991, 19994, 19997, 20002, 23185, 23246, 23249,
+					23252, 23255, 23270, 23273
 				],
-				"count": 6
+				"count": 24
 			}
 		},
 		{
-			"id": "50b61b0e-70d0-40a9-bf42-c1b8ac917717",
-			"name": "Get 2 LMS slots",
-			"tip": "Can be purchased as a reward from the Last Man Standing PVP Minigame.",
-			"wikiLink": "https://oldschool.runescape.wiki/w/Last_Man_Standing",
-			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Victor's_cape_(500)_detail.png/320px-Victor's_cape_(500)_detail.png",
-			"displayItemId": 24213,
-			"tags": [ "lms" ],
+			"id": "4e439691-6e54-41ee-b902-dc303b6a4d96",
+			"name": "Get 1 new unique from elite clues",
+			"shortName": "Elite Clues",
+			"tip": "Potential reward from elite clues. Elite clue rewards are not real. Jagex please fix.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Clue_scroll_(elite)",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Clue_scroll_(elite)_detail.png/320px-Clue_scroll_(elite)_detail.png",
+			"displayItemId": 12073,
+			"tags": [ "clues" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [
-					24219, 24201, 24192, 24195, 24204, 24198, 24189, 24190, 24191, 24217, 24207,
-					24209, 24211, 24213, 24215, 24520
+					12335, 12337, 12351, 12353, 12355, 12357, 12363, 12365, 12367, 12369, 12373,
+					12381, 12383, 12385, 12387, 12393, 12395, 12397, 12430, 12432, 12439, 12441,
+					12443, 12526, 12528, 12530, 12532, 12534, 12536, 12538, 12540, 12596, 19943,
+					19946, 19949, 19952, 19955, 19958, 19961, 19964, 19967, 19970, 19973, 19976,
+					19979, 19982, 19985, 19988, 19991, 19994, 19997, 20002, 23185, 23246, 23249,
+					23252, 23255, 23270, 23273
 				],
-				"count": 8
+				"count": 25
 			}
 		},
 		{
-			"id": "917b912c-2716-4b12-a020-a758ee467e72",
-			"name": "Get 2 LMS slots",
-			"tip": "Can be purchased as a reward from the Last Man Standing PVP Minigame.",
-			"wikiLink": "https://oldschool.runescape.wiki/w/Last_Man_Standing",
-			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Victor's_cape_(500)_detail.png/320px-Victor's_cape_(500)_detail.png",
-			"displayItemId": 24213,
-			"tags": [ "lms" ],
+			"id": "e0b95616-ad51-49eb-9203-c0a4549bf9f7",
+			"name": "Get 1 new unique from elite clues",
+			"shortName": "Elite Clues",
+			"tip": "Potential reward from elite clues. Elite clue rewards are not real. Jagex please fix.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Clue_scroll_(elite)",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Clue_scroll_(elite)_detail.png/320px-Clue_scroll_(elite)_detail.png",
+			"displayItemId": 12073,
+			"tags": [ "clues" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [
-					24219, 24201, 24192, 24195, 24204, 24198, 24189, 24190, 24191, 24217, 24207,
-					24209, 24211, 24213, 24215, 24520
+					12335, 12337, 12351, 12353, 12355, 12357, 12363, 12365, 12367, 12369, 12373,
+					12381, 12383, 12385, 12387, 12393, 12395, 12397, 12430, 12432, 12439, 12441,
+					12443, 12526, 12528, 12530, 12532, 12534, 12536, 12538, 12540, 12596, 19943,
+					19946, 19949, 19952, 19955, 19958, 19961, 19964, 19967, 19970, 19973, 19976,
+					19979, 19982, 19985, 19988, 19991, 19994, 19997, 20002, 23185, 23246, 23249,
+					23252, 23255, 23270, 23273
 				],
-				"count": 10
+				"count": 26
 			}
 		},
 		{
-			"id": "5cbcc790-10d1-4c17-8b39-cad7b48dadf8",
-			"name": "Get 2 LMS slots",
-			"tip": "Can be purchased as a reward from the Last Man Standing PVP Minigame.",
-			"wikiLink": "https://oldschool.runescape.wiki/w/Last_Man_Standing",
-			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Victor's_cape_(500)_detail.png/320px-Victor's_cape_(500)_detail.png",
-			"displayItemId": 24213,
-			"tags": [ "lms" ],
+			"id": "ae3d1dac-d415-4a0b-a4e7-d2e08876b9e4",
+			"name": "Get 1 new unique from elite clues",
+			"shortName": "Elite Clues",
+			"tip": "Potential reward from elite clues. Elite clue rewards are not real. Jagex please fix.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Clue_scroll_(elite)",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Clue_scroll_(elite)_detail.png/320px-Clue_scroll_(elite)_detail.png",
+			"displayItemId": 12073,
+			"tags": [ "clues" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [
-					24219, 24201, 24192, 24195, 24204, 24198, 24189, 24190, 24191, 24217, 24207,
-					24209, 24211, 24213, 24215, 24520
+					12335, 12337, 12351, 12353, 12355, 12357, 12363, 12365, 12367, 12369, 12373,
+					12381, 12383, 12385, 12387, 12393, 12395, 12397, 12430, 12432, 12439, 12441,
+					12443, 12526, 12528, 12530, 12532, 12534, 12536, 12538, 12540, 12596, 19943,
+					19946, 19949, 19952, 19955, 19958, 19961, 19964, 19967, 19970, 19973, 19976,
+					19979, 19982, 19985, 19988, 19991, 19994, 19997, 20002, 23185, 23246, 23249,
+					23252, 23255, 23270, 23273
+				],
+				"count": 27
+			}
+		},
+		{
+			"id": "557bf626-81fd-4a65-b30e-cb53b099e05e",
+			"name": "Get 1 new unique from elite clues",
+			"shortName": "Elite Clues",
+			"tip": "Potential reward from elite clues. Elite clue rewards are not real. Jagex please fix.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Clue_scroll_(elite)",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Clue_scroll_(elite)_detail.png/320px-Clue_scroll_(elite)_detail.png",
+			"displayItemId": 12073,
+			"tags": [ "clues" ],
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [
+					12335, 12337, 12351, 12353, 12355, 12357, 12363, 12365, 12367, 12369, 12373,
+					12381, 12383, 12385, 12387, 12393, 12395, 12397, 12430, 12432, 12439, 12441,
+					12443, 12526, 12528, 12530, 12532, 12534, 12536, 12538, 12540, 12596, 19943,
+					19946, 19949, 19952, 19955, 19958, 19961, 19964, 19967, 19970, 19973, 19976,
+					19979, 19982, 19985, 19988, 19991, 19994, 19997, 20002, 23185, 23246, 23249,
+					23252, 23255, 23270, 23273
+				],
+				"count": 28
+			}
+		},
+		{
+			"id": "cee242f3-c68c-482b-bcc2-f2046230000a",
+			"name": "Get 1 new unique from elite clues",
+			"shortName": "Elite Clues",
+			"tip": "Potential reward from elite clues. Elite clue rewards are not real. Jagex please fix.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Clue_scroll_(elite)",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Clue_scroll_(elite)_detail.png/320px-Clue_scroll_(elite)_detail.png",
+			"displayItemId": 12073,
+			"tags": [ "clues" ],
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [
+					12335, 12337, 12351, 12353, 12355, 12357, 12363, 12365, 12367, 12369, 12373,
+					12381, 12383, 12385, 12387, 12393, 12395, 12397, 12430, 12432, 12439, 12441,
+					12443, 12526, 12528, 12530, 12532, 12534, 12536, 12538, 12540, 12596, 19943,
+					19946, 19949, 19952, 19955, 19958, 19961, 19964, 19967, 19970, 19973, 19976,
+					19979, 19982, 19985, 19988, 19991, 19994, 19997, 20002, 23185, 23246, 23249,
+					23252, 23255, 23270, 23273
+				],
+				"count": 29
+			}
+		},
+		{
+			"id": "11aef204-24e0-46e0-a926-25861c4edd19",
+			"name": "Get 1 new unique from elite clues",
+			"shortName": "Elite Clues",
+			"tip": "Potential reward from elite clues. Elite clue rewards are not real. Jagex please fix.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Clue_scroll_(elite)",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Clue_scroll_(elite)_detail.png/320px-Clue_scroll_(elite)_detail.png",
+			"displayItemId": 12073,
+			"tags": [ "clues" ],
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [
+					12335, 12337, 12351, 12353, 12355, 12357, 12363, 12365, 12367, 12369, 12373,
+					12381, 12383, 12385, 12387, 12393, 12395, 12397, 12430, 12432, 12439, 12441,
+					12443, 12526, 12528, 12530, 12532, 12534, 12536, 12538, 12540, 12596, 19943,
+					19946, 19949, 19952, 19955, 19958, 19961, 19964, 19967, 19970, 19973, 19976,
+					19979, 19982, 19985, 19988, 19991, 19994, 19997, 20002, 23185, 23246, 23249,
+					23252, 23255, 23270, 23273
+				],
+				"count": 30
+			}
+		},
+		{
+			"id": "e3a93b93-79dd-4a09-91b5-289c8e1d2a80",
+			"name": "Get 1 new unique from master clues",
+			"shortName": "Master Clues",
+			"tip": "Potential reward from master clues.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Clue_scroll_(master)",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Clue_scroll_(master)_detail.png/320px-Clue_scroll_(master)_detail.png",
+			"displayItemId": 19835,
+			"tags": [ "clues" ],
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [
+					19724, 20008, 20020, 20023, 20026, 20029, 20032, 20035, 20038, 20041, 20044,
+					20047, 20050, 20053, 20056, 20062, 20065, 20068, 20071, 20074, 20077, 20080,
+					20083, 20086, 20089, 20092, 20095, 20098, 20101, 20104, 20107, 20110, 20113,
+					20116, 20119, 20122, 20125, 20128, 20131, 20134, 20137, 20140, 20143, 22236,
+					22239, 22246, 23348
+				],
+				"count": 11
+			}
+		},
+		{
+			"id": "41ef9aa2-4a1b-4b3a-af61-d2816a2d6fd4",
+			"name": "Get 1 new unique from master clues",
+			"shortName": "Master Clues",
+			"tip": "Potential reward from master clues.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Clue_scroll_(master)",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Clue_scroll_(master)_detail.png/320px-Clue_scroll_(master)_detail.png",
+			"displayItemId": 19835,
+			"tags": [ "clues" ],
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [
+					19724, 20008, 20020, 20023, 20026, 20029, 20032, 20035, 20038, 20041, 20044,
+					20047, 20050, 20053, 20056, 20062, 20065, 20068, 20071, 20074, 20077, 20080,
+					20083, 20086, 20089, 20092, 20095, 20098, 20101, 20104, 20107, 20110, 20113,
+					20116, 20119, 20122, 20125, 20128, 20131, 20134, 20137, 20140, 20143, 22236,
+					22239, 22246, 23348
 				],
 				"count": 12
 			}
 		},
 		{
-			"id": "4a387bb0-dfc3-4374-aa35-9bacfc2fc92d",
-			"name": "Get 2 LMS slots",
-			"tip": "Can be purchased as a reward from the Last Man Standing PVP Minigame.",
-			"wikiLink": "https://oldschool.runescape.wiki/w/Last_Man_Standing",
-			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Victor's_cape_(500)_detail.png/320px-Victor's_cape_(500)_detail.png",
-			"displayItemId": 24213,
-			"tags": [ "lms" ],
+			"id": "8fb43f7d-b17f-4ceb-9cd6-019fc8e9e24e",
+			"name": "Get 1 new unique from master clues",
+			"shortName": "Master Clues",
+			"tip": "Potential reward from master clues.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Clue_scroll_(master)",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Clue_scroll_(master)_detail.png/320px-Clue_scroll_(master)_detail.png",
+			"displayItemId": 19835,
+			"tags": [ "clues" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [
-					24219, 24201, 24192, 24195, 24204, 24198, 24189, 24190, 24191, 24217, 24207,
-					24209, 24211, 24213, 24215, 24520
+					19724, 20008, 20020, 20023, 20026, 20029, 20032, 20035, 20038, 20041, 20044,
+					20047, 20050, 20053, 20056, 20062, 20065, 20068, 20071, 20074, 20077, 20080,
+					20083, 20086, 20089, 20092, 20095, 20098, 20101, 20104, 20107, 20110, 20113,
+					20116, 20119, 20122, 20125, 20128, 20131, 20134, 20137, 20140, 20143, 22236,
+					22239, 22246, 23348
+				],
+				"count": 13
+			}
+		},
+		{
+			"id": "372bff76-d37b-4de9-8188-6a38e2a436b8",
+			"name": "Get 1 new unique from master clues",
+			"shortName": "Master Clues",
+			"tip": "Potential reward from master clues.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Clue_scroll_(master)",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Clue_scroll_(master)_detail.png/320px-Clue_scroll_(master)_detail.png",
+			"displayItemId": 19835,
+			"tags": [ "clues" ],
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [
+					19724, 20008, 20020, 20023, 20026, 20029, 20032, 20035, 20038, 20041, 20044,
+					20047, 20050, 20053, 20056, 20062, 20065, 20068, 20071, 20074, 20077, 20080,
+					20083, 20086, 20089, 20092, 20095, 20098, 20101, 20104, 20107, 20110, 20113,
+					20116, 20119, 20122, 20125, 20128, 20131, 20134, 20137, 20140, 20143, 22236,
+					22239, 22246, 23348
 				],
 				"count": 14
 			}
 		},
 		{
-			"id": "57672680-b11b-44a8-80f6-cb93510612f6",
-			"name": "Get 1 unique from Raids (CoX or ToB or ToA)",
-			"tip": "Can be received as a drop from any raid: Chambers of Xeric, Theatre of Blood or Tombs of Amascut.",
-			"wikiLink": "https://oldschool.runescape.wiki/w/Raids",
-			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Twisted_bow_detail.png/320px-Twisted_bow_detail.png",
-			"displayItemId": 20997
-		},
-		{
-			"id": "4f784efb-9602-42a3-9e39-8e38902c56a8",
-			"name": "Get 1 unique from Raids (CoX or ToB or ToA)",
-			"tip": "Can be received as a drop from any raid: Chambers of Xeric, Theatre of Blood or Tombs of Amascut.",
-			"wikiLink": "https://oldschool.runescape.wiki/w/Raids",
-			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Twisted_bow_detail.png/320px-Twisted_bow_detail.png",
-			"displayItemId": 20997
-		},
-		{
-			"id": "a06109c2-b146-4d9e-957a-445b30380f25",
-			"name": "Get 1 unique from Raids (CoX or ToB or ToA)",
-			"tip": "Can be received as a drop from any raid: Chambers of Xeric, Theatre of Blood or Tombs of Amascut.",
-			"wikiLink": "https://oldschool.runescape.wiki/w/Raids",
-			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Twisted_bow_detail.png/320px-Twisted_bow_detail.png",
-			"displayItemId": 20997
-		},
-		{
-			"id": "c79d7736-b65e-46d6-a4f4-c003e68a54c3",
-			"name": "Get 1 unique from Raids (CoX or ToB or ToA)",
-			"tip": "Can be received as a drop from any raid: Chambers of Xeric, Theatre of Blood or Tombs of Amascut.",
-			"wikiLink": "https://oldschool.runescape.wiki/w/Raids",
-			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Twisted_bow_detail.png/320px-Twisted_bow_detail.png",
-			"displayItemId": 20997
-		},
-		{
-			"id": "3e69c1e2-e004-451e-bd0a-3bf7b9a15ea1",
-			"name": "Get 1 unique from Raids (CoX or ToB or ToA)",
-			"tip": "Can be received as a drop from any raid: Chambers of Xeric, Theatre of Blood or Tombs of Amascut.",
-			"wikiLink": "https://oldschool.runescape.wiki/w/Raids",
-			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Twisted_bow_detail.png/320px-Twisted_bow_detail.png",
-			"displayItemId": 20997
-		},
-		{
-			"id": "bb7abf29-aa33-43db-823d-ba6db8643535",
-			"name": "Get 1 unique from Raids (CoX or ToB or ToA)",
-			"tip": "Can be received as a drop from any raid: Chambers of Xeric, Theatre of Blood or Tombs of Amascut.",
-			"wikiLink": "https://oldschool.runescape.wiki/w/Raids",
-			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Twisted_bow_detail.png/320px-Twisted_bow_detail.png",
-			"displayItemId": 20997
-		},
-		{
-			"id": "b9763997-7f6a-4cbe-969d-20c13eefa372",
-			"name": "Get 1 unique from Raids (CoX or ToB or ToA)",
-			"tip": "Can be received as a drop from any raid: Chambers of Xeric, Theatre of Blood or Tombs of Amascut.",
-			"wikiLink": "https://oldschool.runescape.wiki/w/Raids",
-			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Twisted_bow_detail.png/320px-Twisted_bow_detail.png",
-			"displayItemId": 20997
-		},
-		{
-			"id": "b9c2fde0-ba98-40a3-bb7f-16feaaa2f3dc",
-			"name": "Get 1 unique from Raids (CoX or ToB or ToA)",
-			"tip": "Can be received as a drop from any raid: Chambers of Xeric, Theatre of Blood or Tombs of Amascut.",
-			"wikiLink": "https://oldschool.runescape.wiki/w/Raids",
-			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Twisted_bow_detail.png/320px-Twisted_bow_detail.png",
-			"displayItemId": 20997
-		},
-		{
-			"id": "888e95b6-c2fa-4ec4-852e-49a9de064b6b",
-			"name": "Get 1 unique from Raids (CoX or ToB or ToA)",
-			"tip": "Can be received as a drop from any raid: Chambers of Xeric, Theatre of Blood or Tombs of Amascut.",
-			"wikiLink": "https://oldschool.runescape.wiki/w/Raids",
-			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Twisted_bow_detail.png/320px-Twisted_bow_detail.png",
-			"displayItemId": 20997
-		},
-		{
-			"id": "ceba2322-95a3-4dab-90aa-2f0693353801",
-			"name": "Get 1 unique from Raids (CoX or ToB or ToA)",
-			"tip": "Can be received as a drop from any raid: Chambers of Xeric, Theatre of Blood or Tombs of Amascut.",
-			"wikiLink": "https://oldschool.runescape.wiki/w/Raids",
-			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Twisted_bow_detail.png/320px-Twisted_bow_detail.png",
-			"displayItemId": 20997
-		},
-		{
-			"id": "d427ee69-20da-4194-818c-8ac37ecde539",
-			"name": "Get 1 unique from Raids (CoX or ToB or ToA)",
-			"tip": "Can be received as a drop from any raid: Chambers of Xeric, Theatre of Blood or Tombs of Amascut.",
-			"wikiLink": "https://oldschool.runescape.wiki/w/Raids",
-			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Twisted_bow_detail.png/320px-Twisted_bow_detail.png",
-			"displayItemId": 20997
-		},
-		{
-			"id": "8e741bc0-3de0-43a2-901a-365e1ace0cd8",
-			"name": "Get 1 unique from Raids (CoX or ToB or ToA)",
-			"tip": "Can be received as a drop from any raid: Chambers of Xeric, Theatre of Blood or Tombs of Amascut.",
-			"wikiLink": "https://oldschool.runescape.wiki/w/Raids",
-			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Twisted_bow_detail.png/320px-Twisted_bow_detail.png",
-			"displayItemId": 20997
-		},
-		{
-			"id": "cf1dd5b0-a09b-45ff-a680-bd97487b0689",
-			"name": "Get 1 unique from Raids (CoX or ToB or ToA)",
-			"tip": "Can be received as a drop from any raid: Chambers of Xeric, Theatre of Blood or Tombs of Amascut.",
-			"wikiLink": "https://oldschool.runescape.wiki/w/Raids",
-			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Twisted_bow_detail.png/320px-Twisted_bow_detail.png",
-			"displayItemId": 20997
-		},
-		{
-			"id": "0989d23c-c009-4c7f-a6d1-c2bc75bf4ddb",
-			"name": "Get 1 unique from Raids (CoX or ToB or ToA)",
-			"tip": "Can be received as a drop from any raid: Chambers of Xeric, Theatre of Blood or Tombs of Amascut.",
-			"wikiLink": "https://oldschool.runescape.wiki/w/Raids",
-			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Twisted_bow_detail.png/320px-Twisted_bow_detail.png",
-			"displayItemId": 20997
-		},
-		{
-			"id": "6ffe16e8-432e-4959-86eb-7ad7499e7079",
-			"name": "Get 1 unique from Raids (CoX or ToB or ToA)",
-			"tip": "Can be received as a drop from any raid: Chambers of Xeric, Theatre of Blood or Tombs of Amascut.",
-			"wikiLink": "https://oldschool.runescape.wiki/w/Raids",
-			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Twisted_bow_detail.png/320px-Twisted_bow_detail.png",
-			"displayItemId": 20997
-		},
-		{
-			"id": "80b26e47-d70f-455c-af7a-09b64641aa48",
-			"name": "Get 1 unique from Raids (CoX or ToB or ToA)",
-			"tip": "Can be received as a drop from any raid: Chambers of Xeric, Theatre of Blood or Tombs of Amascut.",
-			"wikiLink": "https://oldschool.runescape.wiki/w/Raids",
-			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Twisted_bow_detail.png/320px-Twisted_bow_detail.png",
-			"displayItemId": 20997
-		},
-		{
-			"id": "eda36f5c-97d7-4ec3-9ea5-426a9d9d23c0",
-			"name": "Get 1 unique from Raids (CoX or ToB or ToA)",
-			"tip": "Can be received as a drop from any raid: Chambers of Xeric, Theatre of Blood or Tombs of Amascut.",
-			"wikiLink": "https://oldschool.runescape.wiki/w/Raids",
-			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Twisted_bow_detail.png/320px-Twisted_bow_detail.png",
-			"displayItemId": 20997
-		},
-		{
-			"id": "29b65a69-472d-4359-84a0-a7124b7abaad",
-			"name": "Get 1 unique from Raids (CoX or ToB or ToA)",
-			"tip": "Can be received as a drop from any raid: Chambers of Xeric, Theatre of Blood or Tombs of Amascut.",
-			"wikiLink": "https://oldschool.runescape.wiki/w/Raids",
-			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Twisted_bow_detail.png/320px-Twisted_bow_detail.png",
-			"displayItemId": 20997
-		},
-		{
-			"id": "cefbf638-6984-43e4-8699-935ef4cc8d4f",
-			"name": "Get 1 unique from Raids (CoX or ToB or ToA)",
-			"tip": "Can be received as a drop from any raid: Chambers of Xeric, Theatre of Blood or Tombs of Amascut.",
-			"wikiLink": "https://oldschool.runescape.wiki/w/Raids",
-			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Twisted_bow_detail.png/320px-Twisted_bow_detail.png",
-			"displayItemId": 20997
-		},
-		{
-			"id": "644ef42e-6fec-4162-b82b-58a74bdeae90",
-			"name": "Get 1 unique from Raids (CoX or ToB or ToA)",
-			"tip": "Can be received as a drop from any raid: Chambers of Xeric, Theatre of Blood or Tombs of Amascut.",
-			"wikiLink": "https://oldschool.runescape.wiki/w/Raids",
-			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Twisted_bow_detail.png/320px-Twisted_bow_detail.png",
-			"displayItemId": 20997
-		},
-		{
-			"id": "5b949f7a-7cb7-4eb9-9305-73c508d0c034",
-			"name": "Get 1 unique from Raids (CoX or ToB or ToA)",
-			"tip": "Can be received as a drop from any raid: Chambers of Xeric, Theatre of Blood or Tombs of Amascut.",
-			"wikiLink": "https://oldschool.runescape.wiki/w/Raids",
-			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Twisted_bow_detail.png/320px-Twisted_bow_detail.png",
-			"displayItemId": 20997
-		},
-		{
-			"id": "61b1a647-2558-4c52-9c9f-05dc621bfc72",
-			"name": "Get 1 unique from Raids (CoX or ToB or ToA)",
-			"tip": "Can be received as a drop from any raid: Chambers of Xeric, Theatre of Blood or Tombs of Amascut.",
-			"wikiLink": "https://oldschool.runescape.wiki/w/Raids",
-			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Twisted_bow_detail.png/320px-Twisted_bow_detail.png",
-			"displayItemId": 20997
-		},
-		{
-			"id": "fbae29fc-6344-40ff-a69d-3a97e4f3dd1d",
-			"name": "Get 1 unique from Raids (CoX or ToB or ToA)",
-			"tip": "Can be received as a drop from any raid: Chambers of Xeric, Theatre of Blood or Tombs of Amascut.",
-			"wikiLink": "https://oldschool.runescape.wiki/w/Raids",
-			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Twisted_bow_detail.png/320px-Twisted_bow_detail.png",
-			"displayItemId": 20997
-		},
-		{
-			"id": "5ad6902c-51b7-46fb-8198-d2946370782c",
-			"name": "Get 1 unique from Raids (CoX or ToB or ToA)",
-			"tip": "Can be received as a drop from any raid: Chambers of Xeric, Theatre of Blood or Tombs of Amascut.",
-			"wikiLink": "https://oldschool.runescape.wiki/w/Raids",
-			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Twisted_bow_detail.png/320px-Twisted_bow_detail.png",
-			"displayItemId": 20997
-		},
-		{
-			"id": "ff73d183-18e1-4b09-9f9e-97923a780a6e",
-			"name": "Get 1 unique boss pet or jar",
-			"tip": "Step 1: Pick a boss Step2: ??? Step3: Profit",
-			"wikiLink": "https://oldschool.runescape.wiki/w/Boss",
-			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Abyssal_orphan_(follower).png/320px-Abyssal_orphan_(follower).png",
-			"displayItemId": 13262,
+			"id": "7b33da20-ba00-48b7-a339-0b063c3f9f24",
+			"name": "Get 1 new unique from master clues",
+			"shortName": "Master Clues",
+			"tip": "Potential reward from master clues.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Clue_scroll_(master)",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Clue_scroll_(master)_detail.png/320px-Clue_scroll_(master)_detail.png",
+			"displayItemId": 19835,
+			"tags": [ "clues" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [
-					13262, 12646, 20693, 25602, 13178, 13247, 30152, 22746, 21291, 12647, 22473,
-					24491, 30154, 27590, 26348, 29836, 21748, 20851, 11995, 12643, 12644, 12645,
-					12816, 12650, 12652, 12655, 12649, 12648, 12921, 12651, 12653, 13181, 28801,
-					21273, 23495, 13225, 27352, 13177, 13179, 21992, 28960, 30622, 28250, 28252,
-					28246, 28248, 30888, 23760, 23757, 31130, 31285, 33124, 12007, 12885, 12936,
-					13245, 13277, 19701, 21745, 22106, 23064, 23525, 24495, 25521, 25524, 29786,
-					32921
+					19724, 20008, 20020, 20023, 20026, 20029, 20032, 20035, 20038, 20041, 20044,
+					20047, 20050, 20053, 20056, 20062, 20065, 20068, 20071, 20074, 20077, 20080,
+					20083, 20086, 20089, 20092, 20095, 20098, 20101, 20104, 20107, 20110, 20113,
+					20116, 20119, 20122, 20125, 20128, 20131, 20134, 20137, 20140, 20143, 22236,
+					22239, 22246, 23348
 				],
-				"count": 6
+				"count": 15
+			}
+		},
+		{
+			"id": "0b98bd1c-6264-44b7-ad0f-45d1361610c2",
+			"name": "Get 1 new unique from master clues",
+			"shortName": "Master Clues",
+			"tip": "Potential reward from master clues.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Clue_scroll_(master)",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Clue_scroll_(master)_detail.png/320px-Clue_scroll_(master)_detail.png",
+			"displayItemId": 19835,
+			"tags": [ "clues" ],
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [
+					19724, 20008, 20020, 20023, 20026, 20029, 20032, 20035, 20038, 20041, 20044,
+					20047, 20050, 20053, 20056, 20062, 20065, 20068, 20071, 20074, 20077, 20080,
+					20083, 20086, 20089, 20092, 20095, 20098, 20101, 20104, 20107, 20110, 20113,
+					20116, 20119, 20122, 20125, 20128, 20131, 20134, 20137, 20140, 20143, 22236,
+					22239, 22246, 23348
+				],
+				"count": 16
+			}
+		},
+		{
+			"id": "7600e6e9-147e-4613-b03a-79226a815bcc",
+			"name": "Get 1 new unique from master clues",
+			"shortName": "Master Clues",
+			"tip": "Potential reward from master clues.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Clue_scroll_(master)",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Clue_scroll_(master)_detail.png/320px-Clue_scroll_(master)_detail.png",
+			"displayItemId": 19835,
+			"tags": [ "clues" ],
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [
+					19724, 20008, 20020, 20023, 20026, 20029, 20032, 20035, 20038, 20041, 20044,
+					20047, 20050, 20053, 20056, 20062, 20065, 20068, 20071, 20074, 20077, 20080,
+					20083, 20086, 20089, 20092, 20095, 20098, 20101, 20104, 20107, 20110, 20113,
+					20116, 20119, 20122, 20125, 20128, 20131, 20134, 20137, 20140, 20143, 22236,
+					22239, 22246, 23348
+				],
+				"count": 17
+			}
+		},
+		{
+			"id": "d2ce19aa-055f-43ee-bb81-9b831bbdcc35",
+			"name": "Get 1 new unique from master clues",
+			"shortName": "Master Clues",
+			"tip": "Potential reward from master clues.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Clue_scroll_(master)",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Clue_scroll_(master)_detail.png/320px-Clue_scroll_(master)_detail.png",
+			"displayItemId": 19835,
+			"tags": [ "clues" ],
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [
+					19724, 20008, 20020, 20023, 20026, 20029, 20032, 20035, 20038, 20041, 20044,
+					20047, 20050, 20053, 20056, 20062, 20065, 20068, 20071, 20074, 20077, 20080,
+					20083, 20086, 20089, 20092, 20095, 20098, 20101, 20104, 20107, 20110, 20113,
+					20116, 20119, 20122, 20125, 20128, 20131, 20134, 20137, 20140, 20143, 22236,
+					22239, 22246, 23348
+				],
+				"count": 18
+			}
+		},
+		{
+			"id": "ec846418-8a72-4355-873a-cb9c827e488d",
+			"name": "Get 1 new unique from master clues",
+			"shortName": "Master Clues",
+			"tip": "Potential reward from master clues.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Clue_scroll_(master)",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Clue_scroll_(master)_detail.png/320px-Clue_scroll_(master)_detail.png",
+			"displayItemId": 19835,
+			"tags": [ "clues" ],
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [
+					19724, 20008, 20020, 20023, 20026, 20029, 20032, 20035, 20038, 20041, 20044,
+					20047, 20050, 20053, 20056, 20062, 20065, 20068, 20071, 20074, 20077, 20080,
+					20083, 20086, 20089, 20092, 20095, 20098, 20101, 20104, 20107, 20110, 20113,
+					20116, 20119, 20122, 20125, 20128, 20131, 20134, 20137, 20140, 20143, 22236,
+					22239, 22246, 23348
+				],
+				"count": 19
+			}
+		},
+		{
+			"id": "e8965f8a-ea2f-45ec-a605-ac9e72c4cd71",
+			"name": "Get 1 new unique from master clues",
+			"shortName": "Master Clues",
+			"tip": "Potential reward from master clues.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Clue_scroll_(master)",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Clue_scroll_(master)_detail.png/320px-Clue_scroll_(master)_detail.png",
+			"displayItemId": 19835,
+			"tags": [ "clues" ],
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [
+					19724, 20008, 20020, 20023, 20026, 20029, 20032, 20035, 20038, 20041, 20044,
+					20047, 20050, 20053, 20056, 20062, 20065, 20068, 20071, 20074, 20077, 20080,
+					20083, 20086, 20089, 20092, 20095, 20098, 20101, 20104, 20107, 20110, 20113,
+					20116, 20119, 20122, 20125, 20128, 20131, 20134, 20137, 20140, 20143, 22236,
+					22239, 22246, 23348
+				],
+				"count": 20
+			}
+		},
+		{
+			"id": "57672680-b11b-44a8-80f6-cb93510612f6",
+			"name": "Get 1 unique from Raids",
+			"shortName": "Raids",
+			"tip": "Can be received as a drop from any raid: Chambers of Xeric, Theatre of Blood or Tombs of Amascut.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Raids",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Twisted_bow_detail.png/320px-Twisted_bow_detail.png",
+			"displayItemId": 20997,
+			"tags": [ "raids" ],
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [
+					13652, 20997, 21000, 21003, 21012, 21015, 21018, 21021, 21024, 21034, 21043,
+					21079, 22324, 22326, 22327, 22328, 22477, 22481, 22486, 25975, 25985, 26219,
+					27226, 27229, 27232, 27277, 27279, 27283, 27285, 27289, 27293, 30893
+				],
+				"count": 18
+			}
+		},
+		{
+			"id": "4f784efb-9602-42a3-9e39-8e38902c56a8",
+			"name": "Get 1 unique from Raids",
+			"shortName": "Raids",
+			"tip": "Can be received as a drop from any raid: Chambers of Xeric, Theatre of Blood or Tombs of Amascut.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Raids",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Twisted_bow_detail.png/320px-Twisted_bow_detail.png",
+			"displayItemId": 20997,
+			"tags": [ "raids" ],
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [
+					13652, 20997, 21000, 21003, 21012, 21015, 21018, 21021, 21024, 21034, 21043,
+					21079, 22324, 22326, 22327, 22328, 22477, 22481, 22486, 25975, 25985, 26219,
+					27226, 27229, 27232, 27277, 27279, 27283, 27285, 27289, 27293, 30893
+				],
+				"count": 19
+			}
+		},
+		{
+			"id": "a06109c2-b146-4d9e-957a-445b30380f25",
+			"name": "Get 1 unique from Raids",
+			"shortName": "Raids",
+			"tip": "Can be received as a drop from any raid: Chambers of Xeric, Theatre of Blood or Tombs of Amascut.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Raids",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Twisted_bow_detail.png/320px-Twisted_bow_detail.png",
+			"displayItemId": 20997,
+			"tags": [ "raids" ],
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [
+					13652, 20997, 21000, 21003, 21012, 21015, 21018, 21021, 21024, 21034, 21043,
+					21079, 22324, 22326, 22327, 22328, 22477, 22481, 22486, 25975, 25985, 26219,
+					27226, 27229, 27232, 27277, 27279, 27283, 27285, 27289, 27293, 30893
+				],
+				"count": 20
+			}
+		},
+		{
+			"id": "c79d7736-b65e-46d6-a4f4-c003e68a54c3",
+			"name": "Get 1 unique from Raids",
+			"shortName": "Raids",
+			"tip": "Can be received as a drop from any raid: Chambers of Xeric, Theatre of Blood or Tombs of Amascut.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Raids",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Twisted_bow_detail.png/320px-Twisted_bow_detail.png",
+			"displayItemId": 20997,
+			"tags": [ "raids" ],
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [
+					13652, 20997, 21000, 21003, 21012, 21015, 21018, 21021, 21024, 21034, 21043,
+					21079, 22324, 22326, 22327, 22328, 22477, 22481, 22486, 25975, 25985, 26219,
+					27226, 27229, 27232, 27277, 27279, 27283, 27285, 27289, 27293, 30893
+				],
+				"count": 21
+			}
+		},
+		{
+			"id": "3e69c1e2-e004-451e-bd0a-3bf7b9a15ea1",
+			"name": "Get 1 unique from Raids",
+			"shortName": "Raids",
+			"tip": "Can be received as a drop from any raid: Chambers of Xeric, Theatre of Blood or Tombs of Amascut.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Raids",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Twisted_bow_detail.png/320px-Twisted_bow_detail.png",
+			"displayItemId": 20997,
+			"tags": [ "raids" ],
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [
+					13652, 20997, 21000, 21003, 21012, 21015, 21018, 21021, 21024, 21034, 21043,
+					21079, 22324, 22326, 22327, 22328, 22477, 22481, 22486, 25975, 25985, 26219,
+					27226, 27229, 27232, 27277, 27279, 27283, 27285, 27289, 27293, 30893
+				],
+				"count": 22
+			}
+		},
+		{
+			"id": "bb7abf29-aa33-43db-823d-ba6db8643535",
+			"name": "Get 1 unique from Raids",
+			"shortName": "Raids",
+			"tip": "Can be received as a drop from any raid: Chambers of Xeric, Theatre of Blood or Tombs of Amascut.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Raids",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Twisted_bow_detail.png/320px-Twisted_bow_detail.png",
+			"displayItemId": 20997,
+			"tags": [ "raids" ],
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [
+					13652, 20997, 21000, 21003, 21012, 21015, 21018, 21021, 21024, 21034, 21043,
+					21079, 22324, 22326, 22327, 22328, 22477, 22481, 22486, 25975, 25985, 26219,
+					27226, 27229, 27232, 27277, 27279, 27283, 27285, 27289, 27293, 30893
+				],
+				"count": 23
+			}
+		},
+		{
+			"id": "b9763997-7f6a-4cbe-969d-20c13eefa372",
+			"name": "Get 1 unique from Raids",
+			"shortName": "Raids",
+			"tip": "Can be received as a drop from any raid: Chambers of Xeric, Theatre of Blood or Tombs of Amascut.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Raids",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Twisted_bow_detail.png/320px-Twisted_bow_detail.png",
+			"displayItemId": 20997,
+			"tags": [ "raids" ],
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [
+					13652, 20997, 21000, 21003, 21012, 21015, 21018, 21021, 21024, 21034, 21043,
+					21079, 22324, 22326, 22327, 22328, 22477, 22481, 22486, 25975, 25985, 26219,
+					27226, 27229, 27232, 27277, 27279, 27283, 27285, 27289, 27293, 30893
+				],
+				"count": 24
+			}
+		},
+		{
+			"id": "b9c2fde0-ba98-40a3-bb7f-16feaaa2f3dc",
+			"name": "Get 1 unique from Raids",
+			"shortName": "Raids",
+			"tip": "Can be received as a drop from any raid: Chambers of Xeric, Theatre of Blood or Tombs of Amascut.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Raids",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Twisted_bow_detail.png/320px-Twisted_bow_detail.png",
+			"displayItemId": 20997,
+			"tags": [ "raids" ],
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [
+					13652, 20997, 21000, 21003, 21012, 21015, 21018, 21021, 21024, 21034, 21043,
+					21079, 22324, 22326, 22327, 22328, 22477, 22481, 22486, 25975, 25985, 26219,
+					27226, 27229, 27232, 27277, 27279, 27283, 27285, 27289, 27293, 30893
+				],
+				"count": 25
+			}
+		},
+		{
+			"id": "888e95b6-c2fa-4ec4-852e-49a9de064b6b",
+			"name": "Get 1 unique from Raids",
+			"shortName": "Raids",
+			"tip": "Can be received as a drop from any raid: Chambers of Xeric, Theatre of Blood or Tombs of Amascut.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Raids",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Twisted_bow_detail.png/320px-Twisted_bow_detail.png",
+			"displayItemId": 20997,
+			"tags": [ "raids" ],
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [
+					13652, 20997, 21000, 21003, 21012, 21015, 21018, 21021, 21024, 21034, 21043,
+					21079, 22324, 22326, 22327, 22328, 22477, 22481, 22486, 25975, 25985, 26219,
+					27226, 27229, 27232, 27277, 27279, 27283, 27285, 27289, 27293, 30893
+				],
+				"count": 26
+			}
+		},
+		{
+			"id": "ceba2322-95a3-4dab-90aa-2f0693353801",
+			"name": "Get 1 unique from Raids",
+			"shortName": "Raids",
+			"tip": "Can be received as a drop from any raid: Chambers of Xeric, Theatre of Blood or Tombs of Amascut.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Raids",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Twisted_bow_detail.png/320px-Twisted_bow_detail.png",
+			"displayItemId": 20997,
+			"tags": [ "raids" ],
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [
+					13652, 20997, 21000, 21003, 21012, 21015, 21018, 21021, 21024, 21034, 21043,
+					21079, 22324, 22326, 22327, 22328, 22477, 22481, 22486, 25975, 25985, 26219,
+					27226, 27229, 27232, 27277, 27279, 27283, 27285, 27289, 27293, 30893
+				],
+				"count": 27
 			}
 		},
 		{
 			"id": "4dacbc90-c678-481c-970f-2a94e2d8fe27",
 			"name": "Get 1 unique boss pet or jar",
-			"tip": "Step 1: Pick a boss Step2: ??? Step3: Profit",
+			"shortName": "Boss Pet/Jar",
+			"tip": "Step 1: Pick a boss Step 2: ??? Step 3: Profit",
 			"wikiLink": "https://oldschool.runescape.wiki/w/Boss",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Abyssal_orphan_(follower).png/320px-Abyssal_orphan_(follower).png",
 			"displayItemId": 13262,
+			"tags": [ "boss-pet" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [
@@ -867,9 +1072,9 @@
 					24491, 30154, 27590, 26348, 29836, 21748, 20851, 11995, 12643, 12644, 12645,
 					12816, 12650, 12652, 12655, 12649, 12648, 12921, 12651, 12653, 13181, 28801,
 					21273, 23495, 13225, 27352, 13177, 13179, 21992, 28960, 30622, 28250, 28252,
-					28246, 28248, 30888, 23760, 23757, 31130, 31285, 33124, 12007, 12885, 12936,
-					13245, 13277, 19701, 21745, 22106, 23064, 23525, 24495, 25521, 25524, 29786,
-					32921
+					28246, 28248, 30888, 23760, 23757, 31130, 31285, 33124, 33642, 34042, 12007,
+					12885, 12936, 13245, 13277, 19701, 21745, 22106, 23064, 23525, 24495, 25521,
+					25524, 29786, 32921, 34030
 				],
 				"count": 7
 			}
@@ -877,10 +1082,12 @@
 		{
 			"id": "1ab1c3a0-81a9-4dcc-bc7a-79b0a597b52a",
 			"name": "Get 1 unique boss pet or jar",
-			"tip": "Step 1: Pick a boss Step2: ??? Step3: Profit",
+			"shortName": "Boss Pet/Jar",
+			"tip": "Step 1: Pick a boss Step 2: ??? Step 3: Profit",
 			"wikiLink": "https://oldschool.runescape.wiki/w/Boss",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Abyssal_orphan_(follower).png/320px-Abyssal_orphan_(follower).png",
 			"displayItemId": 13262,
+			"tags": [ "boss-pet" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [
@@ -888,9 +1095,9 @@
 					24491, 30154, 27590, 26348, 29836, 21748, 20851, 11995, 12643, 12644, 12645,
 					12816, 12650, 12652, 12655, 12649, 12648, 12921, 12651, 12653, 13181, 28801,
 					21273, 23495, 13225, 27352, 13177, 13179, 21992, 28960, 30622, 28250, 28252,
-					28246, 28248, 30888, 23760, 23757, 31130, 31285, 33124, 12007, 12885, 12936,
-					13245, 13277, 19701, 21745, 22106, 23064, 23525, 24495, 25521, 25524, 29786,
-					32921
+					28246, 28248, 30888, 23760, 23757, 31130, 31285, 33124, 33642, 34042, 12007,
+					12885, 12936, 13245, 13277, 19701, 21745, 22106, 23064, 23525, 24495, 25521,
+					25524, 29786, 32921, 34030
 				],
 				"count": 8
 			}
@@ -898,10 +1105,12 @@
 		{
 			"id": "407737f7-52e2-46be-9f65-c2251e9cde00",
 			"name": "Get 1 unique boss pet or jar",
-			"tip": "Step 1: Pick a boss Step2: ??? Step3: Profit",
+			"shortName": "Boss Pet/Jar",
+			"tip": "Step 1: Pick a boss Step 2: ??? Step 3: Profit",
 			"wikiLink": "https://oldschool.runescape.wiki/w/Boss",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Abyssal_orphan_(follower).png/320px-Abyssal_orphan_(follower).png",
 			"displayItemId": 13262,
+			"tags": [ "boss-pet" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [
@@ -909,9 +1118,9 @@
 					24491, 30154, 27590, 26348, 29836, 21748, 20851, 11995, 12643, 12644, 12645,
 					12816, 12650, 12652, 12655, 12649, 12648, 12921, 12651, 12653, 13181, 28801,
 					21273, 23495, 13225, 27352, 13177, 13179, 21992, 28960, 30622, 28250, 28252,
-					28246, 28248, 30888, 23760, 23757, 31130, 31285, 33124, 12007, 12885, 12936,
-					13245, 13277, 19701, 21745, 22106, 23064, 23525, 24495, 25521, 25524, 29786,
-					32921
+					28246, 28248, 30888, 23760, 23757, 31130, 31285, 33124, 33642, 34042, 12007,
+					12885, 12936, 13245, 13277, 19701, 21745, 22106, 23064, 23525, 24495, 25521,
+					25524, 29786, 32921, 34030
 				],
 				"count": 9
 			}
@@ -919,10 +1128,12 @@
 		{
 			"id": "08116a92-9a78-4da8-8065-c2e4663ba72c",
 			"name": "Get 1 unique boss pet or jar",
-			"tip": "Step 1: Pick a boss Step2: ??? Step3: Profit",
+			"shortName": "Boss Pet/Jar",
+			"tip": "Step 1: Pick a boss Step 2: ??? Step 3: Profit",
 			"wikiLink": "https://oldschool.runescape.wiki/w/Boss",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Abyssal_orphan_(follower).png/320px-Abyssal_orphan_(follower).png",
 			"displayItemId": 13262,
+			"tags": [ "boss-pet" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [
@@ -930,9 +1141,9 @@
 					24491, 30154, 27590, 26348, 29836, 21748, 20851, 11995, 12643, 12644, 12645,
 					12816, 12650, 12652, 12655, 12649, 12648, 12921, 12651, 12653, 13181, 28801,
 					21273, 23495, 13225, 27352, 13177, 13179, 21992, 28960, 30622, 28250, 28252,
-					28246, 28248, 30888, 23760, 23757, 31130, 31285, 33124, 12007, 12885, 12936,
-					13245, 13277, 19701, 21745, 22106, 23064, 23525, 24495, 25521, 25524, 29786,
-					32921
+					28246, 28248, 30888, 23760, 23757, 31130, 31285, 33124, 33642, 34042, 12007,
+					12885, 12936, 13245, 13277, 19701, 21745, 22106, 23064, 23525, 24495, 25521,
+					25524, 29786, 32921, 34030
 				],
 				"count": 10
 			}
@@ -940,10 +1151,12 @@
 		{
 			"id": "06aa4c21-b621-40dc-b129-53981c930406",
 			"name": "Get 1 unique boss pet or jar",
-			"tip": "Step 1: Pick a boss Step2: ??? Step3: Profit",
+			"shortName": "Boss Pet/Jar",
+			"tip": "Step 1: Pick a boss Step 2: ??? Step 3: Profit",
 			"wikiLink": "https://oldschool.runescape.wiki/w/Boss",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Abyssal_orphan_(follower).png/320px-Abyssal_orphan_(follower).png",
 			"displayItemId": 13262,
+			"tags": [ "boss-pet" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [
@@ -951,9 +1164,9 @@
 					24491, 30154, 27590, 26348, 29836, 21748, 20851, 11995, 12643, 12644, 12645,
 					12816, 12650, 12652, 12655, 12649, 12648, 12921, 12651, 12653, 13181, 28801,
 					21273, 23495, 13225, 27352, 13177, 13179, 21992, 28960, 30622, 28250, 28252,
-					28246, 28248, 30888, 23760, 23757, 31130, 31285, 33124, 12007, 12885, 12936,
-					13245, 13277, 19701, 21745, 22106, 23064, 23525, 24495, 25521, 25524, 29786,
-					32921
+					28246, 28248, 30888, 23760, 23757, 31130, 31285, 33124, 33642, 34042, 12007,
+					12885, 12936, 13245, 13277, 19701, 21745, 22106, 23064, 23525, 24495, 25521,
+					25524, 29786, 32921, 34030
 				],
 				"count": 11
 			}
@@ -961,10 +1174,12 @@
 		{
 			"id": "c83024fa-3d6f-4c52-b5ff-960f3c55ba53",
 			"name": "Get 1 unique boss pet or jar",
-			"tip": "Step 1: Pick a boss Step2: ??? Step3: Profit",
+			"shortName": "Boss Pet/Jar",
+			"tip": "Step 1: Pick a boss Step 2: ??? Step 3: Profit",
 			"wikiLink": "https://oldschool.runescape.wiki/w/Boss",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Abyssal_orphan_(follower).png/320px-Abyssal_orphan_(follower).png",
 			"displayItemId": 13262,
+			"tags": [ "boss-pet" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [
@@ -972,9 +1187,9 @@
 					24491, 30154, 27590, 26348, 29836, 21748, 20851, 11995, 12643, 12644, 12645,
 					12816, 12650, 12652, 12655, 12649, 12648, 12921, 12651, 12653, 13181, 28801,
 					21273, 23495, 13225, 27352, 13177, 13179, 21992, 28960, 30622, 28250, 28252,
-					28246, 28248, 30888, 23760, 23757, 31130, 31285, 33124, 12007, 12885, 12936,
-					13245, 13277, 19701, 21745, 22106, 23064, 23525, 24495, 25521, 25524, 29786,
-					32921
+					28246, 28248, 30888, 23760, 23757, 31130, 31285, 33124, 33642, 34042, 12007,
+					12885, 12936, 13245, 13277, 19701, 21745, 22106, 23064, 23525, 24495, 25521,
+					25524, 29786, 32921, 34030
 				],
 				"count": 12
 			}
@@ -982,10 +1197,12 @@
 		{
 			"id": "5f562860-ba29-4309-91f0-aad62a6579e9",
 			"name": "Get 1 unique boss pet or jar",
-			"tip": "Step 1: Pick a boss Step2: ??? Step3: Profit",
+			"shortName": "Boss Pet/Jar",
+			"tip": "Step 1: Pick a boss Step 2: ??? Step 3: Profit",
 			"wikiLink": "https://oldschool.runescape.wiki/w/Boss",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Abyssal_orphan_(follower).png/320px-Abyssal_orphan_(follower).png",
 			"displayItemId": 13262,
+			"tags": [ "boss-pet" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [
@@ -993,9 +1210,9 @@
 					24491, 30154, 27590, 26348, 29836, 21748, 20851, 11995, 12643, 12644, 12645,
 					12816, 12650, 12652, 12655, 12649, 12648, 12921, 12651, 12653, 13181, 28801,
 					21273, 23495, 13225, 27352, 13177, 13179, 21992, 28960, 30622, 28250, 28252,
-					28246, 28248, 30888, 23760, 23757, 31130, 31285, 33124, 12007, 12885, 12936,
-					13245, 13277, 19701, 21745, 22106, 23064, 23525, 24495, 25521, 25524, 29786,
-					32921
+					28246, 28248, 30888, 23760, 23757, 31130, 31285, 33124, 33642, 34042, 12007,
+					12885, 12936, 13245, 13277, 19701, 21745, 22106, 23064, 23525, 24495, 25521,
+					25524, 29786, 32921, 34030
 				],
 				"count": 13
 			}
@@ -1003,10 +1220,12 @@
 		{
 			"id": "90c34898-f4ee-4c45-a251-b82bf920ab44",
 			"name": "Get 1 unique boss pet or jar",
-			"tip": "Step 1: Pick a boss Step2: ??? Step3: Profit",
+			"shortName": "Boss Pet/Jar",
+			"tip": "Step 1: Pick a boss Step 2: ??? Step 3: Profit",
 			"wikiLink": "https://oldschool.runescape.wiki/w/Boss",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Abyssal_orphan_(follower).png/320px-Abyssal_orphan_(follower).png",
 			"displayItemId": 13262,
+			"tags": [ "boss-pet" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [
@@ -1014,9 +1233,9 @@
 					24491, 30154, 27590, 26348, 29836, 21748, 20851, 11995, 12643, 12644, 12645,
 					12816, 12650, 12652, 12655, 12649, 12648, 12921, 12651, 12653, 13181, 28801,
 					21273, 23495, 13225, 27352, 13177, 13179, 21992, 28960, 30622, 28250, 28252,
-					28246, 28248, 30888, 23760, 23757, 31130, 31285, 33124, 12007, 12885, 12936,
-					13245, 13277, 19701, 21745, 22106, 23064, 23525, 24495, 25521, 25524, 29786,
-					32921
+					28246, 28248, 30888, 23760, 23757, 31130, 31285, 33124, 33642, 34042, 12007,
+					12885, 12936, 13245, 13277, 19701, 21745, 22106, 23064, 23525, 24495, 25521,
+					25524, 29786, 32921, 34030
 				],
 				"count": 14
 			}
@@ -1024,10 +1243,12 @@
 		{
 			"id": "e0c93265-ec01-4adc-8136-ac852b42d83f",
 			"name": "Get 1 unique boss pet or jar",
-			"tip": "Step 1: Pick a boss Step2: ??? Step3: Profit",
+			"shortName": "Boss Pet/Jar",
+			"tip": "Step 1: Pick a boss Step 2: ??? Step 3: Profit",
 			"wikiLink": "https://oldschool.runescape.wiki/w/Boss",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Abyssal_orphan_(follower).png/320px-Abyssal_orphan_(follower).png",
 			"displayItemId": 13262,
+			"tags": [ "boss-pet" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [
@@ -1035,9 +1256,9 @@
 					24491, 30154, 27590, 26348, 29836, 21748, 20851, 11995, 12643, 12644, 12645,
 					12816, 12650, 12652, 12655, 12649, 12648, 12921, 12651, 12653, 13181, 28801,
 					21273, 23495, 13225, 27352, 13177, 13179, 21992, 28960, 30622, 28250, 28252,
-					28246, 28248, 30888, 23760, 23757, 31130, 31285, 33124, 12007, 12885, 12936,
-					13245, 13277, 19701, 21745, 22106, 23064, 23525, 24495, 25521, 25524, 29786,
-					32921
+					28246, 28248, 30888, 23760, 23757, 31130, 31285, 33124, 33642, 34042, 12007,
+					12885, 12936, 13245, 13277, 19701, 21745, 22106, 23064, 23525, 24495, 25521,
+					25524, 29786, 32921, 34030
 				],
 				"count": 15
 			}
@@ -1045,10 +1266,12 @@
 		{
 			"id": "85ac04ba-c303-4517-a1bf-8f60a5130c43",
 			"name": "Get 1 unique boss pet or jar",
-			"tip": "Step 1: Pick a boss Step2: ??? Step3: Profit",
+			"shortName": "Boss Pet/Jar",
+			"tip": "Step 1: Pick a boss Step 2: ??? Step 3: Profit",
 			"wikiLink": "https://oldschool.runescape.wiki/w/Boss",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Abyssal_orphan_(follower).png/320px-Abyssal_orphan_(follower).png",
 			"displayItemId": 13262,
+			"tags": [ "boss-pet" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [
@@ -1056,9 +1279,9 @@
 					24491, 30154, 27590, 26348, 29836, 21748, 20851, 11995, 12643, 12644, 12645,
 					12816, 12650, 12652, 12655, 12649, 12648, 12921, 12651, 12653, 13181, 28801,
 					21273, 23495, 13225, 27352, 13177, 13179, 21992, 28960, 30622, 28250, 28252,
-					28246, 28248, 30888, 23760, 23757, 31130, 31285, 33124, 12007, 12885, 12936,
-					13245, 13277, 19701, 21745, 22106, 23064, 23525, 24495, 25521, 25524, 29786,
-					32921
+					28246, 28248, 30888, 23760, 23757, 31130, 31285, 33124, 33642, 34042, 12007,
+					12885, 12936, 13245, 13277, 19701, 21745, 22106, 23064, 23525, 24495, 25521,
+					25524, 29786, 32921, 34030
 				],
 				"count": 16
 			}
@@ -1066,10 +1289,12 @@
 		{
 			"id": "e24540ec-e88a-4c11-a66a-8da6c4cd3cb9",
 			"name": "Get 1 unique boss pet or jar",
-			"tip": "Step 1: Pick a boss Step2: ??? Step3: Profit",
+			"shortName": "Boss Pet/Jar",
+			"tip": "Step 1: Pick a boss Step 2: ??? Step 3: Profit",
 			"wikiLink": "https://oldschool.runescape.wiki/w/Boss",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Abyssal_orphan_(follower).png/320px-Abyssal_orphan_(follower).png",
 			"displayItemId": 13262,
+			"tags": [ "boss-pet" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [
@@ -1077,9 +1302,9 @@
 					24491, 30154, 27590, 26348, 29836, 21748, 20851, 11995, 12643, 12644, 12645,
 					12816, 12650, 12652, 12655, 12649, 12648, 12921, 12651, 12653, 13181, 28801,
 					21273, 23495, 13225, 27352, 13177, 13179, 21992, 28960, 30622, 28250, 28252,
-					28246, 28248, 30888, 23760, 23757, 31130, 31285, 33124, 12007, 12885, 12936,
-					13245, 13277, 19701, 21745, 22106, 23064, 23525, 24495, 25521, 25524, 29786,
-					32921
+					28246, 28248, 30888, 23760, 23757, 31130, 31285, 33124, 33642, 34042, 12007,
+					12885, 12936, 13245, 13277, 19701, 21745, 22106, 23064, 23525, 24495, 25521,
+					25524, 29786, 32921, 34030
 				],
 				"count": 17
 			}
@@ -1087,10 +1312,12 @@
 		{
 			"id": "913412f7-cd83-45d8-bd4a-f8d7ce38e83c",
 			"name": "Get 1 unique boss pet or jar",
-			"tip": "Step 1: Pick a boss Step2: ??? Step3: Profit",
+			"shortName": "Boss Pet/Jar",
+			"tip": "Step 1: Pick a boss Step 2: ??? Step 3: Profit",
 			"wikiLink": "https://oldschool.runescape.wiki/w/Boss",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Abyssal_orphan_(follower).png/320px-Abyssal_orphan_(follower).png",
 			"displayItemId": 13262,
+			"tags": [ "boss-pet" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [
@@ -1098,9 +1325,9 @@
 					24491, 30154, 27590, 26348, 29836, 21748, 20851, 11995, 12643, 12644, 12645,
 					12816, 12650, 12652, 12655, 12649, 12648, 12921, 12651, 12653, 13181, 28801,
 					21273, 23495, 13225, 27352, 13177, 13179, 21992, 28960, 30622, 28250, 28252,
-					28246, 28248, 30888, 23760, 23757, 31130, 31285, 33124, 12007, 12885, 12936,
-					13245, 13277, 19701, 21745, 22106, 23064, 23525, 24495, 25521, 25524, 29786,
-					32921
+					28246, 28248, 30888, 23760, 23757, 31130, 31285, 33124, 33642, 34042, 12007,
+					12885, 12936, 13245, 13277, 19701, 21745, 22106, 23064, 23525, 24495, 25521,
+					25524, 29786, 32921, 34030
 				],
 				"count": 18
 			}
@@ -1108,10 +1335,12 @@
 		{
 			"id": "770de146-aeae-485b-849a-4e2a572cfcc1",
 			"name": "Get 1 unique boss pet or jar",
-			"tip": "Step 1: Pick a boss Step2: ??? Step3: Profit",
+			"shortName": "Boss Pet/Jar",
+			"tip": "Step 1: Pick a boss Step 2: ??? Step 3: Profit",
 			"wikiLink": "https://oldschool.runescape.wiki/w/Boss",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Abyssal_orphan_(follower).png/320px-Abyssal_orphan_(follower).png",
 			"displayItemId": 13262,
+			"tags": [ "boss-pet" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [
@@ -1119,9 +1348,9 @@
 					24491, 30154, 27590, 26348, 29836, 21748, 20851, 11995, 12643, 12644, 12645,
 					12816, 12650, 12652, 12655, 12649, 12648, 12921, 12651, 12653, 13181, 28801,
 					21273, 23495, 13225, 27352, 13177, 13179, 21992, 28960, 30622, 28250, 28252,
-					28246, 28248, 30888, 23760, 23757, 31130, 31285, 33124, 12007, 12885, 12936,
-					13245, 13277, 19701, 21745, 22106, 23064, 23525, 24495, 25521, 25524, 29786,
-					32921
+					28246, 28248, 30888, 23760, 23757, 31130, 31285, 33124, 33642, 34042, 12007,
+					12885, 12936, 13245, 13277, 19701, 21745, 22106, 23064, 23525, 24495, 25521,
+					25524, 29786, 32921, 34030
 				],
 				"count": 19
 			}
@@ -1129,10 +1358,12 @@
 		{
 			"id": "ca5875fa-b009-4403-8471-022b4373d23a",
 			"name": "Get 1 unique boss pet or jar",
-			"tip": "Step 1: Pick a boss Step2: ??? Step3: Profit",
+			"shortName": "Boss Pet/Jar",
+			"tip": "Step 1: Pick a boss Step 2: ??? Step 3: Profit",
 			"wikiLink": "https://oldschool.runescape.wiki/w/Boss",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Abyssal_orphan_(follower).png/320px-Abyssal_orphan_(follower).png",
 			"displayItemId": 13262,
+			"tags": [ "boss-pet" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [
@@ -1140,9 +1371,9 @@
 					24491, 30154, 27590, 26348, 29836, 21748, 20851, 11995, 12643, 12644, 12645,
 					12816, 12650, 12652, 12655, 12649, 12648, 12921, 12651, 12653, 13181, 28801,
 					21273, 23495, 13225, 27352, 13177, 13179, 21992, 28960, 30622, 28250, 28252,
-					28246, 28248, 30888, 23760, 23757, 31130, 31285, 33124, 12007, 12885, 12936,
-					13245, 13277, 19701, 21745, 22106, 23064, 23525, 24495, 25521, 25524, 29786,
-					32921
+					28246, 28248, 30888, 23760, 23757, 31130, 31285, 33124, 33642, 34042, 12007,
+					12885, 12936, 13245, 13277, 19701, 21745, 22106, 23064, 23525, 24495, 25521,
+					25524, 29786, 32921, 34030
 				],
 				"count": 20
 			}
@@ -1150,10 +1381,12 @@
 		{
 			"id": "1ae47de5-f512-435f-b03c-8f6e332d7caf",
 			"name": "Get 1 unique boss pet or jar",
-			"tip": "Step 1: Pick a boss Step2: ??? Step3: Profit",
+			"shortName": "Boss Pet/Jar",
+			"tip": "Step 1: Pick a boss Step 2: ??? Step 3: Profit",
 			"wikiLink": "https://oldschool.runescape.wiki/w/Boss",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Abyssal_orphan_(follower).png/320px-Abyssal_orphan_(follower).png",
 			"displayItemId": 13262,
+			"tags": [ "boss-pet" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [
@@ -1161,9 +1394,9 @@
 					24491, 30154, 27590, 26348, 29836, 21748, 20851, 11995, 12643, 12644, 12645,
 					12816, 12650, 12652, 12655, 12649, 12648, 12921, 12651, 12653, 13181, 28801,
 					21273, 23495, 13225, 27352, 13177, 13179, 21992, 28960, 30622, 28250, 28252,
-					28246, 28248, 30888, 23760, 23757, 31130, 31285, 33124, 12007, 12885, 12936,
-					13245, 13277, 19701, 21745, 22106, 23064, 23525, 24495, 25521, 25524, 29786,
-					32921
+					28246, 28248, 30888, 23760, 23757, 31130, 31285, 33124, 33642, 34042, 12007,
+					12885, 12936, 13245, 13277, 19701, 21745, 22106, 23064, 23525, 24495, 25521,
+					25524, 29786, 32921, 34030
 				],
 				"count": 21
 			}
@@ -1171,10 +1404,12 @@
 		{
 			"id": "e2da87b4-57ff-482b-b76a-1e79b3b181fe",
 			"name": "Get 1 unique boss pet or jar",
-			"tip": "Step 1: Pick a boss Step2: ??? Step3: Profit",
+			"shortName": "Boss Pet/Jar",
+			"tip": "Step 1: Pick a boss Step 2: ??? Step 3: Profit",
 			"wikiLink": "https://oldschool.runescape.wiki/w/Boss",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Abyssal_orphan_(follower).png/320px-Abyssal_orphan_(follower).png",
 			"displayItemId": 13262,
+			"tags": [ "boss-pet" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [
@@ -1182,9 +1417,9 @@
 					24491, 30154, 27590, 26348, 29836, 21748, 20851, 11995, 12643, 12644, 12645,
 					12816, 12650, 12652, 12655, 12649, 12648, 12921, 12651, 12653, 13181, 28801,
 					21273, 23495, 13225, 27352, 13177, 13179, 21992, 28960, 30622, 28250, 28252,
-					28246, 28248, 30888, 23760, 23757, 31130, 31285, 33124, 12007, 12885, 12936,
-					13245, 13277, 19701, 21745, 22106, 23064, 23525, 24495, 25521, 25524, 29786,
-					32921
+					28246, 28248, 30888, 23760, 23757, 31130, 31285, 33124, 33642, 34042, 12007,
+					12885, 12936, 13245, 13277, 19701, 21745, 22106, 23064, 23525, 24495, 25521,
+					25524, 29786, 32921, 34030
 				],
 				"count": 22
 			}
@@ -1192,10 +1427,12 @@
 		{
 			"id": "aab9857a-c604-48ad-bd4d-368258c342cb",
 			"name": "Get 1 unique boss pet or jar",
-			"tip": "Step 1: Pick a boss Step2: ??? Step3: Profit",
+			"shortName": "Boss Pet/Jar",
+			"tip": "Step 1: Pick a boss Step 2: ??? Step 3: Profit",
 			"wikiLink": "https://oldschool.runescape.wiki/w/Boss",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Abyssal_orphan_(follower).png/320px-Abyssal_orphan_(follower).png",
 			"displayItemId": 13262,
+			"tags": [ "boss-pet" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [
@@ -1203,9 +1440,9 @@
 					24491, 30154, 27590, 26348, 29836, 21748, 20851, 11995, 12643, 12644, 12645,
 					12816, 12650, 12652, 12655, 12649, 12648, 12921, 12651, 12653, 13181, 28801,
 					21273, 23495, 13225, 27352, 13177, 13179, 21992, 28960, 30622, 28250, 28252,
-					28246, 28248, 30888, 23760, 23757, 31130, 31285, 33124, 12007, 12885, 12936,
-					13245, 13277, 19701, 21745, 22106, 23064, 23525, 24495, 25521, 25524, 29786,
-					32921
+					28246, 28248, 30888, 23760, 23757, 31130, 31285, 33124, 33642, 34042, 12007,
+					12885, 12936, 13245, 13277, 19701, 21745, 22106, 23064, 23525, 24495, 25521,
+					25524, 29786, 32921, 34030
 				],
 				"count": 23
 			}
@@ -1213,10 +1450,12 @@
 		{
 			"id": "c927f9b9-1ce1-4ddb-8bec-77f7f672a79e",
 			"name": "Get 1 unique boss pet or jar",
-			"tip": "Step 1: Pick a boss Step2: ??? Step3: Profit",
+			"shortName": "Boss Pet/Jar",
+			"tip": "Step 1: Pick a boss Step 2: ??? Step 3: Profit",
 			"wikiLink": "https://oldschool.runescape.wiki/w/Boss",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Abyssal_orphan_(follower).png/320px-Abyssal_orphan_(follower).png",
 			"displayItemId": 13262,
+			"tags": [ "boss-pet" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [
@@ -1224,9 +1463,9 @@
 					24491, 30154, 27590, 26348, 29836, 21748, 20851, 11995, 12643, 12644, 12645,
 					12816, 12650, 12652, 12655, 12649, 12648, 12921, 12651, 12653, 13181, 28801,
 					21273, 23495, 13225, 27352, 13177, 13179, 21992, 28960, 30622, 28250, 28252,
-					28246, 28248, 30888, 23760, 23757, 31130, 31285, 33124, 12007, 12885, 12936,
-					13245, 13277, 19701, 21745, 22106, 23064, 23525, 24495, 25521, 25524, 29786,
-					32921
+					28246, 28248, 30888, 23760, 23757, 31130, 31285, 33124, 33642, 34042, 12007,
+					12885, 12936, 13245, 13277, 19701, 21745, 22106, 23064, 23525, 24495, 25521,
+					25524, 29786, 32921, 34030
 				],
 				"count": 24
 			}
@@ -1234,10 +1473,12 @@
 		{
 			"id": "57b7e2b1-e7bf-455d-80dd-ac8194a88b84",
 			"name": "Get 1 unique boss pet or jar",
-			"tip": "Step 1: Pick a boss Step2: ??? Step3: Profit",
+			"shortName": "Boss Pet/Jar",
+			"tip": "Step 1: Pick a boss Step 2: ??? Step 3: Profit",
 			"wikiLink": "https://oldschool.runescape.wiki/w/Boss",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Abyssal_orphan_(follower).png/320px-Abyssal_orphan_(follower).png",
 			"displayItemId": 13262,
+			"tags": [ "boss-pet" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [
@@ -1245,9 +1486,9 @@
 					24491, 30154, 27590, 26348, 29836, 21748, 20851, 11995, 12643, 12644, 12645,
 					12816, 12650, 12652, 12655, 12649, 12648, 12921, 12651, 12653, 13181, 28801,
 					21273, 23495, 13225, 27352, 13177, 13179, 21992, 28960, 30622, 28250, 28252,
-					28246, 28248, 30888, 23760, 23757, 31130, 31285, 33124, 12007, 12885, 12936,
-					13245, 13277, 19701, 21745, 22106, 23064, 23525, 24495, 25521, 25524, 29786,
-					32921
+					28246, 28248, 30888, 23760, 23757, 31130, 31285, 33124, 33642, 34042, 12007,
+					12885, 12936, 13245, 13277, 19701, 21745, 22106, 23064, 23525, 24495, 25521,
+					25524, 29786, 32921, 34030
 				],
 				"count": 25
 			}
@@ -1255,10 +1496,12 @@
 		{
 			"id": "7d471d10-571f-49ee-b8ce-75dcfa6d4b32",
 			"name": "Get 1 unique boss pet or jar",
-			"tip": "Step 1: Pick a boss Step2: ??? Step3: Profit",
+			"shortName": "Boss Pet/Jar",
+			"tip": "Step 1: Pick a boss Step 2: ??? Step 3: Profit",
 			"wikiLink": "https://oldschool.runescape.wiki/w/Boss",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Abyssal_orphan_(follower).png/320px-Abyssal_orphan_(follower).png",
 			"displayItemId": 13262,
+			"tags": [ "boss-pet" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [
@@ -1266,9 +1509,9 @@
 					24491, 30154, 27590, 26348, 29836, 21748, 20851, 11995, 12643, 12644, 12645,
 					12816, 12650, 12652, 12655, 12649, 12648, 12921, 12651, 12653, 13181, 28801,
 					21273, 23495, 13225, 27352, 13177, 13179, 21992, 28960, 30622, 28250, 28252,
-					28246, 28248, 30888, 23760, 23757, 31130, 31285, 33124, 12007, 12885, 12936,
-					13245, 13277, 19701, 21745, 22106, 23064, 23525, 24495, 25521, 25524, 29786,
-					32921
+					28246, 28248, 30888, 23760, 23757, 31130, 31285, 33124, 33642, 34042, 12007,
+					12885, 12936, 13245, 13277, 19701, 21745, 22106, 23064, 23525, 24495, 25521,
+					25524, 29786, 32921, 34030
 				],
 				"count": 26
 			}
@@ -1276,10 +1519,12 @@
 		{
 			"id": "9ed94172-e43f-47d6-86e4-95320f51caed",
 			"name": "Get 1 unique boss pet or jar",
-			"tip": "Step 1: Pick a boss Step2: ??? Step3: Profit",
+			"shortName": "Boss Pet/Jar",
+			"tip": "Step 1: Pick a boss Step 2: ??? Step 3: Profit",
 			"wikiLink": "https://oldschool.runescape.wiki/w/Boss",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Abyssal_orphan_(follower).png/320px-Abyssal_orphan_(follower).png",
 			"displayItemId": 13262,
+			"tags": [ "boss-pet" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [
@@ -1287,303 +1532,324 @@
 					24491, 30154, 27590, 26348, 29836, 21748, 20851, 11995, 12643, 12644, 12645,
 					12816, 12650, 12652, 12655, 12649, 12648, 12921, 12651, 12653, 13181, 28801,
 					21273, 23495, 13225, 27352, 13177, 13179, 21992, 28960, 30622, 28250, 28252,
-					28246, 28248, 30888, 23760, 23757, 31130, 31285, 33124, 12007, 12885, 12936,
-					13245, 13277, 19701, 21745, 22106, 23064, 23525, 24495, 25521, 25524, 29786,
-					32921
+					28246, 28248, 30888, 23760, 23757, 31130, 31285, 33124, 33642, 34042, 12007,
+					12885, 12936, 13245, 13277, 19701, 21745, 22106, 23064, 23525, 24495, 25521,
+					25524, 29786, 32921, 34030
 				],
 				"count": 27
 			}
 		},
 		{
-			"id": "ffe50de3-524d-4a7d-a502-1dd0dc77d9c6",
-			"name": "Get 1 unique boss pet or jar",
-			"tip": "Step 1: Pick a boss Step2: ??? Step3: Profit",
-			"wikiLink": "https://oldschool.runescape.wiki/w/Boss",
-			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Abyssal_orphan_(follower).png/320px-Abyssal_orphan_(follower).png",
-			"displayItemId": 13262,
-			"verification": {
-				"method": "collection-log",
-				"itemIds": [
-					13262, 12646, 20693, 25602, 13178, 13247, 30152, 22746, 21291, 12647, 22473,
-					24491, 30154, 27590, 26348, 29836, 21748, 20851, 11995, 12643, 12644, 12645,
-					12816, 12650, 12652, 12655, 12649, 12648, 12921, 12651, 12653, 13181, 28801,
-					21273, 23495, 13225, 27352, 13177, 13179, 21992, 28960, 30622, 28250, 28252,
-					28246, 28248, 30888, 23760, 23757, 31130, 31285, 33124, 12007, 12885, 12936,
-					13245, 13277, 19701, 21745, 22106, 23064, 23525, 24495, 25521, 25524, 29786,
-					32921
-				],
-				"count": 28
-			}
-		},
-		{
 			"id": "6dd61903-e6c1-4858-beb7-a5bf170f1d4c",
-			"name": "Get 1 unique skilling pet",
-			"tip": "Step1: Pick a Skill Step2: ??? Step3: Profit",
+			"name": "Get 1 unique non-boss pet.",
+			"shortName": "Non-boss pet",
+			"tip": "Pick a skill, a minigame, or a pet-giving hunter activity, and go to town!",
 			"wikiLink": "https://oldschool.runescape.wiki/w/Pet#Skilling_pets",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Rocky_(follower).png/320px-Rocky_(follower).png",
 			"displayItemId": 20663,
+			"tags": [ "skilling-pet" ],
 			"verification": {
 				"method": "collection-log",
-				"itemIds": [ 13320, 13321, 13322, 13324, 20659, 20661, 20663, 20665, 31283 ],
+				"itemIds": [
+					13320, 13321, 13322, 13324, 20659, 20661, 20663, 20665, 31283, 12703, 21509,
+					25348, 26901, 28962, 34040
+				],
 				"count": 1
 			}
 		},
 		{
 			"id": "856d125d-f008-4a7e-a247-0a0bd1df9f6e",
-			"name": "Get 1 unique skilling pet",
-			"tip": "Step1: Pick a Skill Step2: ??? Step3: Profit",
+			"name": "Get 1 unique non-boss pet.",
+			"shortName": "Non-boss pet",
+			"tip": "Pick a skill, a minigame, or a pet-giving hunter activity, and go to town!",
 			"wikiLink": "https://oldschool.runescape.wiki/w/Pet#Skilling_pets",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Rocky_(follower).png/320px-Rocky_(follower).png",
 			"displayItemId": 20663,
+			"tags": [ "skilling-pet" ],
 			"verification": {
 				"method": "collection-log",
-				"itemIds": [ 13320, 13321, 13322, 13324, 20659, 20661, 20663, 20665, 31283 ],
+				"itemIds": [
+					13320, 13321, 13322, 13324, 20659, 20661, 20663, 20665, 31283, 12703, 21509,
+					25348, 26901, 28962, 34040
+				],
 				"count": 2
 			}
 		},
 		{
 			"id": "abdde0f6-9bbc-4e64-9a7d-c608e360fb0e",
-			"name": "Get 1 unique skilling pet",
-			"tip": "Step1: Pick a Skill Step2: ??? Step3: Profit",
+			"name": "Get 1 unique non-boss pet.",
+			"shortName": "Non-boss pet",
+			"tip": "Pick a skill, a minigame, or a pet-giving hunter activity, and go to town!",
 			"wikiLink": "https://oldschool.runescape.wiki/w/Pet#Skilling_pets",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Rocky_(follower).png/320px-Rocky_(follower).png",
 			"displayItemId": 20663,
+			"tags": [ "skilling-pet" ],
 			"verification": {
 				"method": "collection-log",
-				"itemIds": [ 13320, 13321, 13322, 13324, 20659, 20661, 20663, 20665, 31283 ],
+				"itemIds": [
+					13320, 13321, 13322, 13324, 20659, 20661, 20663, 20665, 31283, 12703, 21509,
+					25348, 26901, 28962, 34040
+				],
 				"count": 3
 			}
 		},
 		{
 			"id": "86c3fd33-3503-4da3-b9e4-bec35f2fe77f",
-			"name": "Get 1 unique skilling pet",
-			"tip": "Step1: Pick a Skill Step2: ??? Step3: Profit",
+			"name": "Get 1 unique non-boss pet.",
+			"shortName": "Non-boss pet",
+			"tip": "Pick a skill, a minigame, or a pet-giving hunter activity, and go to town!",
 			"wikiLink": "https://oldschool.runescape.wiki/w/Pet#Skilling_pets",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Rocky_(follower).png/320px-Rocky_(follower).png",
 			"displayItemId": 20663,
-			"verification": {
-				"method": "collection-log",
-				"itemIds": [ 13320, 13321, 13322, 13324, 20659, 20661, 20663, 20665, 31283 ],
-				"count": 4
-			}
-		},
-		{
-			"id": "9e7e6c80-c96a-413f-8b0c-c78065a750c4",
-			"name": "Get 1 wildy unique",
-			"tip": "Share I tb'ed",
-			"wikiLink": "https://oldschool.runescape.wiki/w/Wilderness",
-			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Craw's_bow_(u)_detail.png/320px-Craw's_bow_(u)_detail.png",
-			"displayItemId": 22547
-		},
-		{
-			"id": "1bf77f45-a768-4bf0-8b93-c83b4d7d870a",
-			"name": "Get 1 wildy unique",
-			"tip": "Share I tb'ed",
-			"wikiLink": "https://oldschool.runescape.wiki/w/Wilderness",
-			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Craw's_bow_(u)_detail.png/320px-Craw's_bow_(u)_detail.png",
-			"displayItemId": 22547
-		},
-		{
-			"id": "0b5f317d-21f5-4344-8827-d5cb3cb24414",
-			"name": "Get 1 wildy unique",
-			"tip": "Share I tb'ed",
-			"wikiLink": "https://oldschool.runescape.wiki/w/Wilderness",
-			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Craw's_bow_(u)_detail.png/320px-Craw's_bow_(u)_detail.png",
-			"displayItemId": 22547
-		},
-		{
-			"id": "e8b13408-f2b1-46b5-a41c-b20a9458396a",
-			"name": "Get 1 wildy unique",
-			"tip": "Share I tb'ed",
-			"wikiLink": "https://oldschool.runescape.wiki/w/Wilderness",
-			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Craw's_bow_(u)_detail.png/320px-Craw's_bow_(u)_detail.png",
-			"displayItemId": 22547
-		},
-		{
-			"id": "143d3f92-9257-4622-ace6-39654d350a26",
-			"name": "Get 1 wildy unique",
-			"tip": "Share I tb'ed",
-			"wikiLink": "https://oldschool.runescape.wiki/w/Wilderness",
-			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Craw's_bow_(u)_detail.png/320px-Craw's_bow_(u)_detail.png",
-			"displayItemId": 22547
-		},
-		{
-			"id": "d77377d6-2edb-4ca4-b201-e2094db9b3a1",
-			"name": "Get 1 slayer log slot",
-			"tip": "Good Luck on Imbued Heart!",
-			"wikiLink": "https://oldschool.runescape.wiki/w/Collection_log#Slayer",
-			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Imbued_heart_detail.png/320px-Imbued_heart_detail.png",
-			"displayItemId": 20724,
+			"tags": [ "skilling-pet" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [
-					20724, 21270, 23047, 23050, 23053, 23056, 23059, 22963, 11286, 21637
-				],
-				"count": 1
-			}
-		},
-		{
-			"id": "4f45620b-6307-442b-b573-ab3f52748c83",
-			"name": "Get 1 slayer log slot",
-			"tip": "Good Luck on Imbued Heart!",
-			"wikiLink": "https://oldschool.runescape.wiki/w/Collection_log#Slayer",
-			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Imbued_heart_detail.png/320px-Imbued_heart_detail.png",
-			"displayItemId": 20724,
-			"verification": {
-				"method": "collection-log",
-				"itemIds": [
-					20724, 21270, 23047, 23050, 23053, 23056, 23059, 22963, 11286, 21637
-				],
-				"count": 2
-			}
-		},
-		{
-			"id": "ce335909-da99-4075-ab4f-2b3be4f2e37a",
-			"name": "Get 1 slayer log slot",
-			"tip": "Good Luck on Imbued Heart!",
-			"wikiLink": "https://oldschool.runescape.wiki/w/Collection_log#Slayer",
-			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Imbued_heart_detail.png/320px-Imbued_heart_detail.png",
-			"displayItemId": 20724,
-			"verification": {
-				"method": "collection-log",
-				"itemIds": [
-					20724, 21270, 23047, 23050, 23053, 23056, 23059, 22963, 11286, 21637
-				],
-				"count": 3
-			}
-		},
-		{
-			"id": "1dfb4f79-ed56-4ba3-88d3-bbe56b92e822",
-			"name": "Get 1 slayer log slot",
-			"tip": "Good Luck on Imbued Heart!",
-			"wikiLink": "https://oldschool.runescape.wiki/w/Collection_log#Slayer",
-			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Imbued_heart_detail.png/320px-Imbued_heart_detail.png",
-			"displayItemId": 20724,
-			"verification": {
-				"method": "collection-log",
-				"itemIds": [
-					20724, 21270, 23047, 23050, 23053, 23056, 23059, 22963, 11286, 21637
+					13320, 13321, 13322, 13324, 20659, 20661, 20663, 20665, 31283, 12703, 21509,
+					25348, 26901, 28962, 34040
 				],
 				"count": 4
 			}
 		},
 		{
-			"id": "57fa8a7f-1065-4375-8ae7-1ecbae1187ad",
-			"name": "Get 1 slayer log slot",
-			"tip": "Good Luck on Imbued Heart!",
-			"wikiLink": "https://oldschool.runescape.wiki/w/Collection_log#Slayer",
-			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Imbued_heart_detail.png/320px-Imbued_heart_detail.png",
-			"displayItemId": 20724,
+			"id": "1d3bc383-a1f2-450d-87f8-ef1bcbaf8099",
+			"name": "Get 1 unique non-boss pet.",
+			"shortName": "Non-boss pet",
+			"tip": "Pick a skill, a minigame, or a pet-giving hunter activity, and go to town!",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Pet#Skilling_pets",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Rocky_(follower).png/320px-Rocky_(follower).png",
+			"displayItemId": 20663,
+			"tags": [ "skilling-pet" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [
-					20724, 21270, 23047, 23050, 23053, 23056, 23059, 22963, 11286, 21637
+					13320, 13321, 13322, 13324, 20659, 20661, 20663, 20665, 31283, 12703, 21509,
+					25348, 26901, 28962, 34040
 				],
 				"count": 5
 			}
 		},
 		{
-			"id": "f2ea24c2-547f-4d95-a05b-ead9b7c9a0e0",
-			"name": "Get 1 slayer log slot",
-			"tip": "Good Luck on Imbued Heart!",
-			"wikiLink": "https://oldschool.runescape.wiki/w/Collection_log#Slayer",
-			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Imbued_heart_detail.png/320px-Imbued_heart_detail.png",
-			"displayItemId": 20724,
+			"id": "7f8394fa-902f-493d-84bc-eab27426694f",
+			"name": "Get 1 unique non-boss pet.",
+			"shortName": "Non-boss pet",
+			"tip": "Pick a skill, a minigame, or a pet-giving hunter activity, and go to town!",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Pet#Skilling_pets",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Rocky_(follower).png/320px-Rocky_(follower).png",
+			"displayItemId": 20663,
+			"tags": [ "skilling-pet" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [
-					20724, 21270, 23047, 23050, 23053, 23056, 23059, 22963, 11286, 21637
+					13320, 13321, 13322, 13324, 20659, 20661, 20663, 20665, 31283, 12703, 21509,
+					25348, 26901, 28962, 34040
 				],
 				"count": 6
 			}
 		},
 		{
-			"id": "dca0e9f0-c7eb-4d32-a4d4-e1568e51da06",
-			"name": "Get 1 miscellaneous log slot",
-			"tip": "May the bird gods bless you with evil chicken pieces",
-			"wikiLink": "https://oldschool.runescape.wiki/w/Collection_log#Miscellaneous",
-			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Dragon_full_helm_detail.png/320px-Dragon_full_helm_detail.png",
-			"displayItemId": 11335,
+			"id": "5fe4a407-3560-470b-bbb7-fc54e78e06f0",
+			"name": "Get 1 unique non-boss pet.",
+			"shortName": "Non-boss pet",
+			"tip": "Pick a skill, a minigame, or a pet-giving hunter activity, and go to town!",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Pet#Skilling_pets",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Rocky_(follower).png/320px-Rocky_(follower).png",
+			"displayItemId": 20663,
+			"tags": [ "skilling-pet" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [
-					21509, 19707, 11335, 22103, 22100, 20439, 20436, 20442, 20433, 24034, 24037,
-					24040, 24043, 24046
+					13320, 13321, 13322, 13324, 20659, 20661, 20663, 20665, 31283, 12703, 21509,
+					25348, 26901, 28962, 34040
 				],
+				"count": 7
+			}
+		},
+		{
+			"id": "9e7e6c80-c96a-413f-8b0c-c78065a750c4",
+			"name": "Get 1 unique from the Wildy bosses",
+			"shortName": "Wildy Bosses",
+			"tip": "Wildy boss uniques are: Dragon 2H, Dragon pickaxe, 3 voidwaker pieces, 3 rev weapon upgrades, 3 rings",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Wilderness#bosses",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Skull_of_Vet'ion_detail.png/320px-Skull_of_Vet'ion_detail.png",
+			"displayItemId": 27673,
+			"tags": [ "boss-unique" ],
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [
+					 7158, 11920, 12601, 12603, 12605, 27667, 27670, 27673, 27681, 27684, 27687
+				],
+				"count": 10
+			}
+		},
+		{
+			"id": "1bf77f45-a768-4bf0-8b93-c83b4d7d870a",
+			"name": "Get 1 unique from the Wildy bosses",
+			"shortName": "Wildy Bosses",
+			"tip": "Wildy boss uniques are: Dragon 2H, Dragon pickaxe, 3 voidwaker pieces, 3 rev weapon upgrades, 3 rings",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Wilderness#bosses",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Skull_of_Vet'ion_detail.png/320px-Skull_of_Vet'ion_detail.png",
+			"displayItemId": 27673,
+			"tags": [ "boss-unique" ],
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [
+					 7158, 11920, 12601, 12603, 12605, 27667, 27670, 27673, 27681, 27684, 27687
+				],
+				"count": 11
+			}
+		},
+		{
+			"id": "0b5f317d-21f5-4344-8827-d5cb3cb24414",
+			"name": "Get 1 unique from Revenants",
+			"shortName": "Revs Unique",
+			"tip": "Can be received as a drop from any Revenant.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Revenants",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Ancient_relic_detail.png/320px-Ancient_relic_detail.png",
+			"displayItemId": 22305,
+			"tags": [ "misc" ],
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [
+					21804, 21807, 21810, 21813, 22299, 22302, 22305, 22542, 22547, 22552, 22557
+				],
+				"count": 8
+			}
+		},
+		{
+			"id": "e8b13408-f2b1-46b5-a41c-b20a9458396a",
+			"name": "Get 1 unique from Revenants",
+			"shortName": "Revs Unique",
+			"tip": "Can be received as a drop from any Revenant.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Revenants",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Ancient_relic_detail.png/320px-Ancient_relic_detail.png",
+			"displayItemId": 22305,
+			"tags": [ "misc" ],
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [
+					21804, 21807, 21810, 21813, 22299, 22302, 22305, 22542, 22547, 22552, 22557
+				],
+				"count": 9
+			}
+		},
+		{
+			"id": "143d3f92-9257-4622-ace6-39654d350a26",
+			"name": "Get 1 unique from Revenants",
+			"shortName": "Revs Unique",
+			"tip": "Can be received as a drop from any Revenant.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Revenants",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Ancient_relic_detail.png/320px-Ancient_relic_detail.png",
+			"displayItemId": 22305,
+			"tags": [ "misc" ],
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [
+					21804, 21807, 21810, 21813, 22299, 22302, 22305, 22542, 22547, 22552, 22557
+				],
+				"count": 10
+			}
+		},
+		{
+			"id": "a8b85705-e852-4696-820b-bfedc659e8d4",
+			"name": "Get 1 unique from Revenants",
+			"shortName": "Revs Unique",
+			"tip": "Can be received as a drop from any Revenant.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Revenants",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Ancient_relic_detail.png/320px-Ancient_relic_detail.png",
+			"displayItemId": 22305,
+			"tags": [ "misc" ],
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [
+					21804, 21807, 21810, 21813, 22299, 22302, 22305, 22542, 22547, 22552, 22557
+				],
+				"count": 11
+			}
+		},
+		{
+			"id": "d77377d6-2edb-4ca4-b201-e2094db9b3a1",
+			"name": "Get 1 unique from Superior slayer monsters.",
+			"shortName": "Superior Drop",
+			"tip": "Good Luck on Imbued Heart!",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Collection_log#Slayer",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Imbued_heart_detail.png/320px-Imbued_heart_detail.png",
+			"displayItemId": 20724,
+			"tags": [ "misc" ],
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 20724, 21270 ],
+				"count": 1
+			}
+		},
+		{
+			"id": "4f45620b-6307-442b-b573-ab3f52748c83",
+			"name": "Get 1 unique from Superior slayer monsters.",
+			"shortName": "Superior Drop",
+			"tip": "Good Luck on Imbued Heart!",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Collection_log#Slayer",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Imbued_heart_detail.png/320px-Imbued_heart_detail.png",
+			"displayItemId": 20724,
+			"tags": [ "misc" ],
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 20724, 21270 ],
+				"count": 2
+			}
+		},
+		{
+			"id": "dca0e9f0-c7eb-4d32-a4d4-e1568e51da06",
+			"name": "Get 1 unique from metal dragons",
+			"shortName": "Metal Dragons",
+			"tip": "One rare drop from each of mithril, adamant and rune dragons.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Collection_log#Miscellaneous",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Dragon_full_helm_detail.png/320px-Dragon_full_helm_detail.png",
+			"displayItemId": 11335,
+			"tags": [ "misc" ],
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 11335, 22103, 22100 ],
 				"count": 1
 			}
 		},
 		{
 			"id": "b8f55499-8c32-4b15-9a70-c80cefb297c1",
-			"name": "Get 1 miscellaneous log slot",
-			"tip": "May the bird gods bless you with evil chicken pieces",
+			"name": "Get 1 unique from metal dragons",
+			"shortName": "Metal Dragons",
+			"tip": "One rare drop from each of mithril, adamant and rune dragons.",
 			"wikiLink": "https://oldschool.runescape.wiki/w/Collection_log#Miscellaneous",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Dragon_full_helm_detail.png/320px-Dragon_full_helm_detail.png",
 			"displayItemId": 11335,
+			"tags": [ "misc" ],
 			"verification": {
 				"method": "collection-log",
-				"itemIds": [
-					21509, 19707, 11335, 22103, 22100, 20439, 20436, 20442, 20433, 24034, 24037,
-					24040, 24043, 24046
-				],
+				"itemIds": [ 11335, 22103, 22100 ],
 				"count": 2
 			}
 		},
 		{
 			"id": "a1b4d9cc-8e86-45fe-af4b-61d844a5b078",
-			"name": "Get 1 miscellaneous log slot",
-			"tip": "May the bird gods bless you with evil chicken pieces",
+			"name": "Get 1 unique from metal dragons",
+			"shortName": "Metal Dragons",
+			"tip": "One rare drop from each of mithril, adamant and rune dragons.",
 			"wikiLink": "https://oldschool.runescape.wiki/w/Collection_log#Miscellaneous",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Dragon_full_helm_detail.png/320px-Dragon_full_helm_detail.png",
 			"displayItemId": 11335,
+			"tags": [ "misc" ],
 			"verification": {
 				"method": "collection-log",
-				"itemIds": [
-					21509, 19707, 11335, 22103, 22100, 20439, 20436, 20442, 20433, 24034, 24037,
-					24040, 24043, 24046
-				],
+				"itemIds": [ 11335, 22103, 22100 ],
 				"count": 3
 			}
 		},
 		{
-			"id": "89d777ac-5d60-4720-ba28-e23594ee06c1",
-			"name": "Get 1 miscellaneous log slot",
-			"tip": "May the bird gods bless you with evil chicken pieces",
-			"wikiLink": "https://oldschool.runescape.wiki/w/Collection_log#Miscellaneous",
-			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Dragon_full_helm_detail.png/320px-Dragon_full_helm_detail.png",
-			"displayItemId": 11335,
-			"verification": {
-				"method": "collection-log",
-				"itemIds": [
-					21509, 19707, 11335, 22103, 22100, 20439, 20436, 20442, 20433, 24034, 24037,
-					24040, 24043, 24046
-				],
-				"count": 4
-			}
-		},
-		{
-			"id": "1a25f42e-1202-40f3-b001-d2de28f6b530",
-			"name": "Get 1 miscellaneous log slot",
-			"tip": "May the bird gods bless you with evil chicken pieces",
-			"wikiLink": "https://oldschool.runescape.wiki/w/Collection_log#Miscellaneous",
-			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Dragon_full_helm_detail.png/320px-Dragon_full_helm_detail.png",
-			"displayItemId": 11335,
-			"verification": {
-				"method": "collection-log",
-				"itemIds": [
-					21509, 19707, 11335, 22103, 22100, 20439, 20436, 20442, 20433, 24034, 24037,
-					24040, 24043, 24046
-				],
-				"count": 5
-			}
-		},
-		{
 			"id": "bd9208a5-8c14-4fc9-b13f-b5323d036391",
-			"name": "Get 1 sigil from corp",
+			"name": "Get 1 sigil from the Corporeal Beast",
 			"tip": "It's a giant chicken!",
 			"wikiLink": "https://oldschool.runescape.wiki/w/Corporeal_Beast",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Elysian_sigil_detail.png/320px-Elysian_sigil_detail.png",
 			"displayItemId": 12819,
+			"tags": [ "boss-unique" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [ 12827, 12823, 12819 ],
@@ -1591,38 +1857,27 @@
 			}
 		},
 		{
-			"id": "b429e686-604c-4f51-bc98-bbf31fea80c8",
-			"name": "Get 1 mutagen from zulrah",
-			"tip": "Why'd it have to be snakes.",
-			"wikiLink": "https://oldschool.runescape.wiki/w/Zulrah",
-			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Magma_mutagen_detail.png/320px-Magma_mutagen_detail.png",
-			"displayItemId": 13201,
-			"verification": {
-				"method": "collection-log",
-				"itemIds": [ 13200, 13201 ],
-				"count": 1
-			}
-		},
-		{
 			"id": "bd487967-d274-4fb1-96c3-37eca55e96bb",
-			"name": "Get 1 Zalcano unique",
+			"name": "Get 1 unique from Zalcano",
 			"tip": "Boss or Minigame?",
 			"wikiLink": "https://oldschool.runescape.wiki/w/Zalcano",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Zalcano_shard_detail.png/320px-Zalcano_shard_detail.png",
 			"displayItemId": 23908,
+			"tags": [ "boss-unique" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [ 23953, 23908 ],
-				"count": 1
+				"count": 2
 			}
 		},
 		{
 			"id": "08a9dd78-a0d5-4497-9277-4b66097dba4b",
-			"name": "Get 1 Vorkath unique",
+			"name": "Get 1 unique from Vorkath",
 			"tip": "A rare drop from Vorkath",
 			"wikiLink": "https://oldschool.runescape.wiki/w/Vorkath",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Dragonbone_necklace_detail.png/320px-Dragonbone_necklace_detail.png",
 			"displayItemId": 22111,
+			"tags": [ "boss-unique" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [ 22111, 22006 ],
@@ -1631,1028 +1886,398 @@
 		},
 		{
 			"id": "b759ce53-4312-4a54-8b5d-48a7ec52bd34",
-			"name": "Get 1 nightmare unique",
+			"name": "Get 1 unique from the Nightmare",
+			"shortName": "Nightmare",
 			"tip": "Ironmen retirement home",
 			"wikiLink": "https://oldschool.runescape.wiki/w/The_Nightmare",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Inquisitor's_mace_detail.png/320px-Inquisitor's_mace_detail.png",
 			"displayItemId": 24417,
+			"tags": [ "boss-unique" ],
 			"verification": {
 				"method": "collection-log",
-				"itemIds": [
-					24422, 24517, 24511, 24514, 24419, 24420, 24421, 24417, 25837, 25838
-				],
+				"itemIds": [ 24422, 24517, 24511, 24514, 24419, 24420, 24421, 24417 ],
 				"count": 1
 			}
 		},
 		{
 			"id": "37a77af7-505f-440b-bb3f-5fe03bd1c1a9",
-			"name": "Get 1 nightmare unique",
-			"tip": "Ironman retirement home",
+			"name": "Get 1 unique from the Nightmare",
+			"shortName": "Nightmare",
+			"tip": "Ironmen retirement home",
 			"wikiLink": "https://oldschool.runescape.wiki/w/The_Nightmare",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Inquisitor's_mace_detail.png/320px-Inquisitor's_mace_detail.png",
 			"displayItemId": 24417,
+			"tags": [ "boss-unique" ],
 			"verification": {
 				"method": "collection-log",
-				"itemIds": [
-					24422, 24517, 24511, 24514, 24419, 24420, 24421, 24417, 25837, 25838
-				],
+				"itemIds": [ 24422, 24517, 24511, 24514, 24419, 24420, 24421, 24417 ],
 				"count": 2
 			}
 		},
 		{
 			"id": "d7f94c27-684f-4f4b-8069-fa8263999a44",
-			"name": "Get 1 nightmare unique",
-			"tip": "Ironman retirement home",
+			"name": "Get 1 unique from the Nightmare",
+			"shortName": "Nightmare",
+			"tip": "Ironmen retirement home",
 			"wikiLink": "https://oldschool.runescape.wiki/w/The_Nightmare",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Inquisitor's_mace_detail.png/320px-Inquisitor's_mace_detail.png",
 			"displayItemId": 24417,
+			"tags": [ "boss-unique" ],
 			"verification": {
 				"method": "collection-log",
-				"itemIds": [
-					24422, 24517, 24511, 24514, 24419, 24420, 24421, 24417, 25837, 25838
-				],
+				"itemIds": [ 24422, 24517, 24511, 24514, 24419, 24420, 24421, 24417 ],
 				"count": 3
 			}
 		},
 		{
 			"id": "8fa63977-c114-4733-ac89-5b4299e086a2",
-			"name": "Get 1 nightmare unique",
-			"tip": "Ironman retirement home",
+			"name": "Get 1 unique from the Nightmare",
+			"shortName": "Nightmare",
+			"tip": "Ironmen retirement home",
 			"wikiLink": "https://oldschool.runescape.wiki/w/The_Nightmare",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Inquisitor's_mace_detail.png/320px-Inquisitor's_mace_detail.png",
 			"displayItemId": 24417,
+			"tags": [ "boss-unique" ],
 			"verification": {
 				"method": "collection-log",
-				"itemIds": [
-					24422, 24517, 24511, 24514, 24419, 24420, 24421, 24417, 25837, 25838
-				],
+				"itemIds": [ 24422, 24517, 24511, 24514, 24419, 24420, 24421, 24417 ],
 				"count": 4
-			}
-		},
-		{
-			"id": "384deb72-3c32-4646-ac51-30c661ebcab2",
-			"name": "Get 1 nightmare unique",
-			"tip": "Ironman retirement home",
-			"wikiLink": "https://oldschool.runescape.wiki/w/The_Nightmare",
-			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Inquisitor's_mace_detail.png/320px-Inquisitor's_mace_detail.png",
-			"displayItemId": 24417,
-			"verification": {
-				"method": "collection-log",
-				"itemIds": [
-					24422, 24517, 24511, 24514, 24419, 24420, 24421, 24417, 25837, 25838
-				],
-				"count": 5
-			}
-		},
-		{
-			"id": "ae31a0d7-1dfa-496a-bcd1-aa0703172b65",
-			"name": "Get 1 nex unique",
-			"tip": "The ice prison",
-			"wikiLink": "https://oldschool.runescape.wiki/w/Nex",
-			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Nihil_horn_detail.png/320px-Nihil_horn_detail.png",
-			"displayItemId": 26372,
-			"verification": {
-				"method": "collection-log",
-				"itemIds": [ 26370, 26372, 26376, 26378, 26380, 26235 ],
-				"count": 3
-			}
-		},
-		{
-			"id": "602d34e7-08e1-4fc5-8894-13fbca7c8cfd",
-			"name": "Get 1 nex unique",
-			"tip": "The ice prison",
-			"wikiLink": "https://oldschool.runescape.wiki/w/Nex",
-			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Nihil_horn_detail.png/320px-Nihil_horn_detail.png",
-			"displayItemId": 26372,
-			"verification": {
-				"method": "collection-log",
-				"itemIds": [ 26370, 26372, 26376, 26378, 26380, 26235 ],
-				"count": 4
-			}
-		},
-		{
-			"id": "4208f430-8b5d-4e4e-8c70-46d95a9ade14",
-			"name": "Get 1 nex unique",
-			"tip": "The ice prison",
-			"wikiLink": "https://oldschool.runescape.wiki/w/Nex",
-			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Nihil_horn_detail.png/320px-Nihil_horn_detail.png",
-			"displayItemId": 26372,
-			"verification": {
-				"method": "collection-log",
-				"itemIds": [ 26370, 26372, 26376, 26378, 26380, 26235 ],
-				"count": 5
 			}
 		},
 		{
 			"id": "2da5eabc-1155-465f-975e-e4e755fc425c",
-			"name": "Get a level 99",
-			"tip": "Ok it's grind time!",
-			"wikiLink": "https://oldschool.runescape.wiki/w/Skills",
-			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Max_cape_detail.png/320px-Max_cape_detail.png",
-			"displayItemId": 13280,
+			"name": "Get the Attack skill cape",
+			"tip": "LEEROOOOOOOOOOOOOOOOOY JEEEEEEEEEENKINS",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Attack",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Attack_cape%28t%29_detail.png/120px-Attack_cape%28t%29_detail.png",
+			"displayItemId": 9748,
+			"tags": [ "level-99" ],
 			"verification": {
 				"method": "skill",
-				"experience": {
-					"attack"      : 13034431,
-					"strength"    : 13034431,
-					"defence"     : 13034431,
-					"ranged"      : 13034431,
-					"prayer"      : 13034431,
-					"magic"       : 13034431,
-					"runecraft"   : 13034431,
-					"hitpoints"   : 13034431,
-					"crafting"    : 13034431,
-					"mining"      : 13034431,
-					"smithing"    : 13034431,
-					"fishing"     : 13034431,
-					"cooking"     : 13034431,
-					"firemaking"  : 13034431,
-					"woodcutting" : 13034431,
-					"agility"     : 13034431,
-					"herblore"    : 13034431,
-					"thieving"    : 13034431,
-					"fletching"   : 13034431,
-					"slayer"      : 13034431,
-					"farming"     : 13034431,
-					"construction": 13034431,
-					"hunter"      : 13034431,
-					"sailing"     : 13034431
-				},
+				"experience": { "attack": 13034431 },
 				"count": 1
 			}
 		},
 		{
 			"id": "cc69b0b8-a3ba-4136-ab8a-d7ceb4ef5080",
-			"name": "Get a level 99",
-			"tip": "Ok it's grind time!",
-			"wikiLink": "https://oldschool.runescape.wiki/w/Skills",
-			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Max_cape_detail.png/320px-Max_cape_detail.png",
-			"displayItemId": 13280,
+			"name": "Get the Strength skill cape",
+			"tip": "I cast 'Fist'.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Strength",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Strength_cape%28t%29_detail.png/120px-Strength_cape%28t%29_detail.png",
+			"displayItemId": 9751,
+			"tags": [ "level-99" ],
 			"verification": {
 				"method": "skill",
-				"experience": {
-					"attack"      : 13034431,
-					"strength"    : 13034431,
-					"defence"     : 13034431,
-					"ranged"      : 13034431,
-					"prayer"      : 13034431,
-					"magic"       : 13034431,
-					"runecraft"   : 13034431,
-					"hitpoints"   : 13034431,
-					"crafting"    : 13034431,
-					"mining"      : 13034431,
-					"smithing"    : 13034431,
-					"fishing"     : 13034431,
-					"cooking"     : 13034431,
-					"firemaking"  : 13034431,
-					"woodcutting" : 13034431,
-					"agility"     : 13034431,
-					"herblore"    : 13034431,
-					"thieving"    : 13034431,
-					"fletching"   : 13034431,
-					"slayer"      : 13034431,
-					"farming"     : 13034431,
-					"construction": 13034431,
-					"hunter"      : 13034431,
-					"sailing"     : 13034431
-				},
-				"count": 2
+				"experience": { "strength": 13034431 },
+				"count": 1
 			}
 		},
 		{
 			"id": "ec88fde0-521e-4ef2-9140-80b062f4fe69",
-			"name": "Get a level 99",
-			"tip": "Ok it's grind time!",
-			"wikiLink": "https://oldschool.runescape.wiki/w/Skills",
-			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Max_cape_detail.png/320px-Max_cape_detail.png",
-			"displayItemId": 13280,
+			"name": "Get the Defence skill cape",
+			"tip": "Ah, ah, ah, ah, stayin' alive, stayin' alive!",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Defence",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Defence_cape%28t%29_detail.png/120px-Defence_cape%28t%29_detail.png",
+			"displayItemId": 9754,
+			"tags": [ "level-99" ],
 			"verification": {
 				"method": "skill",
-				"experience": {
-					"attack"      : 13034431,
-					"strength"    : 13034431,
-					"defence"     : 13034431,
-					"ranged"      : 13034431,
-					"prayer"      : 13034431,
-					"magic"       : 13034431,
-					"runecraft"   : 13034431,
-					"hitpoints"   : 13034431,
-					"crafting"    : 13034431,
-					"mining"      : 13034431,
-					"smithing"    : 13034431,
-					"fishing"     : 13034431,
-					"cooking"     : 13034431,
-					"firemaking"  : 13034431,
-					"woodcutting" : 13034431,
-					"agility"     : 13034431,
-					"herblore"    : 13034431,
-					"thieving"    : 13034431,
-					"fletching"   : 13034431,
-					"slayer"      : 13034431,
-					"farming"     : 13034431,
-					"construction": 13034431,
-					"hunter"      : 13034431,
-					"sailing"     : 13034431
-				},
-				"count": 3
+				"experience": { "defence": 13034431 },
+				"count": 1
 			}
 		},
 		{
 			"id": "283b4bba-e4be-49e2-acf6-404fc6104203",
-			"name": "Get a level 99",
+			"name": "Get the Ranging Cape",
 			"tip": "Ok it's grind time!",
-			"wikiLink": "https://oldschool.runescape.wiki/w/Skills",
-			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Max_cape_detail.png/320px-Max_cape_detail.png",
-			"displayItemId": 13280,
+			"wikiLink": "https://oldschool.runescape.wiki/w/Ranged",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Ranging_cape%28t%29_detail.png/120px-Ranging_cape%28t%29_detail.png",
+			"displayItemId": 9757,
+			"tags": [ "level-99" ],
 			"verification": {
 				"method": "skill",
-				"experience": {
-					"attack"      : 13034431,
-					"strength"    : 13034431,
-					"defence"     : 13034431,
-					"ranged"      : 13034431,
-					"prayer"      : 13034431,
-					"magic"       : 13034431,
-					"runecraft"   : 13034431,
-					"hitpoints"   : 13034431,
-					"crafting"    : 13034431,
-					"mining"      : 13034431,
-					"smithing"    : 13034431,
-					"fishing"     : 13034431,
-					"cooking"     : 13034431,
-					"firemaking"  : 13034431,
-					"woodcutting" : 13034431,
-					"agility"     : 13034431,
-					"herblore"    : 13034431,
-					"thieving"    : 13034431,
-					"fletching"   : 13034431,
-					"slayer"      : 13034431,
-					"farming"     : 13034431,
-					"construction": 13034431,
-					"hunter"      : 13034431,
-					"sailing"     : 13034431
-				},
-				"count": 4
+				"experience": { "ranged": 13034431 },
+				"count": 1
 			}
 		},
 		{
 			"id": "620b4d19-fcac-437d-b6a1-c1c1a5b127b8",
-			"name": "Get a level 99",
-			"tip": "Ok it's grind time!",
-			"wikiLink": "https://oldschool.runescape.wiki/w/Skills",
-			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Max_cape_detail.png/320px-Max_cape_detail.png",
-			"displayItemId": 13280,
+			"name": "Get the Prayer skill cape.",
+			"tip": "I have the power of God and anime on my side!",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Prayer",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Prayer_cape%28t%29_detail.png/120px-Prayer_cape%28t%29_detail.png",
+			"displayItemId": 9760,
+			"tags": [ "level-99" ],
 			"verification": {
 				"method": "skill",
-				"experience": {
-					"attack"      : 13034431,
-					"strength"    : 13034431,
-					"defence"     : 13034431,
-					"ranged"      : 13034431,
-					"prayer"      : 13034431,
-					"magic"       : 13034431,
-					"runecraft"   : 13034431,
-					"hitpoints"   : 13034431,
-					"crafting"    : 13034431,
-					"mining"      : 13034431,
-					"smithing"    : 13034431,
-					"fishing"     : 13034431,
-					"cooking"     : 13034431,
-					"firemaking"  : 13034431,
-					"woodcutting" : 13034431,
-					"agility"     : 13034431,
-					"herblore"    : 13034431,
-					"thieving"    : 13034431,
-					"fletching"   : 13034431,
-					"slayer"      : 13034431,
-					"farming"     : 13034431,
-					"construction": 13034431,
-					"hunter"      : 13034431,
-					"sailing"     : 13034431
-				},
-				"count": 5
+				"experience": { "prayer": 13034431 },
+				"count": 1
 			}
 		},
 		{
 			"id": "3cf3c85c-cda1-4a66-ae7b-242d81fe0c71",
-			"name": "Get a level 99",
-			"tip": "Ok it's grind time!",
-			"wikiLink": "https://oldschool.runescape.wiki/w/Skills",
-			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Max_cape_detail.png/320px-Max_cape_detail.png",
-			"displayItemId": 13280,
+			"name": "Get the Magic skill cape",
+			"tip": "Yerr a wizard, Harry",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Magic",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Magic_cape%28t%29_detail.png/120px-Magic_cape%28t%29_detail.png",
+			"displayItemId": 9763,
+			"tags": [ "level-99" ],
 			"verification": {
 				"method": "skill",
-				"experience": {
-					"attack"      : 13034431,
-					"strength"    : 13034431,
-					"defence"     : 13034431,
-					"ranged"      : 13034431,
-					"prayer"      : 13034431,
-					"magic"       : 13034431,
-					"runecraft"   : 13034431,
-					"hitpoints"   : 13034431,
-					"crafting"    : 13034431,
-					"mining"      : 13034431,
-					"smithing"    : 13034431,
-					"fishing"     : 13034431,
-					"cooking"     : 13034431,
-					"firemaking"  : 13034431,
-					"woodcutting" : 13034431,
-					"agility"     : 13034431,
-					"herblore"    : 13034431,
-					"thieving"    : 13034431,
-					"fletching"   : 13034431,
-					"slayer"      : 13034431,
-					"farming"     : 13034431,
-					"construction": 13034431,
-					"hunter"      : 13034431,
-					"sailing"     : 13034431
-				},
-				"count": 6
+				"experience": { "magic": 13034431 },
+				"count": 1
 			}
 		},
 		{
 			"id": "b4d03ad2-b162-4366-856e-5d976df6aa77",
-			"name": "Get a level 99",
-			"tip": "Ok it's grind time!",
-			"wikiLink": "https://oldschool.runescape.wiki/w/Skills",
-			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Max_cape_detail.png/320px-Max_cape_detail.png",
-			"displayItemId": 13280,
+			"name": "Get the Runecraft Skill cape",
+			"tip": "Ah shit. Here we go again.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Runecraft",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Runecraft_cape%28t%29_detail.png/120px-Runecraft_cape%28t%29_detail.png",
+			"displayItemId": 9766,
+			"tags": [ "level-99" ],
 			"verification": {
 				"method": "skill",
-				"experience": {
-					"attack"      : 13034431,
-					"strength"    : 13034431,
-					"defence"     : 13034431,
-					"ranged"      : 13034431,
-					"prayer"      : 13034431,
-					"magic"       : 13034431,
-					"runecraft"   : 13034431,
-					"hitpoints"   : 13034431,
-					"crafting"    : 13034431,
-					"mining"      : 13034431,
-					"smithing"    : 13034431,
-					"fishing"     : 13034431,
-					"cooking"     : 13034431,
-					"firemaking"  : 13034431,
-					"woodcutting" : 13034431,
-					"agility"     : 13034431,
-					"herblore"    : 13034431,
-					"thieving"    : 13034431,
-					"fletching"   : 13034431,
-					"slayer"      : 13034431,
-					"farming"     : 13034431,
-					"construction": 13034431,
-					"hunter"      : 13034431,
-					"sailing"     : 13034431
-				},
-				"count": 7
+				"experience": { "runecraft": 13034431 },
+				"count": 1
 			}
 		},
 		{
 			"id": "8b10f5d9-bf80-4c03-8a2c-d060d6af30a8",
-			"name": "Get a level 99",
-			"tip": "Ok it's grind time!",
-			"wikiLink": "https://oldschool.runescape.wiki/w/Skills",
-			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Max_cape_detail.png/320px-Max_cape_detail.png",
-			"displayItemId": 13280,
+			"name": "Get the Hitpoints skill cape",
+			"tip": "But did you die?",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Hitpoints",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Hitpoints_cape%28t%29_detail.png/120px-Hitpoints_cape%28t%29_detail.png",
+			"displayItemId": 9769,
+			"tags": [ "level-99" ],
 			"verification": {
 				"method": "skill",
-				"experience": {
-					"attack"      : 13034431,
-					"strength"    : 13034431,
-					"defence"     : 13034431,
-					"ranged"      : 13034431,
-					"prayer"      : 13034431,
-					"magic"       : 13034431,
-					"runecraft"   : 13034431,
-					"hitpoints"   : 13034431,
-					"crafting"    : 13034431,
-					"mining"      : 13034431,
-					"smithing"    : 13034431,
-					"fishing"     : 13034431,
-					"cooking"     : 13034431,
-					"firemaking"  : 13034431,
-					"woodcutting" : 13034431,
-					"agility"     : 13034431,
-					"herblore"    : 13034431,
-					"thieving"    : 13034431,
-					"fletching"   : 13034431,
-					"slayer"      : 13034431,
-					"farming"     : 13034431,
-					"construction": 13034431,
-					"hunter"      : 13034431,
-					"sailing"     : 13034431
-				},
-				"count": 8
+				"experience": { "hitpoints": 13034431 },
+				"count": 1
 			}
 		},
 		{
 			"id": "fe877999-73c7-411e-8a48-51a0856fbb25",
-			"name": "Get a level 99",
-			"tip": "Ok it's grind time!",
-			"wikiLink": "https://oldschool.runescape.wiki/w/Skills",
-			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Max_cape_detail.png/320px-Max_cape_detail.png",
-			"displayItemId": 13280,
+			"name": "Get the Crafting skill cape",
+			"tip": "Witty crafting line",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Crafting",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Crafting_cape%28t%29_detail.png/120px-Crafting_cape%28t%29_detail.png",
+			"displayItemId": 9781,
+			"tags": [ "level-99" ],
 			"verification": {
 				"method": "skill",
-				"experience": {
-					"attack"      : 13034431,
-					"strength"    : 13034431,
-					"defence"     : 13034431,
-					"ranged"      : 13034431,
-					"prayer"      : 13034431,
-					"magic"       : 13034431,
-					"runecraft"   : 13034431,
-					"hitpoints"   : 13034431,
-					"crafting"    : 13034431,
-					"mining"      : 13034431,
-					"smithing"    : 13034431,
-					"fishing"     : 13034431,
-					"cooking"     : 13034431,
-					"firemaking"  : 13034431,
-					"woodcutting" : 13034431,
-					"agility"     : 13034431,
-					"herblore"    : 13034431,
-					"thieving"    : 13034431,
-					"fletching"   : 13034431,
-					"slayer"      : 13034431,
-					"farming"     : 13034431,
-					"construction": 13034431,
-					"hunter"      : 13034431,
-					"sailing"     : 13034431
-				},
-				"count": 9
+				"experience": { "crafting": 13034431 },
+				"count": 1
 			}
 		},
 		{
 			"id": "906c5876-9e3b-461a-a629-cd6d83ca3dad",
-			"name": "Get a level 99",
-			"tip": "Ok it's grind time!",
-			"wikiLink": "https://oldschool.runescape.wiki/w/Skills",
-			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Max_cape_detail.png/320px-Max_cape_detail.png",
-			"displayItemId": 13280,
+			"name": "Get the Mining skill cape",
+			"tip": "I am a dwarf and I'm digging a hole, diggy diggy hole!",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Mining",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Mining_cape%28t%29_detail.png/120px-Mining_cape%28t%29_detail.png",
+			"displayItemId": 9793,
+			"tags": [ "level-99" ],
 			"verification": {
 				"method": "skill",
-				"experience": {
-					"attack"      : 13034431,
-					"strength"    : 13034431,
-					"defence"     : 13034431,
-					"ranged"      : 13034431,
-					"prayer"      : 13034431,
-					"magic"       : 13034431,
-					"runecraft"   : 13034431,
-					"hitpoints"   : 13034431,
-					"crafting"    : 13034431,
-					"mining"      : 13034431,
-					"smithing"    : 13034431,
-					"fishing"     : 13034431,
-					"cooking"     : 13034431,
-					"firemaking"  : 13034431,
-					"woodcutting" : 13034431,
-					"agility"     : 13034431,
-					"herblore"    : 13034431,
-					"thieving"    : 13034431,
-					"fletching"   : 13034431,
-					"slayer"      : 13034431,
-					"farming"     : 13034431,
-					"construction": 13034431,
-					"hunter"      : 13034431,
-					"sailing"     : 13034431
-				},
-				"count": 10
+				"experience": { "mining": 13034431 },
+				"count": 1
 			}
 		},
 		{
 			"id": "87eb1513-11e7-466e-b7a8-cc8cd5206b72",
-			"name": "Get a level 99",
-			"tip": "Ok it's grind time!",
-			"wikiLink": "https://oldschool.runescape.wiki/w/Skills",
-			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Max_cape_detail.png/320px-Max_cape_detail.png",
-			"displayItemId": 13280,
+			"name": "Get the Smithing skill cape",
+			"tip": "Wait, is that a fucking toothpick?",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Smithing",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Smithing_cape%28t%29_detail.png/120px-Smithing_cape%28t%29_detail.png",
+			"displayItemId": 9796,
+			"tags": [ "level-99" ],
 			"verification": {
 				"method": "skill",
-				"experience": {
-					"attack"      : 13034431,
-					"strength"    : 13034431,
-					"defence"     : 13034431,
-					"ranged"      : 13034431,
-					"prayer"      : 13034431,
-					"magic"       : 13034431,
-					"runecraft"   : 13034431,
-					"hitpoints"   : 13034431,
-					"crafting"    : 13034431,
-					"mining"      : 13034431,
-					"smithing"    : 13034431,
-					"fishing"     : 13034431,
-					"cooking"     : 13034431,
-					"firemaking"  : 13034431,
-					"woodcutting" : 13034431,
-					"agility"     : 13034431,
-					"herblore"    : 13034431,
-					"thieving"    : 13034431,
-					"fletching"   : 13034431,
-					"slayer"      : 13034431,
-					"farming"     : 13034431,
-					"construction": 13034431,
-					"hunter"      : 13034431,
-					"sailing"     : 13034431
-				},
-				"count": 11
+				"experience": { "smithing": 13034431 },
+				"count": 1
 			}
 		},
 		{
 			"id": "63a70569-7a76-4221-9acc-1f34b1ac0e39",
-			"name": "Get a level 99",
-			"tip": "Ok it's grind time!",
-			"wikiLink": "https://oldschool.runescape.wiki/w/Skills",
-			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Max_cape_detail.png/320px-Max_cape_detail.png",
-			"displayItemId": 13280,
+			"name": "Get the Fishing skill cape",
+			"tip": "Fish are friends, not food!",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Fishing",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Fishing_cape%28t%29_detail.png/120px-Fishing_cape%28t%29_detail.png",
+			"displayItemId": 9799,
+			"tags": [ "level-99" ],
 			"verification": {
 				"method": "skill",
-				"experience": {
-					"attack"      : 13034431,
-					"strength"    : 13034431,
-					"defence"     : 13034431,
-					"ranged"      : 13034431,
-					"prayer"      : 13034431,
-					"magic"       : 13034431,
-					"runecraft"   : 13034431,
-					"hitpoints"   : 13034431,
-					"crafting"    : 13034431,
-					"mining"      : 13034431,
-					"smithing"    : 13034431,
-					"fishing"     : 13034431,
-					"cooking"     : 13034431,
-					"firemaking"  : 13034431,
-					"woodcutting" : 13034431,
-					"agility"     : 13034431,
-					"herblore"    : 13034431,
-					"thieving"    : 13034431,
-					"fletching"   : 13034431,
-					"slayer"      : 13034431,
-					"farming"     : 13034431,
-					"construction": 13034431,
-					"hunter"      : 13034431,
-					"sailing"     : 13034431
-				},
-				"count": 12
+				"experience": { "fishing": 13034431 },
+				"count": 1
 			}
 		},
 		{
 			"id": "3e79794e-0781-48d4-bcd7-a72ea9a7a829",
-			"name": "Get a level 99",
-			"tip": "Ok it's grind time!",
-			"wikiLink": "https://oldschool.runescape.wiki/w/Skills",
-			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Max_cape_detail.png/320px-Max_cape_detail.png",
-			"displayItemId": 13280,
+			"name": "Get the Cooking skill cape",
+			"tip": "Jesse, we need to cook.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Cooking",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Cooking_cape%28t%29_detail.png/120px-Cooking_cape%28t%29_detail.png",
+			"displayItemId": 9802,
+			"tags": [ "level-99" ],
 			"verification": {
 				"method": "skill",
-				"experience": {
-					"attack"      : 13034431,
-					"strength"    : 13034431,
-					"defence"     : 13034431,
-					"ranged"      : 13034431,
-					"prayer"      : 13034431,
-					"magic"       : 13034431,
-					"runecraft"   : 13034431,
-					"hitpoints"   : 13034431,
-					"crafting"    : 13034431,
-					"mining"      : 13034431,
-					"smithing"    : 13034431,
-					"fishing"     : 13034431,
-					"cooking"     : 13034431,
-					"firemaking"  : 13034431,
-					"woodcutting" : 13034431,
-					"agility"     : 13034431,
-					"herblore"    : 13034431,
-					"thieving"    : 13034431,
-					"fletching"   : 13034431,
-					"slayer"      : 13034431,
-					"farming"     : 13034431,
-					"construction": 13034431,
-					"hunter"      : 13034431,
-					"sailing"     : 13034431
-				},
-				"count": 13
+				"experience": { "cooking": 13034431 },
+				"count": 1
 			}
 		},
 		{
 			"id": "3ebdecd3-5faf-42cd-9d7c-5b98327555c0",
-			"name": "Get a level 99",
-			"tip": "Ok it's grind time!",
-			"wikiLink": "https://oldschool.runescape.wiki/w/Skills",
-			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Max_cape_detail.png/320px-Max_cape_detail.png",
-			"displayItemId": 13280,
+			"name": "Get the Firemaking skill cape",
+			"tip": "I'm burning through the sky, yeah! Two hundred degrees, that's why they call me Mister Fahrenheit",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Firemaking",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Firemaking_cape%28t%29_detail.png/120px-Firemaking_cape%28t%29_detail.png",
+			"displayItemId": 9805,
+			"tags": [ "level-99" ],
 			"verification": {
 				"method": "skill",
-				"experience": {
-					"attack"      : 13034431,
-					"strength"    : 13034431,
-					"defence"     : 13034431,
-					"ranged"      : 13034431,
-					"prayer"      : 13034431,
-					"magic"       : 13034431,
-					"runecraft"   : 13034431,
-					"hitpoints"   : 13034431,
-					"crafting"    : 13034431,
-					"mining"      : 13034431,
-					"smithing"    : 13034431,
-					"fishing"     : 13034431,
-					"cooking"     : 13034431,
-					"firemaking"  : 13034431,
-					"woodcutting" : 13034431,
-					"agility"     : 13034431,
-					"herblore"    : 13034431,
-					"thieving"    : 13034431,
-					"fletching"   : 13034431,
-					"slayer"      : 13034431,
-					"farming"     : 13034431,
-					"construction": 13034431,
-					"hunter"      : 13034431,
-					"sailing"     : 13034431
-				},
-				"count": 14
+				"experience": { "firemaking": 13034431 },
+				"count": 1
 			}
 		},
 		{
 			"id": "1cda842d-50ff-4d73-a2a2-13ce62e16fc1",
-			"name": "Get a level 99",
-			"tip": "Ok it's grind time!",
-			"wikiLink": "https://oldschool.runescape.wiki/w/Skills",
-			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Max_cape_detail.png/320px-Max_cape_detail.png",
-			"displayItemId": 13280,
+			"name": "Get the Woodcutting skill cape",
+			"tip": "How much wood would a woodchuck chuck if a woodchuck could chuck wood?",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Woodcutting",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Woodcut._cape%28t%29_detail.png/120px-Woodcut._cape%28t%29_detail.png",
+			"displayItemId": 9808,
+			"tags": [ "level-99" ],
 			"verification": {
 				"method": "skill",
-				"experience": {
-					"attack"      : 13034431,
-					"strength"    : 13034431,
-					"defence"     : 13034431,
-					"ranged"      : 13034431,
-					"prayer"      : 13034431,
-					"magic"       : 13034431,
-					"runecraft"   : 13034431,
-					"hitpoints"   : 13034431,
-					"crafting"    : 13034431,
-					"mining"      : 13034431,
-					"smithing"    : 13034431,
-					"fishing"     : 13034431,
-					"cooking"     : 13034431,
-					"firemaking"  : 13034431,
-					"woodcutting" : 13034431,
-					"agility"     : 13034431,
-					"herblore"    : 13034431,
-					"thieving"    : 13034431,
-					"fletching"   : 13034431,
-					"slayer"      : 13034431,
-					"farming"     : 13034431,
-					"construction": 13034431,
-					"hunter"      : 13034431,
-					"sailing"     : 13034431
-				},
-				"count": 15
+				"experience": { "woodcutting": 13034431 },
+				"count": 1
 			}
 		},
 		{
 			"id": "e5e9a584-3106-4167-ae34-7b8ef4e91945",
-			"name": "Get a level 99",
-			"tip": "Ok it's grind time!",
-			"wikiLink": "https://oldschool.runescape.wiki/w/Skills",
-			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Max_cape_detail.png/320px-Max_cape_detail.png",
-			"displayItemId": 13280,
+			"name": "Get the Agility skill cape",
+			"tip": "Run, Forrest! Run!",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Agility",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Agility_cape%28t%29_detail.png/120px-Agility_cape%28t%29_detail.png",
+			"displayItemId": 9772,
+			"tags": [ "level-99" ],
 			"verification": {
 				"method": "skill",
-				"experience": {
-					"attack"      : 13034431,
-					"strength"    : 13034431,
-					"defence"     : 13034431,
-					"ranged"      : 13034431,
-					"prayer"      : 13034431,
-					"magic"       : 13034431,
-					"runecraft"   : 13034431,
-					"hitpoints"   : 13034431,
-					"crafting"    : 13034431,
-					"mining"      : 13034431,
-					"smithing"    : 13034431,
-					"fishing"     : 13034431,
-					"cooking"     : 13034431,
-					"firemaking"  : 13034431,
-					"woodcutting" : 13034431,
-					"agility"     : 13034431,
-					"herblore"    : 13034431,
-					"thieving"    : 13034431,
-					"fletching"   : 13034431,
-					"slayer"      : 13034431,
-					"farming"     : 13034431,
-					"construction": 13034431,
-					"hunter"      : 13034431,
-					"sailing"     : 13034431
-				},
-				"count": 16
+				"experience": { "agility": 13034431 },
+				"count": 1
 			}
 		},
 		{
 			"id": "04adedab-4ecf-4f04-af6f-a42eaa174aec",
-			"name": "Get a level 99",
-			"tip": "Ok it's grind time!",
-			"wikiLink": "https://oldschool.runescape.wiki/w/Skills",
-			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Max_cape_detail.png/320px-Max_cape_detail.png",
-			"displayItemId": 13280,
+			"name": "Get the Herblore skill cape",
+			"tip": "Witty herblore line",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Herblore",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Herblore_cape%28t%29_detail.png/120px-Herblore_cape%28t%29_detail.png",
+			"displayItemId": 9775,
+			"tags": [ "level-99" ],
 			"verification": {
 				"method": "skill",
-				"experience": {
-					"attack"      : 13034431,
-					"strength"    : 13034431,
-					"defence"     : 13034431,
-					"ranged"      : 13034431,
-					"prayer"      : 13034431,
-					"magic"       : 13034431,
-					"runecraft"   : 13034431,
-					"hitpoints"   : 13034431,
-					"crafting"    : 13034431,
-					"mining"      : 13034431,
-					"smithing"    : 13034431,
-					"fishing"     : 13034431,
-					"cooking"     : 13034431,
-					"firemaking"  : 13034431,
-					"woodcutting" : 13034431,
-					"agility"     : 13034431,
-					"herblore"    : 13034431,
-					"thieving"    : 13034431,
-					"fletching"   : 13034431,
-					"slayer"      : 13034431,
-					"farming"     : 13034431,
-					"construction": 13034431,
-					"hunter"      : 13034431,
-					"sailing"     : 13034431
-				},
-				"count": 17
+				"experience": { "herblore": 13034431 },
+				"count": 1
 			}
 		},
 		{
 			"id": "f2cacf08-8072-4cfd-ae6b-69afea0363fc",
-			"name": "Get a level 99",
-			"tip": "Ok it's grind time!",
-			"wikiLink": "https://oldschool.runescape.wiki/w/Skills",
-			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Max_cape_detail.png/320px-Max_cape_detail.png",
-			"displayItemId": 13280,
+			"name": "Get the Thieving skill cape",
+			"tip": "You've been hit by, you've been struck by, a smooth criminal.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Thieving",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Thieving_cape%28t%29_detail.png/120px-Thieving_cape%28t%29_detail.png",
+			"displayItemId": 9778,
+			"tags": [ "level-99" ],
 			"verification": {
 				"method": "skill",
-				"experience": {
-					"attack"      : 13034431,
-					"strength"    : 13034431,
-					"defence"     : 13034431,
-					"ranged"      : 13034431,
-					"prayer"      : 13034431,
-					"magic"       : 13034431,
-					"runecraft"   : 13034431,
-					"hitpoints"   : 13034431,
-					"crafting"    : 13034431,
-					"mining"      : 13034431,
-					"smithing"    : 13034431,
-					"fishing"     : 13034431,
-					"cooking"     : 13034431,
-					"firemaking"  : 13034431,
-					"woodcutting" : 13034431,
-					"agility"     : 13034431,
-					"herblore"    : 13034431,
-					"thieving"    : 13034431,
-					"fletching"   : 13034431,
-					"slayer"      : 13034431,
-					"farming"     : 13034431,
-					"construction": 13034431,
-					"hunter"      : 13034431,
-					"sailing"     : 13034431
-				},
-				"count": 18
+				"experience": { "thieving": 13034431 },
+				"count": 1
 			}
 		},
 		{
 			"id": "f3177a18-e7a3-4a7d-b962-9f9d46a4ea92",
-			"name": "Get a level 99",
-			"tip": "Ok it's grind time!",
-			"wikiLink": "https://oldschool.runescape.wiki/w/Skills",
-			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Max_cape_detail.png/320px-Max_cape_detail.png",
-			"displayItemId": 13280,
+			"name": "Get the Fletching skill cape",
+			"tip": "Witty fletching line",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Fletching",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Fletching_cape%28t%29_detail.png/120px-Fletching_cape%28t%29_detail.png",
+			"displayItemId": 9784,
+			"tags": [ "level-99" ],
 			"verification": {
 				"method": "skill",
-				"experience": {
-					"attack"      : 13034431,
-					"strength"    : 13034431,
-					"defence"     : 13034431,
-					"ranged"      : 13034431,
-					"prayer"      : 13034431,
-					"magic"       : 13034431,
-					"runecraft"   : 13034431,
-					"hitpoints"   : 13034431,
-					"crafting"    : 13034431,
-					"mining"      : 13034431,
-					"smithing"    : 13034431,
-					"fishing"     : 13034431,
-					"cooking"     : 13034431,
-					"firemaking"  : 13034431,
-					"woodcutting" : 13034431,
-					"agility"     : 13034431,
-					"herblore"    : 13034431,
-					"thieving"    : 13034431,
-					"fletching"   : 13034431,
-					"slayer"      : 13034431,
-					"farming"     : 13034431,
-					"construction": 13034431,
-					"hunter"      : 13034431,
-					"sailing"     : 13034431
-				},
-				"count": 19
+				"experience": { "fletching": 13034431 },
+				"count": 1
 			}
 		},
 		{
 			"id": "3fef336b-2ad4-47a4-9b18-ab2ec8f1f915",
-			"name": "Get a level 99",
-			"tip": "Ok it's grind time!",
-			"wikiLink": "https://oldschool.runescape.wiki/w/Skills",
-			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Max_cape_detail.png/320px-Max_cape_detail.png",
-			"displayItemId": 13280,
+			"name": "Get the Slayer skill cape",
+			"tip": "Yaaaaass queen, slayyyyyyyyy",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Slayer",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Slayer_cape%28t%29_detail.png/120px-Slayer_cape%28t%29_detail.png",
+			"displayItemId": 9787,
+			"tags": [ "level-99" ],
 			"verification": {
 				"method": "skill",
-				"experience": {
-					"attack"      : 13034431,
-					"strength"    : 13034431,
-					"defence"     : 13034431,
-					"ranged"      : 13034431,
-					"prayer"      : 13034431,
-					"magic"       : 13034431,
-					"runecraft"   : 13034431,
-					"hitpoints"   : 13034431,
-					"crafting"    : 13034431,
-					"mining"      : 13034431,
-					"smithing"    : 13034431,
-					"fishing"     : 13034431,
-					"cooking"     : 13034431,
-					"firemaking"  : 13034431,
-					"woodcutting" : 13034431,
-					"agility"     : 13034431,
-					"herblore"    : 13034431,
-					"thieving"    : 13034431,
-					"fletching"   : 13034431,
-					"slayer"      : 13034431,
-					"farming"     : 13034431,
-					"construction": 13034431,
-					"hunter"      : 13034431,
-					"sailing"     : 13034431
-				},
-				"count": 20
+				"experience": { "slayer": 13034431 },
+				"count": 1
 			}
 		},
 		{
 			"id": "50efc1c8-e907-4927-a3cc-21786bb0a32a",
-			"name": "Get a level 99",
-			"tip": "Ok it's grind time!",
-			"wikiLink": "https://oldschool.runescape.wiki/w/Skills",
-			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Max_cape_detail.png/320px-Max_cape_detail.png",
-			"displayItemId": 13280,
+			"name": "Get the Farming cape",
+			"tip": "It ain't much, but it's honest work.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Farming",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Farming_cape%28t%29_detail.png/120px-Farming_cape%28t%29_detail.png",
+			"displayItemId": 9811,
+			"tags": [ "level-99" ],
 			"verification": {
 				"method": "skill",
-				"experience": {
-					"attack"      : 13034431,
-					"strength"    : 13034431,
-					"defence"     : 13034431,
-					"ranged"      : 13034431,
-					"prayer"      : 13034431,
-					"magic"       : 13034431,
-					"runecraft"   : 13034431,
-					"hitpoints"   : 13034431,
-					"crafting"    : 13034431,
-					"mining"      : 13034431,
-					"smithing"    : 13034431,
-					"fishing"     : 13034431,
-					"cooking"     : 13034431,
-					"firemaking"  : 13034431,
-					"woodcutting" : 13034431,
-					"agility"     : 13034431,
-					"herblore"    : 13034431,
-					"thieving"    : 13034431,
-					"fletching"   : 13034431,
-					"slayer"      : 13034431,
-					"farming"     : 13034431,
-					"construction": 13034431,
-					"hunter"      : 13034431,
-					"sailing"     : 13034431
-				},
-				"count": 21
+				"experience": { "farming": 13034431 },
+				"count": 1
 			}
 		},
 		{
 			"id": "cb4eaeb1-5504-4720-a05d-2ef64d7206a4",
-			"name": "Get a level 99",
-			"tip": "Ok it's grind time!",
-			"wikiLink": "https://oldschool.runescape.wiki/w/Skills",
-			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Max_cape_detail.png/320px-Max_cape_detail.png",
-			"displayItemId": 13280,
+			"name": "Get the Construction cape",
+			"tip": "'Daddy, is that you?' - ShaduKat",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Contruction",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Construct._cape%28t%29_detail.png/120px-Construct._cape%28t%29_detail.png",
+			"displayItemId": 9790,
+			"tags": [ "level-99" ],
 			"verification": {
 				"method": "skill",
-				"experience": {
-					"attack"      : 13034431,
-					"strength"    : 13034431,
-					"defence"     : 13034431,
-					"ranged"      : 13034431,
-					"prayer"      : 13034431,
-					"magic"       : 13034431,
-					"runecraft"   : 13034431,
-					"hitpoints"   : 13034431,
-					"crafting"    : 13034431,
-					"mining"      : 13034431,
-					"smithing"    : 13034431,
-					"fishing"     : 13034431,
-					"cooking"     : 13034431,
-					"firemaking"  : 13034431,
-					"woodcutting" : 13034431,
-					"agility"     : 13034431,
-					"herblore"    : 13034431,
-					"thieving"    : 13034431,
-					"fletching"   : 13034431,
-					"slayer"      : 13034431,
-					"farming"     : 13034431,
-					"construction": 13034431,
-					"hunter"      : 13034431,
-					"sailing"     : 13034431
-				},
-				"count": 22
+				"experience": { "construction": 13034431 },
+				"count": 1
 			}
 		},
 		{
 			"id": "e4d2a36c-b653-4f77-ad7f-6122f0e02f01",
-			"name": "Get a level 99",
-			"tip": "Ok it's grind time!",
-			"wikiLink": "https://oldschool.runescape.wiki/w/Skills",
-			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Max_cape_detail.png/320px-Max_cape_detail.png",
-			"displayItemId": 13280,
+			"name": "Get the Hunter skill cape",
+			"tip": "Hunter? I barely know her!",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Hunter",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Hunter_cape%28t%29_detail.png/120px-Hunter_cape%28t%29_detail.png",
+			"displayItemId": 9949,
+			"tags": [ "level-99" ],
 			"verification": {
 				"method": "skill",
-				"experience": {
-					"attack"      : 13034431,
-					"strength"    : 13034431,
-					"defence"     : 13034431,
-					"ranged"      : 13034431,
-					"prayer"      : 13034431,
-					"magic"       : 13034431,
-					"runecraft"   : 13034431,
-					"hitpoints"   : 13034431,
-					"crafting"    : 13034431,
-					"mining"      : 13034431,
-					"smithing"    : 13034431,
-					"fishing"     : 13034431,
-					"cooking"     : 13034431,
-					"firemaking"  : 13034431,
-					"woodcutting" : 13034431,
-					"agility"     : 13034431,
-					"herblore"    : 13034431,
-					"thieving"    : 13034431,
-					"fletching"   : 13034431,
-					"slayer"      : 13034431,
-					"farming"     : 13034431,
-					"construction": 13034431,
-					"hunter"      : 13034431,
-					"sailing"     : 13034431
-				},
-				"count": 23
+				"experience": { "hunter": 13034431 },
+				"count": 1
 			}
 		},
 		{
 			"id": "744cd2a7-5ecd-4298-9ee3-0f72b3fceb4d",
-			"name": "Get a level 99",
-			"tip": "Ok it's grind time!",
-			"wikiLink": "https://oldschool.runescape.wiki/w/Skills",
-			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Max_cape_detail.png/320px-Max_cape_detail.png",
-			"displayItemId": 13280,
+			"name": "Get the Sailing skill cape",
+			"tip": "Come sail away! Come saaaaaail away!",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Sailing",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Sailing_cape%28t%29_detail.png/130px-Sailing_cape%28t%29_detail.png",
+			"displayItemId": 31290,
+			"tags": [ "level-99" ],
 			"verification": {
 				"method": "skill",
-				"experience": {
-					"attack"      : 13034431,
-					"strength"    : 13034431,
-					"defence"     : 13034431,
-					"ranged"      : 13034431,
-					"prayer"      : 13034431,
-					"magic"       : 13034431,
-					"runecraft"   : 13034431,
-					"hitpoints"   : 13034431,
-					"crafting"    : 13034431,
-					"mining"      : 13034431,
-					"smithing"    : 13034431,
-					"fishing"     : 13034431,
-					"cooking"     : 13034431,
-					"firemaking"  : 13034431,
-					"woodcutting" : 13034431,
-					"agility"     : 13034431,
-					"herblore"    : 13034431,
-					"thieving"    : 13034431,
-					"fletching"   : 13034431,
-					"slayer"      : 13034431,
-					"farming"     : 13034431,
-					"construction": 13034431,
-					"hunter"      : 13034431,
-					"sailing"     : 13034431
-				},
-				"count": 24
+				"experience": { "sailing": 13034431 },
+				"count": 1
 			}
 		},
 		{
@@ -2661,7 +2286,8 @@
 			"tip": "Complete in order Easy through elite, subsequent tasks are +50 CA points",
 			"wikiLink": "https://oldschool.runescape.wiki/w/Combat_Achievements",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Combat_achievements_detail.png/320px-Combat_achievements_detail.png",
-			"displayItemId": 25934
+			"displayItemId": 25934,
+			"tags": [ "combat-achievement" ]
 		},
 		{
 			"id": "4e7cac5a-3159-4899-bdba-ecf8e8eda485",
@@ -2669,7 +2295,8 @@
 			"tip": "Complete in order Easy through elite, subsequent tasks are +50 CA points",
 			"wikiLink": "https://oldschool.runescape.wiki/w/Combat_Achievements",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Combat_achievements_detail.png/320px-Combat_achievements_detail.png",
-			"displayItemId": 25934
+			"displayItemId": 25934,
+			"tags": [ "combat-achievement" ]
 		},
 		{
 			"id": "1c714090-24b2-4505-8965-97bfa304f51f",
@@ -2677,7 +2304,8 @@
 			"tip": "Complete in order Easy through elite, subsequent tasks are +50 CA points",
 			"wikiLink": "https://oldschool.runescape.wiki/w/Combat_Achievements",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Combat_achievements_detail.png/320px-Combat_achievements_detail.png",
-			"displayItemId": 25934
+			"displayItemId": 25934,
+			"tags": [ "combat-achievement" ]
 		},
 		{
 			"id": "afc8f59d-87d7-4a41-a543-1548e1f98bcb",
@@ -2685,7 +2313,8 @@
 			"tip": "Complete in order Easy through elite, subsequent tasks are +50 CA points",
 			"wikiLink": "https://oldschool.runescape.wiki/w/Combat_Achievements",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Combat_achievements_detail.png/320px-Combat_achievements_detail.png",
-			"displayItemId": 25934
+			"displayItemId": 25934,
+			"tags": [ "combat-achievement" ]
 		},
 		{
 			"id": "1dac8e7b-3bc3-4020-b74b-deac3bbbabde",
@@ -2693,7 +2322,8 @@
 			"tip": "Complete in order Easy through elite, subsequent tasks are +50 CA points",
 			"wikiLink": "https://oldschool.runescape.wiki/w/Combat_Achievements",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Combat_achievements_detail.png/320px-Combat_achievements_detail.png",
-			"displayItemId": 25934
+			"displayItemId": 25934,
+			"tags": [ "combat-achievement" ]
 		},
 		{
 			"id": "4bab41fb-35a5-42a3-9937-c073817fcbf7",
@@ -2701,7 +2331,8 @@
 			"tip": "Complete in order Easy through elite, subsequent tasks are +50 CA points",
 			"wikiLink": "https://oldschool.runescape.wiki/w/Combat_Achievements",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Combat_achievements_detail.png/320px-Combat_achievements_detail.png",
-			"displayItemId": 25934
+			"displayItemId": 25934,
+			"tags": [ "combat-achievement" ]
 		},
 		{
 			"id": "025e5d3f-44cf-4539-972b-06752e7e4178",
@@ -2709,7 +2340,8 @@
 			"tip": "Complete in order Easy through elite, subsequent tasks are +50 CA points",
 			"wikiLink": "https://oldschool.runescape.wiki/w/Combat_Achievements",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Combat_achievements_detail.png/320px-Combat_achievements_detail.png",
-			"displayItemId": 25934
+			"displayItemId": 25934,
+			"tags": [ "combat-achievement" ]
 		},
 		{
 			"id": "5ccb09c9-b8b8-46b0-b9b5-db8129c710fb",
@@ -2717,7 +2349,8 @@
 			"tip": "Complete in order Easy through elite, subsequent tasks are +50 CA points",
 			"wikiLink": "https://oldschool.runescape.wiki/w/Combat_Achievements",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Combat_achievements_detail.png/320px-Combat_achievements_detail.png",
-			"displayItemId": 25934
+			"displayItemId": 25934,
+			"tags": [ "combat-achievement" ]
 		},
 		{
 			"id": "819b3614-9c74-4e53-8f31-dbd404d6acaa",
@@ -2725,7 +2358,8 @@
 			"tip": "Complete in order Easy through elite, subsequent tasks are +50 CA points",
 			"wikiLink": "https://oldschool.runescape.wiki/w/Combat_Achievements",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Combat_achievements_detail.png/320px-Combat_achievements_detail.png",
-			"displayItemId": 25934
+			"displayItemId": 25934,
+			"tags": [ "combat-achievement" ]
 		},
 		{
 			"id": "a7b09ed2-ab52-4d35-b35b-daa26428e701",
@@ -2733,7 +2367,8 @@
 			"tip": "Complete in order Easy through elite, subsequent tasks are +50 CA points",
 			"wikiLink": "https://oldschool.runescape.wiki/w/Combat_Achievements",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Combat_achievements_detail.png/320px-Combat_achievements_detail.png",
-			"displayItemId": 25934
+			"displayItemId": 25934,
+			"tags": [ "combat-achievement" ]
 		},
 		{
 			"id": "d9349bb1-64a5-473e-b8e4-10bd0949e754",
@@ -2741,7 +2376,8 @@
 			"tip": "Complete in order Easy through elite, subsequent tasks are +50 CA points",
 			"wikiLink": "https://oldschool.runescape.wiki/w/Combat_Achievements",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Combat_achievements_detail.png/320px-Combat_achievements_detail.png",
-			"displayItemId": 25934
+			"displayItemId": 25934,
+			"tags": [ "combat-achievement" ]
 		},
 		{
 			"id": "8ba02532-0df7-4294-9056-1d42086e5ad1",
@@ -2749,7 +2385,8 @@
 			"tip": "Complete in order Easy through elite, subsequent tasks are +50 CA points",
 			"wikiLink": "https://oldschool.runescape.wiki/w/Combat_Achievements",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Combat_achievements_detail.png/320px-Combat_achievements_detail.png",
-			"displayItemId": 25934
+			"displayItemId": 25934,
+			"tags": [ "combat-achievement" ]
 		},
 		{
 			"id": "8f3e41b8-b2ff-46e9-a98a-dd721ac6814b",
@@ -2757,7 +2394,8 @@
 			"tip": "Complete in order Easy through elite, subsequent tasks are +50 CA points",
 			"wikiLink": "https://oldschool.runescape.wiki/w/Combat_Achievements",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Combat_achievements_detail.png/320px-Combat_achievements_detail.png",
-			"displayItemId": 25934
+			"displayItemId": 25934,
+			"tags": [ "combat-achievement" ]
 		},
 		{
 			"id": "84fe3ec1-a169-4ba7-a309-781258cb9bae",
@@ -2765,7 +2403,8 @@
 			"tip": "Complete in order Easy through elite, subsequent tasks are +50 CA points",
 			"wikiLink": "https://oldschool.runescape.wiki/w/Combat_Achievements",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Combat_achievements_detail.png/320px-Combat_achievements_detail.png",
-			"displayItemId": 25934
+			"displayItemId": 25934,
+			"tags": [ "combat-achievement" ]
 		},
 		{
 			"id": "5c3ecb1c-5c0b-4bce-948d-250867a1a914",
@@ -2773,7 +2412,8 @@
 			"tip": "Complete in order Easy through elite, subsequent tasks are +50 CA points",
 			"wikiLink": "https://oldschool.runescape.wiki/w/Combat_Achievements",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Combat_achievements_detail.png/320px-Combat_achievements_detail.png",
-			"displayItemId": 25934
+			"displayItemId": 25934,
+			"tags": [ "combat-achievement" ]
 		},
 		{
 			"id": "00e2d932-c6f2-44c6-a0ae-7cbd740bc292",
@@ -2781,7 +2421,8 @@
 			"tip": "Complete in order Easy through elite, subsequent tasks are +50 CA points",
 			"wikiLink": "https://oldschool.runescape.wiki/w/Combat_Achievements",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Combat_achievements_detail.png/320px-Combat_achievements_detail.png",
-			"displayItemId": 25934
+			"displayItemId": 25934,
+			"tags": [ "combat-achievement" ]
 		},
 		{
 			"id": "14c84ab1-3086-4d62-985c-d94577fb512a",
@@ -2789,7 +2430,8 @@
 			"tip": "Complete in order Easy through elite, subsequent tasks are +50 CA points",
 			"wikiLink": "https://oldschool.runescape.wiki/w/Combat_Achievements",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Combat_achievements_detail.png/320px-Combat_achievements_detail.png",
-			"displayItemId": 25934
+			"displayItemId": 25934,
+			"tags": [ "combat-achievement" ]
 		},
 		{
 			"id": "04266cfa-9130-4b81-a510-0a33fd4fd729",
@@ -2797,7 +2439,8 @@
 			"tip": "Complete in order Easy through elite, subsequent tasks are +50 CA points",
 			"wikiLink": "https://oldschool.runescape.wiki/w/Combat_Achievements",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Combat_achievements_detail.png/320px-Combat_achievements_detail.png",
-			"displayItemId": 25934
+			"displayItemId": 25934,
+			"tags": [ "combat-achievement" ]
 		},
 		{
 			"id": "b24bc8b3-5bce-4027-af5c-1a0d8be2f235",
@@ -2805,7 +2448,80 @@
 			"tip": "Complete in order Easy through elite, subsequent tasks are +50 CA points",
 			"wikiLink": "https://oldschool.runescape.wiki/w/Combat_Achievements",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Combat_achievements_detail.png/320px-Combat_achievements_detail.png",
-			"displayItemId": 25934
+			"displayItemId": 25934,
+			"tags": [ "combat-achievement" ]
+		},
+		{
+			"id": "a9ed8741-c122-41a1-b341-3ae95be3c7de",
+			"name": "Get 1 unique drop from God Wars Dungeon",
+			"shortName": "GWD Unique",
+			"tip": "Can be received as a drop from the God Wars Dungeon bosses.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/God_Wars_Dungeon",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Armadyl_helmet_detail.png/320px-Armadyl_helmet_detail.png",
+			"displayItemId": 11826,
+			"tags": [ "boss-unique" ],
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [
+					11785, 11787, 11791, 11810, 11812, 11814, 11816, 11824, 11826, 11828, 11830,
+					11832, 11834, 11836, 11838, 13256, 26235, 26370, 26372, 26376, 26378, 26380
+				],
+				"count": 19
+			}
+		},
+		{
+			"id": "4ad487f1-2218-466b-802b-0d193fa646c2",
+			"name": "Get 1 unique drop from God Wars Dungeon",
+			"shortName": "GWD Unique",
+			"tip": "Can be received as a drop from the God Wars Dungeon bosses.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/God_Wars_Dungeon",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Armadyl_helmet_detail.png/320px-Armadyl_helmet_detail.png",
+			"displayItemId": 11826,
+			"tags": [ "boss-unique" ],
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [
+					11785, 11787, 11791, 11810, 11812, 11814, 11816, 11824, 11826, 11828, 11830,
+					11832, 11834, 11836, 11838, 13256, 26235, 26370, 26372, 26376, 26378, 26380
+				],
+				"count": 20
+			}
+		},
+		{
+			"id": "c3095134-9f6b-4654-99a0-274ecfc2a9f8",
+			"name": "Get 1 unique drop from God Wars Dungeon",
+			"shortName": "GWD Unique",
+			"tip": "Can be received as a drop from the God Wars Dungeon bosses.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/God_Wars_Dungeon",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Armadyl_helmet_detail.png/320px-Armadyl_helmet_detail.png",
+			"displayItemId": 11826,
+			"tags": [ "boss-unique" ],
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [
+					11785, 11787, 11791, 11810, 11812, 11814, 11816, 11824, 11826, 11828, 11830,
+					11832, 11834, 11836, 11838, 13256, 26235, 26370, 26372, 26376, 26378, 26380
+				],
+				"count": 21
+			}
+		},
+		{
+			"id": "8fef72b5-ea91-4fab-950a-2541a0b38e3a",
+			"name": "Get 1 unique drop from God Wars Dungeon",
+			"shortName": "GWD Unique",
+			"tip": "Can be received as a drop from the God Wars Dungeon bosses.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/God_Wars_Dungeon",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Armadyl_helmet_detail.png/320px-Armadyl_helmet_detail.png",
+			"displayItemId": 11826,
+			"tags": [ "boss-unique" ],
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [
+					11785, 11787, 11791, 11810, 11812, 11814, 11816, 11824, 11826, 11828, 11830,
+					11832, 11834, 11836, 11838, 13256, 26235, 26370, 26372, 26376, 26378, 26380
+				],
+				"count": 22
+			}
 		},
 		{
 			"id": "3d3ce83f-0db9-4419-a425-b0071218bc93",
@@ -2814,6 +2530,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Desert_Treasure_II_-_The_Fallen_Empire",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Soulreaper_axe_detail.png/320px-Soulreaper_axe_detail.png",
 			"displayItemId": 28338,
+			"tags": [ "boss-unique" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [
@@ -2830,6 +2547,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Desert_Treasure_II_-_The_Fallen_Empire",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Soulreaper_axe_detail.png/320px-Soulreaper_axe_detail.png",
 			"displayItemId": 28338,
+			"tags": [ "boss-unique" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [
@@ -2846,6 +2564,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Desert_Treasure_II_-_The_Fallen_Empire",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Soulreaper_axe_detail.png/320px-Soulreaper_axe_detail.png",
 			"displayItemId": 28338,
+			"tags": [ "boss-unique" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [
@@ -2862,6 +2581,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Desert_Treasure_II_-_The_Fallen_Empire",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Soulreaper_axe_detail.png/320px-Soulreaper_axe_detail.png",
 			"displayItemId": 28338,
+			"tags": [ "boss-unique" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [
@@ -2878,6 +2598,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Desert_Treasure_II_-_The_Fallen_Empire",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Soulreaper_axe_detail.png/320px-Soulreaper_axe_detail.png",
 			"displayItemId": 28338,
+			"tags": [ "boss-unique" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [
@@ -2894,6 +2615,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Desert_Treasure_II_-_The_Fallen_Empire",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Soulreaper_axe_detail.png/320px-Soulreaper_axe_detail.png",
 			"displayItemId": 28338,
+			"tags": [ "boss-unique" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [
@@ -2910,6 +2632,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Desert_Treasure_II_-_The_Fallen_Empire",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Soulreaper_axe_detail.png/320px-Soulreaper_axe_detail.png",
 			"displayItemId": 28338,
+			"tags": [ "boss-unique" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [
@@ -2926,6 +2649,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Desert_Treasure_II_-_The_Fallen_Empire",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Soulreaper_axe_detail.png/320px-Soulreaper_axe_detail.png",
 			"displayItemId": 28338,
+			"tags": [ "boss-unique" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [
@@ -2942,6 +2666,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Desert_Treasure_II_-_The_Fallen_Empire",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Soulreaper_axe_detail.png/320px-Soulreaper_axe_detail.png",
 			"displayItemId": 28338,
+			"tags": [ "boss-unique" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [
@@ -2958,6 +2683,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Desert_Treasure_II_-_The_Fallen_Empire",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Soulreaper_axe_detail.png/320px-Soulreaper_axe_detail.png",
 			"displayItemId": 28338,
+			"tags": [ "boss-unique" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [
@@ -2974,6 +2700,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Fortis_Colosseum",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Dizana's_quiver_detail.png/320px-Dizana's_quiver_detail.png",
 			"displayItemId": 28951,
+			"tags": [ "boss-unique" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [ 28947, 28933, 28936, 28939, 28942, 28919 ],
@@ -2987,6 +2714,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Fortis_Colosseum",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Dizana's_quiver_detail.png/320px-Dizana's_quiver_detail.png",
 			"displayItemId": 28951,
+			"tags": [ "boss-unique" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [ 28947, 28933, 28936, 28939, 28942, 28919 ],
@@ -3000,6 +2728,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Fortis_Colosseum",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Dizana's_quiver_detail.png/320px-Dizana's_quiver_detail.png",
 			"displayItemId": 28951,
+			"tags": [ "boss-unique" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [ 28947, 28933, 28936, 28939, 28942, 28919 ],
@@ -3007,25 +2736,19 @@
 			}
 		},
 		{
-			"id": "ca700efc-915a-41d0-b7d0-27629190e82e",
-			"name": "Get Quetzin",
-			"tip": "Reward from hunters loot sacks",
-			"wikiLink": "https://oldschool.runescape.wiki/w/Quetzin",
-			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Quetzin_(follower).png/320px-Quetzin_(follower).png",
-			"displayItemId": 28962,
+			"id": "a0940720-7203-4c7e-885b-8eade0702edf",
+			"name": "Get 1 unique from the Gauntlet",
+			"shortName": "The Gauntlet",
+			"tip": "Can be received as a drop from the Gauntlet. Been there done that.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Gauntlet",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Blade_of_Saeldor_(inactive)_detail.png/320px-Blade_of_Saeldor_(inactive)_detail.png",
+			"displayItemId": 25862,
+			"tags": [ "boss-unique" ],
 			"verification": {
 				"method": "collection-log",
-				"itemIds": [ 28962 ],
-				"count": 1
+				"itemIds": [ 4207, 23956, 25859 ],
+				"count": 3
 			}
-		},
-		{
-			"id": "a0940720-7203-4c7e-885b-8eade0702edf",
-			"name": "Get 1 unique from The Gauntlet",
-			"tip": "Reward from The Gauntlet",
-			"wikiLink": "https://oldschool.runescape.wiki/w/Gauntlet",
-			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Enhanced_crystal_weapon_seed_detail.png/320px-Enhanced_crystal_weapon_seed_detail.png",
-			"displayItemId": 25862
 		},
 		{
 			"id": "89505dac-1f9d-4a05-928c-2201f9343ffd",
@@ -3034,6 +2757,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Yama",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Oathplate_chest_detail.png/320px-Oathplate_chest_detail.png",
 			"displayItemId": 30753,
+			"tags": [ "boss-unique" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [
@@ -3049,6 +2773,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Yama",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Oathplate_chest_detail.png/320px-Oathplate_chest_detail.png",
 			"displayItemId": 30753,
+			"tags": [ "boss-unique" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [
@@ -3064,6 +2789,7 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Yama",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Oathplate_chest_detail.png/320px-Oathplate_chest_detail.png",
 			"displayItemId": 30753,
+			"tags": [ "boss-unique" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [
@@ -3079,10 +2805,96 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Doom_of_Mokhaiotl",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Eye_of_Ayak_detail.png/320px-Eye_of_Ayak_detail.png",
 			"displayItemId": 31115,
+			"tags": [ "boss-unique" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [ 31111, 31099, 31109, 31115, 31088 ],
 				"count": 5
+			}
+		},
+		{
+			"id": "be70f64b-4685-4613-b9a2-5e2ed3543e8e",
+			"name": "Get a Brimstone Chest unique",
+			"tip": "Can be obtained by doing Konar slayer and opening Brimstone chests.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Brimstone_chest",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Brimstone_key_detail.png/1024px-Brimstone_key_detail.png",
+			"displayItemId": 23083,
+			"tags": [ "boss-unique" ],
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 22963, 23047, 23050, 23053, 23056, 23059 ],
+				"count": 1
+			}
+		},
+		{
+			"id": "e8e7f5cd-a97f-4df8-b4a2-ff35cfc7a5c4",
+			"name": "Get a Brimstone Chest unique",
+			"tip": "Can be obtained by doing Konar slayer and opening Brimstone chests.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Brimstone_chest",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Brimstone_key_detail.png/1024px-Brimstone_key_detail.png",
+			"displayItemId": 23083,
+			"tags": [ "boss-unique" ],
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 22963, 23047, 23050, 23053, 23056, 23059 ],
+				"count": 2
+			}
+		},
+		{
+			"id": "afe62d76-888d-47c3-b834-48535ac0c9fc",
+			"name": "Get 1 unique piece of the Dagon'hai robes",
+			"shortName": "Dagon'hai Robe",
+			"tip": "Can be received as a drop from the Larren's chest.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Dagon'hai_robes",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Dagon'hai_robe_top_detail.png/320px-Dagon'hai_robe_top_detail.png",
+			"displayItemId": 24291,
+			"tags": [ "boss-unique" ],
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 24288, 24291, 24294 ],
+				"count": 3
+			}
+		},
+		{
+			"id": "dd3aa6a9-286d-42b9-9618-0af5db7d2113",
+			"name": "Get 1 unique from Skotizo",
+			"tip": "Can be obtained by defeating Skotizo.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Dark_claw",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Dark_claw_detail.png/320px-Dark_claw_detail.png",
+			"displayItemId": 21275,
+			"tags": [ "boss-unique" ],
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 21275, 19685 ],
+				"count": 1
+			}
+		},
+		{
+			"id": "2e69f6e7-258e-41cd-b6a4-f7101603c5f3",
+			"name": "Get 1 unique from Skotizo",
+			"tip": "Can be obtained by defeating Skotizo.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Dark_claw",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Dark_claw_detail.png/320px-Dark_claw_detail.png",
+			"displayItemId": 21275,
+			"tags": [ "boss-unique" ],
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 21275, 19685 ],
+				"count": 2
+			}
+		},
+		{
+			"id": "1abf334c-772d-4482-bf65-cece36422127",
+			"name": "Get the Angler's paint",
+			"tip": "Can be rarely obtained while Deep Sea Trawling. Glistening shoals have a slightly higher rate.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Angler's_paint",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Angler's_paint_detail.png/320px-Angler's_paint_detail.png",
+			"displayItemId": 32096,
+			"tags": [ "misc" ],
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 32096 ],
+				"count": 1
 			}
 		},
 		{
@@ -3092,10 +2904,61 @@
 			"wikiLink": "https://oldschool.runescape.wiki/w/Salvor's_paint",
 			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Salvor's_paint_detail.png/320px-Salvor's_paint_detail.png",
 			"displayItemId": 32099,
+			"tags": [ "misc" ],
 			"verification": {
 				"method": "collection-log",
 				"itemIds": [ 32099 ],
 				"count": 1
+			}
+		},
+		{
+			"id": "7385318c-8a9b-4d89-bf18-83ccbfbd1958",
+			"name": "Get a Draconic visage",
+			"tip": "Obtained most commonly from KBD, Vorkath or Black dragons in the Wilderness Slayer Cave.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Draconic_visage",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Draconic_visage_detail.png/320px-Draconic_visage_detail.png",
+			"displayItemId": 11286,
+			"tags": [ "misc" ],
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 11286 ],
+				"count": 1
+			}
+		},
+		{
+			"id": "6b2f1aaf-404f-40f0-9d12-1e3b33b93d75",
+			"name": "Get 1 unique from the Hallowed Sepulchre",
+			"shortName": "Sepulchre",
+			"tip": "Can be received as a drop / purchased from the Hallowed Sepulchre.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Hallowed_Sepulchre",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Hallowed_mark_detail.png/320px-Hallowed_mark_detail.png",
+			"displayItemId": 24711,
+			"tags": [ "misc" ],
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [
+					24711, 24719, 24721, 24723, 24725, 24727, 24729, 24731, 24733, 24740, 24763,
+					24765, 24767, 24769, 24771, 24844
+				],
+				"count": 16
+			}
+		},
+		{
+			"id": "1d2a9ccf-a2f5-4330-9a40-ba03736321bb",
+			"name": "Get 1 unique from Guardians of the Rift",
+			"shortName": "GotR",
+			"tip": "Can be received as a reward from the Guardians of the Rift Skilling minigame.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Guardians_of_the_Rift",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Hat_of_the_Eye_detail.png/120px-Hat_of_the_Eye_detail.png",
+			"displayItemId": 26850,
+			"tags": [ "misc" ],
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [
+					26792, 26798, 26807, 26809, 26811, 26813, 26815, 26820, 26822, 26850, 26852,
+					26854, 26856, 26908, 26910, 26912
+				],
+				"count": 16
 			}
 		}
 	]
