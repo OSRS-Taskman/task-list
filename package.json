@@ -8,6 +8,7 @@
 		"lint:schema": "bun bin/validate-schema.mts",
 		"lint:uuids": "bun bin/validate-uuids.mts",
 		"lint:links": "bun bin/validate-links.mts",
+		"lint:node-types": "bun -e \"console.log('lint:node-types: no-op after Bun migration')\"",
 		"lint": "bun run lint:ultracite && bun run lint:tasks && bun run lint:schema && bun run lint:uuids && bun run lint:links",
 		"gen:types": "bun bin/gen-types.mts",
 		"gen:uuids": "bun bin/validate-uuids.mts --generate",
