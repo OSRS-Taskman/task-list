@@ -16,4 +16,4 @@ jobs:
 
       # we intentionally do not restore cache here
       - name: Lint links
-        run: npm run lint:links
+        run: bun run lint:links

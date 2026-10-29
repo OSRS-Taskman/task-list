@@ -89,11 +89,11 @@ jobs:
 
       - name: Format Code
         shell: bash
-        run: npm run format
+        run: bun run format
 
       - name: Generate UUIDs
         shell: bash
-        run: npm run gen:uuids
+        run: bun run gen:uuids
 
       - name: Commit Changes
         id: commit-changes
@@ -137,18 +137,16 @@ jobs:
 
       - parallel:
           - name: Lint code
-            run: npm run lint:ultracite
+            run: bun run lint:ultracite
 
           - name: Lint tasks
-            run: npm run lint:tasks
+            run: bun run lint:tasks
 
           - name: Lint schema
-            run: npm run lint:schema
+            run: bun run lint:schema
 
           - name: Lint UUIDs
-            run: npm run lint:uuids
-          - name: Lint node types
-            run: npm run lint:node-types
+            run: bun run lint:uuids
 
   lint-links:
     name: Lint Links
@@ -177,7 +175,7 @@ jobs:
             cache-
 
       - name: Lint links
-        run: npm run lint:links
+        run: bun run lint:links
 
   check-types:
     name: Check Typescript Types
@@ -198,7 +196,7 @@ jobs:
       - uses: ./.github/actions/setup
 
       - name: Generate types
-        run: npm run gen:types
+        run: bun run gen:types
 
       - name: Ensure types are up to date
         run: |

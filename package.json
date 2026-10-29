@@ -1,49 +1,37 @@
 {
 	"scripts": {
 		"format:ultracite": "ultracite fix",
-		"format:tasks": "tsx bin/frac.mts tiers/*.json",
-		"format": "npm run format:ultracite && npm run format:tasks",
+		"format:tasks": "bun bin/frac.mts 'tiers/*.json'",
+		"format": "bun run format:ultracite && bun run format:tasks",
 		"lint:ultracite": "ultracite check",
-		"lint:tasks": "tsx bin/frac.mts --lint tiers/*.json",
-		"lint:schema": "tsx bin/validate-schema.mts",
-		"lint:uuids": "tsx bin/validate-uuids.mts",
-		"lint:links": "tsx bin/validate-links.mts",
-		"lint:node-types": "check-node-types --print --source devEngines",
-		"lint": "npm run lint:ultracite && npm run lint:tasks && npm run lint:schema && npm run lint:uuids && npm run lint:links && npm run lint:node-types",
-		"gen:types": "tsx bin/gen-types.mts",
-		"gen:uuids": "tsx bin/validate-uuids.mts --generate",
-		"gen:list:official": "tsx bin/gen-list.mts official easy,medium,hard,elite,master",
-		"all": "npm run format && npm run lint && npm run gen"
+		"lint:tasks": "bun bin/frac.mts --lint 'tiers/*.json'",
+		"lint:schema": "bun bin/validate-schema.mts",
+		"lint:uuids": "bun bin/validate-uuids.mts",
+		"lint:links": "bun bin/validate-links.mts",
+		"lint:node-types": "bun -e \"console.log('lint:node-types: no-op after Bun migration')\"",
+		"lint": "bun run lint:ultracite && bun run lint:tasks && bun run lint:schema && bun run lint:uuids && bun run lint:links",
+		"gen:types": "bun bin/gen-types.mts",
+		"gen:uuids": "bun bin/validate-uuids.mts --generate",
+		"gen:list:official": "bun bin/gen-list.mts official easy,medium,hard,elite,master",
+		"all": "bun run format && bun run lint && bun run gen:types"
 	},
 	"devDependencies": {
 		"@biomejs/biome": "2.2.6",
-		"@tsconfig/node-ts": "^23.6.4",
-		"@tsconfig/node26": "^26.0.0",
-		"@types/ajv": "^0.0.5",
-		"@types/node": "^26",
+		"@tsconfig/bun": "^1.0.11",
+		"@types/bun": "^1.4.4",
 		"ajv": "^8.20.0",
 		"ajv-formats": "^3.0.1",
-		"check-node-types": "github:rmobis/check-node-types#rmobis/devEngines-build",
 		"fastest-levenshtein": "^1.0.16",
 		"fracturedjsonjs": "^4.1.1",
 		"glob": "^11.1.0",
-		"json-schema-to-typescript": "^15.0.4",
+		"json-schema-to-typescript": "^16.0.0",
 		"lefthook": "^1.13.6",
 		"radash": "^12.1.1",
-		"tsx": "^4.23.0",
 		"typescript": "^6.0.3",
 		"ultracite": "^5.6.4"
 	},
-	"devEngines": {
-		"runtime": {
-			"name": "node",
-			"version": "^26",
-			"onFail": "warn"
-		}
-	},
-	"allowScripts": {
-		"esbuild": true,
-		"lefthook": true,
-		"github:rmobis/check-node-types#22b7e71f0c78d7fa951c5c3e45c03f81b97b2949": true
-	}
+	"packageManager": "bun@1.4.3",
+	"trustedDependencies": [
+		"lefthook"
+	]
 }
