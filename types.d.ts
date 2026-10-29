@@ -165,7 +165,8 @@ export interface Task {
  */
 export interface TaskTier {
 	name: string;
-	tasks: Task[];
+	full?: boolean;
+	[k: string]: unknown;
 }
 /**
  * This interface was referenced by `Root`'s JSON-Schema
