@@ -3,16 +3,39 @@
 	"$schema": "https://json-schema.org/draft/2020-12/schema",
 	"type": "object",
 	"required": ["name", "tasks"],
-	"additionalProperties": false,
+	"unevaluatedProperties": false,
 	"properties": {
 		"name": {
 			"type": "string",
 			"maxLength": 128
 		},
-		"tasks": {
-			"type": "array",
-			"items": {
-				"$ref": "task.schema.json"
+		"full": {
+			"type": "boolean"
+		}
+	},
+	"if": {
+		"required": ["full"],
+		"properties": {
+			"full": { "const": true }
+		}
+	},
+	"then": {
+		"properties": {
+			"tasks": {
+				"type": "array",
+				"items": {
+					"$ref": "full-task.schema.json"
+				}
+			}
+		}
+	},
+	"else": {
+		"properties": {
+			"tasks": {
+				"type": "array",
+				"items": {
+					"$ref": "task.schema.json"
+				}
 			}
 		}
 	}
