@@ -1,5 +1,6 @@
 import { readFile } from 'node:fs/promises';
-import { Ajv } from 'ajv';
+// @ts-expect-error: typescript refuses to load the types for the dist/2020 export
+import Ajv from 'ajv/dist/2020';
 import addFormats from 'ajv-formats';
 import { Glob } from 'glob';
 
