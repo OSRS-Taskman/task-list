@@ -17,7 +17,7 @@ jobs:
       - uses: ./.github/actions/setup
 
       - name: Generate list
-        run: npm run gen:list:official
+        run: bun run gen:list:official
 
       - name: Checkout plugin repository
         uses: actions/checkout@v7

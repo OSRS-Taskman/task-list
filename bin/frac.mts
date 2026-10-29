@@ -4,8 +4,8 @@
  * Passing `--lint` as the **first** argument will cause the program to act as a very simple
  * linter, not modifying any file and exiting with an error code if any issues were found.
  *
- * Usage: `npx tsx frac.mts [--lint] <file-glob1> [<file-glob2> ...]`
- * Example: `npx tsx frac.mts tasks/*.json`
+ * Usage: `bun frac.mts [--lint] <file-glob1> [<file-glob2> ...]`
+ * Example: `bun frac.mts tasks/*.json`
  */
 import { readFile, writeFile } from 'node:fs/promises';
 import { performance } from 'node:perf_hooks';
