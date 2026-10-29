@@ -23,17 +23,17 @@ export interface Task {
 	tags?: KeyNameFromDefinitionItems[];
 	verification?:
 		| {
-				method: Method;
+				method: 'collection-log';
 				itemIds: number[];
 				count: number;
 		  }
 		| {
-				method: Method1;
+				method: 'achievement-diary';
 				region: Region;
 				difficulty: Difficulty;
 		  }
 		| {
-				method: Method2;
+				method: 'skill';
 				experience: {
 					/**
 					 * This interface was referenced by `Task`'s JSON-Schema
@@ -182,12 +182,6 @@ export interface TaskList {
 export const enum KeyNameFromDefinitionItems {
 	Lms = 'lms'
 }
-export const enum Method {
-	CollectionLog = 'collection-log'
-}
-export const enum Method1 {
-	AchievementDiary = 'achievement-diary'
-}
 /**
  * This interface was referenced by `Task`'s JSON-Schema
  * via the `definition` "diary-region".
@@ -215,7 +209,4 @@ export const enum Difficulty {
 	Medium = 'medium',
 	Hard = 'hard',
 	Elite = 'elite'
-}
-export const enum Method2 {
-	Skill = 'skill'
 }

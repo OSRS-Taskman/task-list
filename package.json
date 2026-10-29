@@ -27,7 +27,7 @@
 		"fastest-levenshtein": "^1.0.16",
 		"fracturedjsonjs": "^4.1.1",
 		"glob": "^11.1.0",
-		"json-schema-to-typescript": "^15.0.4",
+		"json-schema-to-typescript": "^16.0.0",
 		"lefthook": "^1.13.6",
 		"radash": "^12.1.1",
 		"tsx": "^4.23.0",
