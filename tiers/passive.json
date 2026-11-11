@@ -818,6 +818,58 @@
 				"itemIds": [ 34667 ],
 				"count": 1
 			}
+		},
+		{
+			"id": "",
+			"name": "Get the Fragment of deep water",
+			"tip": "Water.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Fragment_of_deep_water",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Fragment_of_deep_water.png/320px-Fragment_of_deep_water.png",
+			"displayItemId": 34673,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 34673 ],
+				"count": 1
+			}
+		},
+		{
+			"id": "",
+			"name": "Get the Fragment of living earth",
+			"tip": "Earth.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Fragment_of_living_earth",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Fragment_of_living_earth_detail.png/320px-Fragment_of_living_earth_detail.png",
+			"displayItemId": 34671,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 34671 ],
+				"count": 1
+			}
+		},
+		{
+			"id": "",
+			"name": "Get the Fragment of burning fire",
+			"tip": "Fire.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Fragment_of_burning_fire",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Fragment_of_burning_fire.png/320px-Fragment_of_burning_fire.png",
+			"displayItemId": 34677,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 34677 ],
+				"count": 1
+			}
+		},
+		{
+			"id": "",
+			"name": "Get the Fragment of whispering wind",
+			"tip": "Air. Long ago, the four nations lived together in harmony. Then, everything changed when the Fire Nation attacked.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Fragment_of_whispering_wind",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Fragment_of_whispering_wind_detail.png/320px-Fragment_of_whispering_wind_detail.png",
+			"displayItemId": 34675,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 34675 ],
+				"count": 1
+			}
 		}
 	]
 }
