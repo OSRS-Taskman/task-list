@@ -753,6 +753,71 @@
 				"itemIds": [ 31800 ],
 				"count": 1
 			}
+		},
+		{
+			"id": "",
+			"name": "Get the Living record (tier 1)",
+			"tip": "Can be obtained by completing The Fractured Archive 100 times.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Living_record_(tier_1)",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Living_record_(tier_1)_detail.png/320px-Living_record_(tier_1)_detail.png",
+			"displayItemId": 34659,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 34659 ],
+				"count": 1
+			}
+		},
+		{
+			"id": "",
+			"name": "Get the Living record (tier 2)",
+			"tip": "Can be obtained by completing The Fractured Archive 500 times.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Living_record_(tier_2)",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Living_record_(tier_2)_detail.png/320px-Living_record_(tier_2)_detail.png",
+			"displayItemId": 34661,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 34661 ],
+				"count": 1
+			}
+		},
+		{
+			"id": "",
+			"name": "Get the Living record (tier 3)",
+			"tip": "Can be obtained by completing The Fractured Archive 1000 times.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Living_record_(tier_3)",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Living_record_(tier_3)_detail.png/320px-Living_record_(tier_3)_detail.png",
+			"displayItemId": 34663,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 34663 ],
+				"count": 1
+			}
+		},
+		{
+			"id": "",
+			"name": "Get the Living record (tier 4)",
+			"tip": "Can be obtained by completing The Fractured Archive 1500 times.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Living_record_(tier_4)",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Living_record_(tier_4)_detail.png/320px-Living_record_(tier_4)_detail.png",
+			"displayItemId": 34665,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 34665 ],
+				"count": 1
+			}
+		},
+		{
+			"id": "",
+			"name": "Get the Living record (tier 5)",
+			"tip": "Can be obtained by completing The Fractured Archive 2000 times.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Living_record_(tier_5)",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Living_record_(tier_5)_detail.png/320px-Living_record_(tier_5)_detail.png",
+			"displayItemId": 34667,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 34667 ],
+				"count": 1
+			}
 		}
 	]
 }
