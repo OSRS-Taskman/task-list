@@ -860,6 +860,19 @@
 			}
 		},
 		{
+			"id": "8fb12609-eb12-46f4-9eb3-6b04766125e4",
+			"name": "Mr McGroot",
+			"tip": "Can be obtained by hunting goats on Wyrmscraig.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Mr_McGroot",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Mr_McGroot_(follower).png/320px-Mr_McGroot_(follower).png",
+			"displayItemId": 34040,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 34040 ],
+				"count": 1
+			}
+		},
+		{
 			"id": "912bade7-f606-4968-8e11-9360a4dcd959",
 			"name": "Orion",
 			"tip": "Can be obtained from Fred.",
