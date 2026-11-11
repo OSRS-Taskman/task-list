@@ -3702,6 +3702,20 @@
 				"itemIds": [ 22838 ],
 				"count": 1
 			}
+		},
+		{
+			"id": "",
+			"name": "Get Ascension shards",
+			"shortName": "Asc. Shards",
+			"tip": "Can be mined from Ascencion rocks near The Fractured Archive's entrance.",
+			"wikiLink": "https://oldschool.runescape.wiki/w/Ascension_shards",
+			"imageLink": "https://oldschool.runescape.wiki/images/thumb/Ascension_shards_detail.png/320px-Ascension_shards_detail.png",
+			"displayItemId": 34669,
+			"verification": {
+				"method": "collection-log",
+				"itemIds": [ 34669 ],
+				"count": 1
+			}
 		}
 	]
 }
